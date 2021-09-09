@@ -1,0 +1,235 @@
+[Google Cloud Build](https://cloud.google.com/cloud-build) enables you
+to build container images and other artifacts from application source
+code. You can configure builds to fetch dependencies, run unit tests,
+static analyses, and integration tests, and create artifacts with build
+tools like docker, gradle, maven, bazel, and gulp. Builds run on
+Google-hosted infrastructure with 120 free build minutes a day and up to
+10 concurrent builds.
+
+This Jenkins plugin allows you to call Cloud Build as a build step.
+
+# Prerequisites
+
+-   In order to run Google Cloud Build, you must set up a Google Cloud
+    account and [enable the
+    API](https://cloud.google.com/cloud-build/docs/quickstarts/curl).
+
+-   You must have a [Jenkins instance set up and
+    running](https://jenkins.io/doc/book/getting-started/).
+
+-   The Cloud Build plugin uses
+    [google-oauth-plugin](https://wiki.jenkins.io/display/JENKINS/Google+OAuth+Plugin)
+    to allow the user to specify credentials for connecting to the cloud
+    instance. You will need to create a Service Account key in the
+    Google Cloud project, then in Jenkins select Google Service Account
+    from private key and upload the private key. Alternatively, if your
+    Jenkins master is running on [Google Compute
+    Engine](https://cloud.google.com/compute/), credentials may be
+    obtained from the [metadata
+    server](https://cloud.google.com/compute/docs/storing-retrieving-metadata). See
+    the [google oauth plugin instructions
+    ](https://wiki.jenkins.io/display/JENKINS/Google+OAuth+Plugin)for
+    more details and links.
+
+-   Some of the examples below use the
+    [google-storage-plugin](https://wiki.jenkins.io/display/JENKINS/Google+Cloud+Storage+Plugin)
+    to upload and download files from Google Cloud Storage.  Please
+    refer to the [google-storage-plugin
+    instructions](https://wiki.jenkins.io/display/JENKINS/Google+Cloud+Storage+Plugin)
+    for more details on its usage.
+
+# Hello world
+
+The Google Cloud Build Plugin takes a build request in JSON or YAML, in
+the same format as is accepted by [Cloud Build through
+curl](https://cloud.google.com/cloud-build/docs/quickstarts/curl) or
+[through
+gcloud](https://cloud.google.com/cloud-build/docs/quickstarts/gcloud),
+and sends it to the cloud. See Writing [Custom Build
+Requests](https://cloud.google.com/cloud-build/docs/how-to/writing-build-requests)
+for more information on composing the build request.
+
+The Build step requires selecting the credentials that were configured
+above, and the Build Request. The build request may be specified inline
+(as demonstrated below), or from a file located in the Jenkins
+workspace.
+
+After the command is sent, the plugin polls the Cloud Build to check the
+status. If the step fails, the Jenkins step is failed. If it succeeds,
+the Jenkins step succeeds.
+
+![](https://raw.githubusercontent.com/jenkinsci/google-cloudbuild-plugin/master/docs/images/hello-world.png){width="700"}  
+
+In this example, the build request runs a simple step: in the Ubuntu
+docker image, which is available by default, it runs the command "echo
+hello world".
+
+Once the build has started, a link to the build log in Google Cloud
+Console will be appear in the side panel under the Jenkins build.
+
+![](https://raw.githubusercontent.com/jenkinsci/google-cloudbuild-plugin/master/docs/images/build-log-action.png){width="350"}  
+
+# Custom substitutions
+
+The input for this plugin is compatible with the YAML files you would
+use with curl or gcloud. To maintain this compatibility, we do not
+perform any Jenkins substitutions on the build request. For example, if
+the build request contains the string "$BUILD\_ID", it will be passed
+as-is to Cloud Build, which will interpret it as a [built-in
+substitution](https://cloud.google.com/cloud-build/docs/concepts/build-requests#substitutions)
+(in this case, $BUILD\_ID will be replaced by Cloud Build's build ID).
+
+To allow customization using Jenkins variables, the plugin allows adding
+user-defined substitutions, in [the same format as in the build
+request](https://cloud.google.com/cloud-build/docs/concepts/build-requests#substitutions).
+The value of the custom substitutions is interpreted using the standard
+Jenkins rules. The example below shows how Jenkins variables can be used
+in a build request:
+
+The "Key" fields are subject to the same constraints as the
+[user-defined
+substitutions](https://cloud.google.com/cloud-build/docs/concepts/build-requests#substitutions)
+in Cloud Build. The "Value" fields for \_CUSTOM1 and \_CUSTOM2 are
+interpreted through Jenkins at runtime, and the bindings are passed to
+Cloud Build.
+
+![](https://raw.githubusercontent.com/jenkinsci/google-cloudbuild-plugin/master/docs/images/substitutions.png){width="700"}  
+
+# Attaching Source Code
+
+To attach source code to your Google Cloud Build build request, check
+the "Attach source" box, select the type of source you wish to attach,
+and complete the associated fields. You may attach source code from the
+local workspace, from Google Cloud Storage, or from a Google Cloud
+Source Repository.
+
+## Local
+
+This option is useful, for example, if you use another Jenkins plugin to
+download source code into your local workspace. Specify the path to the
+directory within the Jenkins workspace whose contents you wish to
+attach. This directory will be archived and uploaded to a temporary
+bucket in Google Cloud Storage.
+
+![](https://raw.githubusercontent.com/jenkinsci/google-cloudbuild-plugin/master/docs/images/local.png){width="700"}  
+
+Once the build starts, a link to the Google Cloud Storage bucket (in
+Cloud Console) will appear in the side panel for the Jenkins build.
+
+![](https://raw.githubusercontent.com/jenkinsci/google-cloudbuild-plugin/master/docs/images/storage-action.png){width="350"}  
+
+## Google Cloud Storage
+
+If you already have an archive of your source stored in Google Cloud
+Storage (for example, an archive uploaded in a previous step using the
+[google-storage-plugin](https://wiki.jenkins.io/display/JENKINS/Google+Cloud+Storage+Plugin)),
+provide the bucket name and the path within the bucket to the archive.
+
+![](https://raw.githubusercontent.com/jenkinsci/google-cloudbuild-plugin/master/docs/images/storage.png){width="700"}  
+
+Once the build starts, a link to the Google Cloud Storage bucket (in
+Cloud Console) will appear in the side panel for the Jenkins build.
+
+## Google Cloud Source Repository
+
+If your code is hosted in a Google Cloud Source Repository, specify the
+project ID (if different from the project associated with your
+credentials), repository name (if other than "default"), and the branch,
+tag, or commit from which you wish to build.
+
+ 
+
+![](https://raw.githubusercontent.com/jenkinsci/google-cloudbuild-plugin/master/docs/images/repo.png){width="700"}
+
+To attach a source repository from a project other than the project
+associated with your credentials, the requestor's service account as a
+[member with read
+access](https://cloud.google.com/source-repositories/docs/setting-up-repositories)
+to the source repository. To obtain the service account email, either
+look up the Cloud Build service account, or simply try this step without
+permissions and get the email from the error message.
+
+Once the build starts, a link to the Google Cloud Source Repository (in
+Cloud Platform Console) will appear in the side panel for the Jenkins
+build.
+
+![](https://raw.githubusercontent.com/jenkinsci/google-cloudbuild-plugin/master/docs/images/repo-action.png){width="350"}  
+
+# Pipeline as Code
+
+[Jenkins Pipeline](https://jenkins.io/solutions/pipeline/) allows for
+the build/test/deploy pipeline to be specified in the form of
+[Groovy](http://groovy-lang.org/) code, which may be stored in a file
+(Jenkinsfile) included alongside the rest of the source code under
+version control. Cloud Build may also be invoked from a pipeline. For
+example:
+
+    node {
+
+        stage('Build') {
+
+            def message = 'Hello, World!'
+
+     
+
+            googleCloudBuild \
+
+                credentialsId: 'my-project',
+
+                source: local('src'),
+
+                request: file('cloudbuild.yaml'),
+
+                substitutions: [
+
+                    _CUSTOM1: message,
+
+                    _CUSTOM2: "Lorem ipsum, dolor sit amet."
+
+                ]
+
+        }
+
+    }
+
+ 
+
+This example archives the contents of the src directory and uploads the
+resulting tgz-file to Cloud Storage. The build request stored in
+cloudbuild.yaml is then sent to Cloud Build using the credentials for
+the my-project and with the custom variables `_CUSTOM1` and `_CUSTOM2`
+attached to the request.
+
+The **`googleCloudBuild`** function accepts the following parameters:
+
+**`credentialsId`** (required) - the string identifying which
+credentials (provided by the Google OAuth plugin) to send in the request
+
+**`request`** (required) - the build request to send to Cloud Build.
+This must be one of the following:
+
+-   **`file(`***`filename`**`)`*** - sends the contents of filename as
+    the build request
+
+-   **`inline(`**`request`**`)`** - sends request (a YAML or JSON
+    string) as the build request
+
+**`source`** (optional) - the source to attach to the build request. If
+provided, this must be one of the following:
+
+-   **`local(`***`path`**`)`*** - archives the contents of path, uploads
+    the resulting tgz to Cloud Storage and uses that as the source in
+    the build request
+
+-   **`storage(bucket: `**`bucket`**`, object: `**`object`**`)`** - uses
+    an existing Cloud Storage object as the source in the build request
+
+-   **`repo(projectId: `**`projectId`**`, repoName: `**`repoName`**`, branch: `**`branch`**`, tag: `**`tag`**`, commit: `**`commit`**`)`** -
+    uses a Cloud Source Repository as the source in the build request.
+    Exactly one of branch, tag, or commit must be specified. The
+    projectId and repoName parameters may be omitted, in which case the
+    same semantics are used as [described in the API
+    documentation](https://cloud.google.com/cloud-build/docs/api/reference/rest/v1/RepoSource)
+
+**`substitutions`** (optional) - a map indicating the custom
+substitutions to include in the request

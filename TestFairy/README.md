@@ -1,12 +1,3 @@
-| Plugin Information                                                                              |
-|-------------------------------------------------------------------------------------------------|
-| View TestFairy [on the plugin site](https://plugins.jenkins.io/TestFairy) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1062)
 
 This plugin helps you to upload Android APKs or iOS IPA files to
 [www.testfairy.com](http://www.testfairy.com/)

@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                                      |
-|-----------------------------------------------------------------------------------------------------------------------------------------|
-| View AWS CloudWatch Logs Publisher [on the plugin site](https://plugins.jenkins.io/aws-cloudwatch-logs-publisher) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [AWS CloudWatch Logs Publisher Plugin stores credentials in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-830)
 
   
 

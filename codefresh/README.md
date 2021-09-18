@@ -1,12 +1,3 @@
-| Plugin Information                                                                                          |
-|-------------------------------------------------------------------------------------------------------------|
-| View Codefresh Integration [on the plugin site](https://plugins.jenkins.io/codefresh) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [SSL/TLS certificate validation globally and unconditionally
-    disabled](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-931)
 
 ![](docs/images/codefresh_logo_f_left-nc_(1).png){width="400"}
 

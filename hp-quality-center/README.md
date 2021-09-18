@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------|
-| View HP ALM Quality Center [on the plugin site](https://plugins.jenkins.io/hp-quality-center) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Password stored in plain
-    text](https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1576)
 
 Allows users to synchronize test results from Jenkins with HP ALM
 Quality Center.

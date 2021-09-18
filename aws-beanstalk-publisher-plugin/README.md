@@ -1,14 +1,5 @@
 Publish zip files to Amazon Web Service Elastic Beanstalk Applications.
 
-| Plugin Information                                                                                                                         |
-|--------------------------------------------------------------------------------------------------------------------------------------------|
-| View AWS Elastic Beanstalk Publisher [on the plugin site](https://plugins.jenkins.io/aws-beanstalk-publisher-plugin) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-831)
 
 # Amazon Web Services Elastic Beanstalk Publisher
 

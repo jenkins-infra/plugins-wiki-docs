@@ -1,12 +1,3 @@
-| Plugin Information                                                                                   |
-|------------------------------------------------------------------------------------------------------|
-| View Nerrvana [on the plugin site](https://plugins.jenkins.io/nerrvana-plugin) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [XXE
-    vulnerability](https://www.jenkins.io/security/advisory/2020-10-08/#SECURITY-2097)
 
 The Nerrvana Jenkins plugin allows you to automate functional and cross
 browser Selenium testing of your web applications in [Nerrvana

@@ -1,14 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credential transmitted in plain
-    text](https://jenkins.io/security/advisory/2020-02-12/#SECURITY-1684)
--   [Missing permission
-    check](https://www.jenkins.io/security/advisory/2021-05-11/#SECURITY-2201)
--   [Missing permission checks allow obtaining metadata about
-    artifacts](https://www.jenkins.io/security/advisory/2021-05-11/#SECURITY-2200)
--   [Cross-site scripting vulnerability in artifact file
-    names](https://jenkins.io/security/advisory/2018-04-16/#SECURITY-730)
 
 Upload build artifacts to Amazon S3
 

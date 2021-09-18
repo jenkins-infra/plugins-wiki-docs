@@ -1,10 +1,3 @@
-| Plugin Information                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------|
-| View Performance Publisher [on the plugin site](https://plugins.jenkins.io/perfpublisher) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin generates global and trend reports for tests results
 analysis. Based on an open XML tests results format, the plugin parses

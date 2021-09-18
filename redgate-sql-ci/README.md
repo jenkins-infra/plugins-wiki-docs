@@ -1,14 +1,3 @@
-| Plugin Information                                                                                                       |
-|--------------------------------------------------------------------------------------------------------------------------|
-| View Redgate SQL Change Automation [on the plugin site](https://plugins.jenkins.io/redgate-sql-ci) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1598)
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2020-01-15/#SECURITY-1696)
 
 ## Who is this plugin for?
 

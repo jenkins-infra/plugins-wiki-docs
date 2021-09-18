@@ -4,20 +4,6 @@ The GitHub Authentication Plugin provides a means of using GitHub for
 authentication and authorization to secure Jenkins. GitHub Enterprise is
 also supported.
 
-| Plugin Information                                                                                             |
-|----------------------------------------------------------------------------------------------------------------|
-| View GitHub Authentication [on the plugin site](https://plugins.jenkins.io/github-oauth) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [CSRF vulnerability in OAuth
-    callback](https://jenkins.io/security/advisory/2019-04-30/#SECURITY-443)
--   [Client secret displayed in plain
-    text](https://jenkins.io/security/advisory/2019-01-28/#SECURITY-602)
--   [Session fixation
-    vulnerability](https://jenkins.io/security/advisory/2019-01-28/#SECURITY-797)
-
 **On this page:**
 
 ## Setup

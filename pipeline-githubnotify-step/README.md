@@ -1,10 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [CSRF vulnerability and missing permission checks allows capturing
-    credentials](https://jenkins.io/security/advisory/2020-02-12/#SECURITY-812%20(1))
--   [Users with Overall/Read access can enumerate credential
-    IDs](https://jenkins.io/security/advisory/2020-02-12/#SECURITY-812%20(2))
 
 This step allows a pipeline job to notify a status for any GitHub
 commit.

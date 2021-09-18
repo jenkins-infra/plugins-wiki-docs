@@ -1,12 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [XXE
-    vulnerability](https://www.jenkins.io/security/advisory/2021-08-31/#SECURITY-2411)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 View type to allow grouping job views into multiple levels instead of
 one big list of tabs.

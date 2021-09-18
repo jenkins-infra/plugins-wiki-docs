@@ -1,12 +1,3 @@
-| Plugin Information                                                                  |
-|-------------------------------------------------------------------------------------|
-| View SSH [on the plugin site](https://plugins.jenkins.io/ssh) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials are stored in unencrypted configuration
-    files](https://jenkins.io/security/advisory/2017-07-10/)
 
 ### Plugin info
 

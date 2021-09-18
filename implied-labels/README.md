@@ -1,8 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Missing permission check allows reconfiguring the
-    plugin](https://www.jenkins.io/security/advisory/2020-09-23/#SECURITY-2004)
 
 # Implied Labels Plugin
 

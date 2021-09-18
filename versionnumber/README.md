@@ -1,10 +1,3 @@
-| Plugin Information                                                                                       |
-|----------------------------------------------------------------------------------------------------------|
-| View Version Number [on the plugin site](https://plugins.jenkins.io/versionnumber) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin creates a new version number and stores it in the
 environment variable whose name you specify in the configuration.

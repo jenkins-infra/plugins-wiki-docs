@@ -1,10 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Reflected XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1728%20(2))
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1728%20(1))
 
 This plugin records screen of current build or other configured VNC
 session as Shock Wave Flash (swf) file during a build and stores it as

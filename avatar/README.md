@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Missing permission check allows changing avatars of other
-    users](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-1099)
 
 This plugin allows avatar images to be uploaded and associated with
 Jenkins users.

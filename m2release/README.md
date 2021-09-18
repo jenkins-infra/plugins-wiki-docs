@@ -1,18 +1,3 @@
-| Plugin Information                                                                                          |
-|-------------------------------------------------------------------------------------------------------------|
-| View Maven Release Plug-in [on the plugin site](https://plugins.jenkins.io/m2release) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1435)
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1184)
--   [XXE
-    vulnerability](https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1681)
--   [CSRF
-    vulnerability](https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1098)
 
 This plugin allows you to perform a release build using the
 [maven-release-plugin](http://maven.apache.org/plugins/maven-release-plugin/)

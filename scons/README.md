@@ -1,12 +1,4 @@
-| Plugin Information                                                                      |
-|-----------------------------------------------------------------------------------------|
-| View SCons [on the plugin site](https://plugins.jenkins.io/scons) for more information. |
 
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
-  
 This plugin allows Hudson to invoke [SCons](http://www.scons.org/) build
 script as the main build step.  
   

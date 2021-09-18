@@ -1,10 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Persisted cross-site scripting vulnerability in build
-    badges](https://jenkins.io/security/advisory/2018-05-09/#SECURITY-821)
--   [Arbitrary code execution
-    vulnerability](https://jenkins.io/security/advisory/2017-04-10/)
 
 This plugin executes a groovy script in the Jenkins JVM. Typically, the
 script checks some conditions and changes accordingly the build result,

@@ -1,19 +1,5 @@
 Use File System as SCM.
 
-| Plugin Information                                                                                         |
-|------------------------------------------------------------------------------------------------------------|
-| View File System SCM [on the plugin site](https://plugins.jenkins.io/filesystem_scm) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Arbitrary file read
-    vulnerability](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-569)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 Simulate File System as SCM by checking file system last modified date,
 checkout(), pollChanges(), ChangeLog and distributed build are all
 supported.

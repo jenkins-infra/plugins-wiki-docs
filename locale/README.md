@@ -1,10 +1,3 @@
-| Plugin Information                                                                        |
-|-------------------------------------------------------------------------------------------|
-| View Locale [on the plugin site](https://plugins.jenkins.io/locale) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin controls the language of JenkinsNormally, Jenkins honors the
 browser's language preference if a translation is available for the

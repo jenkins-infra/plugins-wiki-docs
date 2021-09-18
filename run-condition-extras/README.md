@@ -1,16 +1,3 @@
-| Plugin Information                                                                                                    |
-|-----------------------------------------------------------------------------------------------------------------------|
-| View Run Condition Extras [on the plugin site](https://plugins.jenkins.io/run-condition-extras) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
-  
-
-  
-
-  
 
 This plugin provides additional run conditions and integrations for [Run
 Condition

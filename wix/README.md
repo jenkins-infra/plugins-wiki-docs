@@ -27,12 +27,6 @@ Versions prior to **1.11** do not work properly because they use
 absolute file paths or missing the full usage of Jenkins internal
 process launcher.
 
-------------------------------------------------------------------------
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 # Pre-requisites
 
 Additional to this plugin you have to download and install [WIX

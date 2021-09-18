@@ -1,6 +1,3 @@
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plug-in integrates **Jenkins** with Testopia and generates reports
 on automated test execution. With this plug-in you can manage your tests

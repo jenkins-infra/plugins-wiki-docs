@@ -1,17 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [CSRF vulnerability in Git plugin allows capturing
-    credentials](https://jenkins.io/security/advisory/2017-07-10/)
--   [CSRF
-    vulnerability](https://jenkins.io/security/advisory/2019-01-28/#SECURITY-1095)
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1723)
--   [Server-side request
-    forgery](https://jenkins.io/security/advisory/2018-06-04/#SECURITY-810)
--   [Users without Overall/Read are able to access lists of user names
-    and node
-    names](https://jenkins.io/security/advisory/2018-02-26/#SECURITY-723)
 
 This plugin allows use of [Git](http://git-scm.com/) as a build SCM,
 including repository browsers for several providers. A recent Git

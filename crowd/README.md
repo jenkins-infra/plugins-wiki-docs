@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Crowd Integration Plugin stores credentials in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1069)
 
 # Crowd plugin
 

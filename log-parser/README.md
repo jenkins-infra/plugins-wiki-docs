@@ -1,8 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-09-25/#SECURITY-732)
 
 Parse the console output and highlight error/warning/info lines.
 

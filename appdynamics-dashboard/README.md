@@ -1,9 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-03-06/#SECURITY-1087)
-
 This plugin integrates with [AppDynamics](http://www.appdynamics.com/)
 to fetch measurements.
 

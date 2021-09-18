@@ -1,16 +1,3 @@
-| Plugin Information                                                                              |
-|-------------------------------------------------------------------------------------------------|
-| View Harvest SCM [on the plugin site](https://plugins.jenkins.io/harvest) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Passwords stored in plain
-    text](https://jenkins.io/security/advisory/2020-02-12/#SECURITY-1553)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin allows you to use [CA
 Harvest](http://www.ca.com/us/products/product.aspx?id=255) as a SCM.

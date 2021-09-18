@@ -1,12 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF
-    vulnerability](https://www.jenkins.io/security/advisory/2020-10-08/#SECURITY-2052)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin makes it possible to share objects (script file, source
 file, tool installation, ...) from an environment in Jenkins and manage

@@ -1,12 +1,3 @@
-| Plugin Information                                                                                     |
-|--------------------------------------------------------------------------------------------------------|
-| View Deploy to container [on the plugin site](https://plugins.jenkins.io/deploy) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Insecure credential
-    storage](https://jenkins.io/security/advisory/2017-08-07/)
 
 This plugin takes a war/ear file and deploys that to a running remote
 application server at the end of a build. The implementation is based on

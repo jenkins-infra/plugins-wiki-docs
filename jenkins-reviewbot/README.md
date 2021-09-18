@@ -1,16 +1,3 @@
-| Plugin Information                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------|
-| View jenkins-reviewbot [on the plugin site](https://plugins.jenkins.io/jenkins-reviewbot) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission check allow
-    SSRF](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1091)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin pulls a diff from reviewboard request, applies the patch,
 builds it and reports the build status as a review comment

@@ -1,12 +1,3 @@
-| Plugin Information                                                                            |
-|-----------------------------------------------------------------------------------------------|
-| View RadarGun [on the plugin site](https://plugins.jenkins.io/radargun) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [RCE
-    vulnerability](https://jenkins.io/security/advisory/2020-02-12/#SECURITY-1733)
 
 This plugin allows to run
 [RadarGun](https://github.com/radargun/radargun) benchmark as a Jenkins

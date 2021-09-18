@@ -3,16 +3,6 @@
 A plugin for Jenkins CI to update JIRA tickets in an extensible way:
 both what to update and how to up date are exposed as Extension Points
 
-| Plugin Information                                                                            |
-|-----------------------------------------------------------------------------------------------|
-| View jira-ext [on the plugin site](https://plugins.jenkins.io/jira-ext) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-17/#SECURITY-836)
-
 # Release Notes
 
 0.8 March 23 2019

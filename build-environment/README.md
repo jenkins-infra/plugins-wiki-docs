@@ -1,13 +1,3 @@
-| Plugin Information                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------|
-| View Build Environment [on the plugin site](https://plugins.jenkins.io/build-environment) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-09-12/#SECURITY-1476)
-
 This plugin shows information about the environment of a build and gives
 the option to compare the environments of two builds.
 

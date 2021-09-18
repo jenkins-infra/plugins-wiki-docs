@@ -11,16 +11,6 @@ the on-line documentation:
 
  
 
-| Plugin Information                                                                                   |
-|------------------------------------------------------------------------------------------------------|
-| View eggPlant [on the plugin site](https://plugins.jenkins.io/eggplant-plugin) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-1430)
-
 This plugin calls Eggplant scripts as a Jenkins Build Action and returns
 the results to Jenkins for review or further processing.
 

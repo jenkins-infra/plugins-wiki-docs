@@ -1,10 +1,3 @@
-| Plugin Information                                                                                |
-|---------------------------------------------------------------------------------------------------|
-| View VirtualBox [on the plugin site](https://plugins.jenkins.io/virtualbox) for more information. |
-
-**This plugin is up for adoption.** Proposing a new maintainer to
-support plugin. [Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin integrates Jenkins with
 [VirtualBox](http://www.virtualbox.org/) (version 3, 4.0, 4.1, 4.2 and

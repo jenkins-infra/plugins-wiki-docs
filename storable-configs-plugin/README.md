@@ -1,10 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Arbitrary file read
-    vulnerability](https://www.jenkins.io/security/advisory/2020-09-16/#SECURITY-1968%20(1))
--   [Arbitrary file write
-    vulnerability](https://www.jenkins.io/security/advisory/2020-09-16/#SECURITY-1968%20(2))
 
 This plugin allows you to save and load set of job parameters.
 

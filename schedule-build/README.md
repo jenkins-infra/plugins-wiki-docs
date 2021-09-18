@@ -2,14 +2,6 @@ Adds capability to schedule a build for a later point in time. Asks the
 user for a date and time and adds the build to the build queue with the
 respective quiet period.
 
-| Plugin Information                                                                                        |
-|-----------------------------------------------------------------------------------------------------------|
-| View Schedule Build [on the plugin site](https://plugins.jenkins.io/schedule-build) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 # Scheduling Builds
 
 Press the "Schedule Build" link on the project page or use the schedule

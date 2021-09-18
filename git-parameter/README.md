@@ -1,14 +1,3 @@
-| Plugin Information                                                                                      |
-|---------------------------------------------------------------------------------------------------------|
-| View Git Parameter [on the plugin site](https://plugins.jenkins.io/git-parameter) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1884)
--   [Multiple stored XSS
-    vulnerabilities](https://jenkins.io/security/advisory/2020-02-12/#SECURITY-1709)
 
 ### Adds ability to choose branches, tags or revisions from git repository configured in project.
 

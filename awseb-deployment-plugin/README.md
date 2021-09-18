@@ -1,10 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Reflected XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-04-07/#SECURITY-1769)
-
-  
 This plugin allows you to deploy into [AWS Elastic
 Beanstalk](http://aws.amazon.com/elasticbeanstalk/) by Packaging,
 Creating a new Application Version, and Updating an Environment

@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                                    |
-|---------------------------------------------------------------------------------------------------------------------------------------|
-| View Azure Event Grid Build Notifier [on the plugin site](https://plugins.jenkins.io/azure-event-grid-notifier) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-09-25/#SECURITY-1544)
 
 Send build notifications to an Azure Event Grid Topic
 

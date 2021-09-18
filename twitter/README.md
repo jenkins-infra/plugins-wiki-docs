@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-30/#SECURITY-1143)
 
 This plugin posts build results to Twitter.Each Twitter update will
 contain build result, its build number, and job name. Optionally, the

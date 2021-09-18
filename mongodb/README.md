@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission
-    checks](https://www.jenkins.io/security/advisory/2020-09-16/#SECURITY-1904)
 
 This plugin provides [MongoDB](http://www.mongodb.org/) integration
 capabilities.

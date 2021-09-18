@@ -96,12 +96,6 @@ a Borland (MicroFocus0 cross-platform SCM solution.The plugin allows a
 jenkins project to be associated with a given StarTeam folder, in a
 given view and project.
 
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1085)
-
 The plugin currently supports the following:
 
 -   Checkout

@@ -1,12 +1,3 @@
-| Plugin Information                                                                                    |
-|-------------------------------------------------------------------------------------------------------|
-| View Sidebar Link [on the plugin site](https://plugins.jenkins.io/sidebar-link) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Persisted XSS
-    Vulnerability](https://jenkins.io/security/advisory/2017-07-10/)
 
 Add links in the sidebar of the Jenkins main page, view tabs and project
 pages.This simple plugin adds an `Additional Sidebar Links` section in

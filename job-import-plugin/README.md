@@ -1,19 +1,5 @@
 # Job Import Plugin
 
-| Plugin Information                                                                                       |
-|----------------------------------------------------------------------------------------------------------|
-| View Job Import [on the plugin site](https://plugins.jenkins.io/job-import-plugin) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [CSRF
-    vulnerability](https://jenkins.io/security/advisory/2019-01-28/#SECURITY-1302)
--   [XXE
-    vulnerability](https://jenkins.io/security/advisory/2019-01-28/#SECURITY-905%20%281%29)
--   [CSRF
-    vulnerability](https://jenkins.io/security/advisory/2019-01-28/#SECURITY-905%20%282%29)
-
 Import jobs from another Jenkins instance.  
 
 ------------------------------------------------------------------------

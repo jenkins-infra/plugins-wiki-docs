@@ -1,14 +1,4 @@
-| Plugin Information                                                                                                               |
-|----------------------------------------------------------------------------------------------------------------------------------|
-| View Copy data to workspace [on the plugin site](https://plugins.jenkins.io/copy-data-to-workspace-plugin) for more information. |
 
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Arbitrary file read
-    vulnerability](https://www.jenkins.io/security/advisory/2020-09-16/#SECURITY-1966)
-
-  
 
 Copies data to workspace directory for each project build.
 

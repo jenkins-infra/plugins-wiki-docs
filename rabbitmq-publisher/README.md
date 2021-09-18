@@ -1,14 +1,3 @@
-| Plugin Information                                                                                                 |
-|--------------------------------------------------------------------------------------------------------------------|
-| View Rabbit-MQ Publisher [on the plugin site](https://plugins.jenkins.io/rabbitmq-publisher) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-03-06/#SECURITY-848)
--   [Server-side request
-    forgery](https://jenkins.io/security/advisory/2019-03-06/#SECURITY-970)
 
 ## Description
 

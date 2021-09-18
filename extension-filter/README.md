@@ -1,12 +1,3 @@
-| Plugin Information                                                                                            |
-|---------------------------------------------------------------------------------------------------------------|
-| View extension-filter [on the plugin site](https://plugins.jenkins.io/extension-filter) for more information. |
-
-**This plugin is up for adoption.** This plugin is looking for a new
-maintainer!
-![](docs/images/smile.png){width="16"
-height="16"} [Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin allows to filter features available on a Jenkins instance by
 disabling some Extensions/Descriptors.

@@ -1,6 +1,3 @@
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin offers integration with Amazon EC2 Container Registry (ECR)
 as a DockerRegistryToken source to convert Amazon Credentials into a

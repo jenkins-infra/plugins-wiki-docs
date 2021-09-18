@@ -1,8 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Keystore and private key passwords stored in plain
-    text](https://jenkins.io/security/advisory/2018-02-26/#SECURITY-260)
 
 This plugin integrates Jenkins with the [Coverity
 Connect](http://www.coverity.com/products/coverity-connect/) and

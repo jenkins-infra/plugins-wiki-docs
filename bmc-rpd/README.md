@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                     |
-|------------------------------------------------------------------------------------------------------------------------|
-| View BMC Release Package and Deployment [on the plugin site](https://plugins.jenkins.io/bmc-rpd) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credential stored in plain
-    text](https://jenkins.io/security/advisory/2020-02-12/#SECURITY-1547)
 
   
 The RPD Plugin integrates Jenkins with BMC Release Package and

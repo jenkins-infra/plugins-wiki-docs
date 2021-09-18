@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                      |
-|-------------------------------------------------------------------------------------------------------------------------|
-| View Fabric Beta Publisher [on the plugin site](https://plugins.jenkins.io/fabric-beta-publisher) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1043)
 
 Allows users to publish Android apps to [Fabric
 Beta](https://docs.fabric.io/android/beta/overview.html)

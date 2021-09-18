@@ -1,10 +1,3 @@
-| Plugin Information                                                                                            |
-|---------------------------------------------------------------------------------------------------------------|
-| View Job Restrictions [on the plugin site](https://plugins.jenkins.io/job-restrictions) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 The plugin allows restricting job executions in order to change their
 behavior or to harden the security. With this plugin it is possible to

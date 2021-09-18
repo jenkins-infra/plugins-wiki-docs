@@ -1,12 +1,3 @@
-| Plugin Information                                                                            |
-|-----------------------------------------------------------------------------------------------|
-| View Logstash [on the plugin site](https://plugins.jenkins.io/logstash) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials transmitted in plain
-    text](https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1516)
 
 This plugin pushes logs and build data to a Logstash indexer such as
 Redis, RabbitMQ ElasticSearch, Logstash or Valo. 

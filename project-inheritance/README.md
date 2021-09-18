@@ -1,20 +1,3 @@
-| Plugin Information                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------|
-| View Project Inheritance [on the plugin site](https://plugins.jenkins.io/project-inheritance) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Missing permission
-    check](https://jenkins.io/security/advisory/2020-06-03/#SECURITY-1582)
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Secret environment variables defined in Mask Passwords Plugin shown
-    unmasked](https://jenkins.io/security/advisory/2019-09-25/#SECURITY-351)
--   [CSRF vulnerability and missing permission
-    check](https://jenkins.io/security/advisory/2019-09-25/#SECURITY-401)
 
 The purpose of this plugin is to bring true inheritance of properties
 between multiple job definitions to Jenkins. This allows you to define

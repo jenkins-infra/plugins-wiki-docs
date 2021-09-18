@@ -1,15 +1,5 @@
 Eliminate running processes before or after build.
 
-| Plugin Information                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------|
-| View Process cleaner [on the plugin site](https://plugins.jenkins.io/proc-cleaner-plugin) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Arbitrary code execution
-    vulnerability](https://jenkins.io/security/advisory/2017-04-10/)
-
 With this plugin user can decide to clean the processes either before or
 after the build. It can either kill all processes started by the user
 that runs Jenkins agent (except of that process) or all child processes

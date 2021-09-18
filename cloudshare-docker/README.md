@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CloudShare Docker-Machine Plugin stores credentials in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-838)
 
 Execute Docker commands on dedicated docker-machines on CloudShare,
 instead of running on the Jenkins host itself.

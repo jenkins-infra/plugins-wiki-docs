@@ -1,16 +1,6 @@
 Allows android developer to use android devices
 with [OpenSTF](http://openstf.io/)
 
-| Plugin Information                                                                            |
-|-----------------------------------------------------------------------------------------------|
-| View Open STF [on the plugin site](https://plugins.jenkins.io/open-stf) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Open STF Plugin stores credentials in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1059)
-
 ## Features
 
 Provides some features for Android development and testing with [The

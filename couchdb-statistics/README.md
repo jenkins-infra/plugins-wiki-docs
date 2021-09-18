@@ -1,8 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Password stored in plain
-    text](https://www.jenkins.io/security/advisory/2020-10-08/#SECURITY-2065)
 
 CouchDB Statistics plugin allows the publishing of all build statistics
 to CouchDB/Cloudant.

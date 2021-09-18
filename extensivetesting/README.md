@@ -1,11 +1,5 @@
 Allow you to run eXtensive Testing tests before or after a build.
 
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1432)
-
 Log test steps into log file on the project workspace.  
 Show results in HTML page.  
 Store results into the project workspace.

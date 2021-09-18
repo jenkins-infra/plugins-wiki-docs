@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Stored XSS
-    vulnerability](https://www.jenkins.io/security/advisory/2020-09-16/#SECURITY-1921)
 
 This debug plugin fails a build if there are locked files in the
 workspace at the begining or end of a build.  

@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [API key stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1063)
 
 A Jenkins CI plugin for uploading dSYM files to Crittercism.
 

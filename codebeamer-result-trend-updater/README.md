@@ -8,12 +8,6 @@ Page](https://codebeamer.com/cb/project/1025).
 
  
 
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-03-25/#SECURITY-1086)
-
 Allows users to to update wiki pages in
 [codebeamer](http://intland.com/codebeamer/product-overview/) with test
 or performance results

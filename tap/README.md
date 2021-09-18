@@ -1,12 +1,3 @@
-| Plugin Information                                                                  |
-|-------------------------------------------------------------------------------------|
-| View TAP [on the plugin site](https://plugins.jenkins.io/tap) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Path traversal
-    vulnerability](https://jenkins.io/security/advisory/2016-06-20/)
 
 This plug-in adds support to [TAP](http://www.testanything.org/) test
 result files to Jenkins. It lets you specify an [ant-like

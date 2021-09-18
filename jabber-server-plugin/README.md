@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1031)
 
 This plugin creates a Jabber-Server for your builtin-users using the
 Jenkin's Domainname (you need a .jks-File).

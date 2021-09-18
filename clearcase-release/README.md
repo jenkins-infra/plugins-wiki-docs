@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Stored XSS
-    vulnerability](https://www.jenkins.io/security/advisory/2020-09-16/#SECURITY-1911)
 
 This plugin makes it possible to promote composite baselines or latest
 baselines to RELEASED promotion level for Clearcase UCM.  

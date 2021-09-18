@@ -1,13 +1,5 @@
 # AWS Codedeploy plugin
 
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Serialization of potentially sensitive build
-    variables](https://jenkins.io/security/advisory/2018-06-25/#SECURITY-825)
--   [AWS Secret Key stored in plain
-    text](https://jenkins.io/security/advisory/2018-06-25/#SECURITY-833)
-
 The [AWS CodeDeploy](https://aws.amazon.com/codedeploy) Jenkins plugin
 provides a post-build step for your Jenkins project. Upon a successful
 build, it will zip the workspace, upload to S3, and  

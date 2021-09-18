@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-961)
 
 This plugin deploys applications (WAR or EAR files) to a WildFly or
 JBoss EAP server or server group.

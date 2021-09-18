@@ -1,18 +1,3 @@
-  
-
-  
-
-| Plugin Information                                                                            |
-|-----------------------------------------------------------------------------------------------|
-| View Valgrind [on the plugin site](https://plugins.jenkins.io/valgrind) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1830)
--   [XXE
-    vulnerability](https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1829)
 
 Integrates [Valgrind](http://www.valgrind.org/) in Jenkins.This Plugin
 integrates [Valgrind](http://www.valgrind.org/) (memcheck to be exact)

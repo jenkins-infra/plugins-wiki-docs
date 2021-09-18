@@ -1,14 +1,3 @@
-| Plugin Information                                                                                            |
-|---------------------------------------------------------------------------------------------------------------|
-| View Chef Sinatra [on the plugin site](https://plugins.jenkins.io/sinatra-chef-builder) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission check allow
-    SSRF](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1037)
-
- 
 
 # **Summary****:**
 

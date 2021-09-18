@@ -1,12 +1,3 @@
-| Plugin Information                                                                                   |
-|------------------------------------------------------------------------------------------------------|
-| View White Source [on the plugin site](https://plugins.jenkins.io/whitesource) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1630)
 
 The plugin brings automatic open source management to Jenkins users.
 

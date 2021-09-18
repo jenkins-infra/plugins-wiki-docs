@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                                     |
-|----------------------------------------------------------------------------------------------------------------------------------------|
-| View Subversion Partial Release Manager [on the plugin site](https://plugins.jenkins.io/svn-partial-release-mgr) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-06-03/#SECURITY-1726)
 
 This plugin provides the option to set up a job in Jenkins in order to
 build a partial release for a project.

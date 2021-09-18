@@ -3,12 +3,6 @@ Visualworks](http://cincomsmalltalk.com/) Smalltalk Store.  The plugin
 requires at least one shell script or batch file to be created that can
 run a Visualworks image with the StoreCI-Polling package loaded.
 
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [XXE
-    vulnerability](https://www.jenkins.io/security/advisory/2020-11-04/#SECURITY-1900)
-
 # Using the Visualworks Store Plugin
 
 In order to use the Visualworks Store Plugin, a few steps are required.

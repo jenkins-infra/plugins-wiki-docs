@@ -4,17 +4,6 @@
 This Plugin may be used to deploy build artefacts like iOS and Android
 apps to a [Relution Enterprise Appstore](http://www.relution.io/).
 
-  
-` `
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission check allow
-    SSRF](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-1053)
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-828)
-
 # relution-jenkins-plugin
 
 A Jenkins plugin for the [Relution Enterprise

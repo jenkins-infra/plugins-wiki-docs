@@ -8,16 +8,6 @@ if there is changes and keeping the changelog.
 This is an unofficial plugin - neither the plugin or the developer are
 affiliated with SourceGear.
 
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Plain text password shown in configuration
-    form](https://jenkins.io/security/advisory/2019-10-01/#SECURITY-1524)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 # Basic Usage
 
 Once this plugin is installed, you'll see SourceGear Vault as one of the

@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                   |
-|----------------------------------------------------------------------------------------------------------------------|
-| View Deploy WebLogic [on the plugin site](https://plugins.jenkins.io/weblogic-deployer-plugin) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission
-    check](https://jenkins.io/security/advisory/2019-10-23/#SECURITY-820)
 
 This plugin deploys any artifacts built on Jenkins to a weblogic target
 (managed server, cluster ...) as an application or a library component.

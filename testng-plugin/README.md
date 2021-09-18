@@ -1,10 +1,3 @@
-| Plugin Information                                                                                       |
-|----------------------------------------------------------------------------------------------------------|
-| View TestNG Results [on the plugin site](https://plugins.jenkins.io/testng-plugin) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin allows you to publish TestNG results generated
 using `org.testng.reporters.XMLReporter`.TestNG result xml file contains

@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------|
-| View Pipeline Aggregator View [on the plugin site](https://plugins.jenkins.io/pipeline-aggregator-view) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1593)
 
 Allows the users to view the history of their pipelines with stage
 information (failed/In Progress/Passed) and the changes monitored)  

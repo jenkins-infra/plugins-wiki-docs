@@ -1,12 +1,3 @@
-| Plugin Information                                                                          |
-|---------------------------------------------------------------------------------------------|
-| View Delphix [on the plugin site](https://plugins.jenkins.io/delphix) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1450)
 
 [  
 ![Build

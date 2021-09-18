@@ -1,6 +1,3 @@
-| Plugin Information                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------|
-| View Deployment Sphere [on the plugin site](https://plugins.jenkins.io/deployment-sphere) for more information. |
 
 Jenkins plugin to have a bird's eye view of your continuous deployment
 pipeline.

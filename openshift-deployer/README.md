@@ -1,10 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission
-    check](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-981)
--   [Credentials transmitted in plain
-    text](https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1518)
 
 # OpenShift Deployer Plugin 
 

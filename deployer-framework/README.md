@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                |
-|-------------------------------------------------------------------------------------------------------------------|
-| View Deployer Framework [on the plugin site](https://plugins.jenkins.io/deployer-framework) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-07-15/#SECURITY-1915)
 
 # Deployer Framework Plugin
 

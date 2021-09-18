@@ -1,16 +1,3 @@
-| Plugin Information                                                                                         |
-|------------------------------------------------------------------------------------------------------------|
-| View Periodic Backup [on the plugin site](https://plugins.jenkins.io/periodicbackup) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Missing permission checks and CSRF vulnerability in Periodic Backup
-    Plugin](https://jenkins.io/security/advisory/2017-07-10/)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 ## Description
 

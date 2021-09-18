@@ -1,18 +1,3 @@
-| Plugin Information                                                                                                |
-|-------------------------------------------------------------------------------------------------------------------|
-| View WebSphere Deployer [on the plugin site](https://plugins.jenkins.io/websphere-deployer) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [SSL/TLS certificate validation globally and unconditionally
-    disabled](https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1581)
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-956)
--   [CSRF vulnerability and missing permission
-    checks](https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1371)
--   [XXE
-    vulnerability](https://jenkins.io/security/advisory/2020-01-29/#SECURITY-1719)
 
 This is a collection of two separate plugins that provide deployment
 functionality to most versions of IBM WebSphere Application Server, IBM

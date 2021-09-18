@@ -2,12 +2,6 @@
 this plugin is still useful for local translations, it's not possible to
 submit translations to the Jenkins project anymore.
 
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Cross-site request forgery (CSRF)
-    vulnerability](https://jenkins.io/security/advisory/2018-01-22/)
-
 This plugin adds an additional dialog box in every page, which enables
 people to contribute localizations for the messages they are seeing in
 the current page.This reduces the barrier of entry to localization, and

@@ -1,6 +1,3 @@
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin allows SCM-triggered jobs to ignore build requests if only
 certain paths have changed, or to build if and only if certain paths are

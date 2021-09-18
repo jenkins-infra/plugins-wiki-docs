@@ -4,12 +4,6 @@ generate some basic build metrics.  It is really useful in combination
 with the [sidebar links
 plugin](http://localhost:8085/display/JENKINS/Sidebar-Link+Plugin).
 
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Reflected XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1490)
-
 ## Requirements 
 
 This plugin requires Jenkins 1.509 or better and the [Global Build Stats

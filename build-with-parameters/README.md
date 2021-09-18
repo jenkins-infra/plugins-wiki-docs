@@ -1,10 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [CSRF
-    vulnerability](https://www.jenkins.io/security/advisory/2021-03-30/#SECURITY-2257)
--   [Stored XSS
-    vulnerability](https://www.jenkins.io/security/advisory/2021-03-30/#SECURITY-2231)
 
 Allows the user to provide parameters for a build in the url, prompting
 for confirmation before triggering the job.

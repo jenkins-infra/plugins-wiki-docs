@@ -1,8 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Client secret displayed in plain
-    text](https://jenkins.io/security/advisory/2019-01-28/#SECURITY-886)
 
 [![](https://ci.jenkins.io/buildStatus/icon?job=Plugins/oic-auth-plugin/master){width="120"}  
 ![](http://sebastian-badge.info/plugins/oic-auth.svg){width="120"}  

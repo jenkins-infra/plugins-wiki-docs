@@ -1,10 +1,3 @@
-| Plugin Information                                                                                                                  |
-|-------------------------------------------------------------------------------------------------------------------------------------|
-| View Cucumber json test reporting [on the plugin site](https://plugins.jenkins.io/cucumber-testresult-plugin) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin allows you to show the results of [Cucumber
 tests](http://cukes.info/) within Jenkins.

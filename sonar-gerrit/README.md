@@ -17,12 +17,6 @@ report): <https://community.sonarsource.com/t/sonar-report-json-is-this-file-st
 The plugin shares [SonarQube](http://www.sonarqube.org/) feedback with
 developers via [Gerrit](https://code.google.com/p/gerrit/) tools.
 
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1003)
-
 # Requirements
 
 ## Jenkins

@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-142)
 
 [Features](http://localhost:8085/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-features)  
 [Compatibility](http://localhost:8085/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-compatibility)  

@@ -5,12 +5,6 @@ Minimum Version
 Because of a JDK issue, requiredCore was made to be 1.420. However, we
 have reports that this plugin will happily work on 1.409 LTS releases.
 
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
-  
-
 Provide a fast-path console link available for views.
 
   

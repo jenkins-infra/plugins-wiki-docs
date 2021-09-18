@@ -1,11 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Audit to Database Plugin stores credentials in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-966)
--   [CSRF vulnerability and missing permission check allow connecting to
-    arbitrary
-    databases](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-977)
 
 Download latest release from
 [jenkins-ci.org](http://maven.jenkins-ci.org/content/repositories/releases/org/jenkins-ci/plugins/audit2db/)

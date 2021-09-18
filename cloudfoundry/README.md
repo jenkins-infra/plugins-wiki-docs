@@ -1,12 +1,3 @@
-| Plugin Information                                                                                     |
-|--------------------------------------------------------------------------------------------------------|
-| View Cloud Foundry [on the plugin site](https://plugins.jenkins.io/cloudfoundry) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [CSRF vulnerability and missing permission checks allowed capturing
-    credentials](https://jenkins.io/security/advisory/2019-02-19/#SECURITY-876)
 
 Pushes a project to Cloud Foundry or a CF-based platform (e.g. Stackato)
 at the end of a build.

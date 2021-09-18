@@ -1,18 +1,5 @@
 Adds Unix Pluggable Authentication Module (PAM) support to Jenkins.
 
-| Plugin Information                                                                                      |
-|---------------------------------------------------------------------------------------------------------|
-| View PAM Authentication [on the plugin site](https://plugins.jenkins.io/pam-auth) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Missing permission check allowed obtaining limited information
-    about system
-    configuration](https://jenkins.io/security/advisory/2019-05-21/#SECURITY-1316)
--   [Improper user account
-    validation](https://jenkins.io/security/advisory/2018-09-25/#SECURITY-813)
-
 ## Version History
 
 ### Version 1.6 (2019-10-08)

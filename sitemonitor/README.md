@@ -1,12 +1,3 @@
-| Plugin Information                                                                                  |
-|-----------------------------------------------------------------------------------------------------|
-| View SiteMonitor [on the plugin site](https://plugins.jenkins.io/sitemonitor) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [SSL/TLS certificate validation globally and unconditionally
-    disabled](https://jenkins.io/security/advisory/2019-04-30/#SECURITY-930)
 
 Monitors web site up/down status.
 

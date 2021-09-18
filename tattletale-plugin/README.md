@@ -1,13 +1,4 @@
 ﻿
-
-| Plugin Information                                                                                       |
-|----------------------------------------------------------------------------------------------------------|
-| View Tattletale [on the plugin site](https://plugins.jenkins.io/tattletale-plugin) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 This plugin generates [Tattletale](http://www.jboss.org/tattletale)
 reports, mostly useful for jar file analysis.
 

@@ -1,10 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Missing permission check allows anyone to change favorites for any
-    other user](https://jenkins.io/security/advisory/2017-06-06/)
--   [CSRF vulnerability allows changing another user's
-    favorites](https://jenkins.io/security/advisory/2017-06-06/)
 
 This plugin allows you to mark a job a favorite.This is controlled via a
 list view column you need to add to a view. You can then click on a star

@@ -3,14 +3,6 @@ a project's build right away, even if the queue is long (moving it to
 the top of the queue) and even if no executor is available (killing and
 rescheduling builds not launched by "humans")
 
-| Plugin Information                                                                                                                    |
-|---------------------------------------------------------------------------------------------------------------------------------------|
-| View accelerated-build-now-plugin [on the plugin site](https://plugins.jenkins.io/accelerated-build-now-plugin) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 ## How to install :
 
 Download the [latest

@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission
-    checks](https://www.jenkins.io/security/advisory/2020-10-08/#SECURITY-2049)
 
 #### Developed by
 

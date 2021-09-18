@@ -1,19 +1,5 @@
 Send build artifacts to a windows share (CIFS/SMB/samba)
 
-| Plugin Information                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------|
-| View Publish Over CIFS [on the plugin site](https://plugins.jenkins.io/publish-over-cifs) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [CSRF vulnerability and missing permission
-    checks](https://jenkins.io/security/advisory/2018-07-30/#SECURITY-975)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 # Publish Over ...
 
 Read Publish Over ... wiki page first

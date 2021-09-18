@@ -1,14 +1,6 @@
 Adds a new list view, which allows to dynamically specify additional
 filters.
 
-| Plugin Information                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------|
-| View Dynamic Search View [on the plugin site](https://plugins.jenkins.io/dynamic-search-view) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 # About this plugin
 
 Dynamic Search View allows setting of additional filters at the view’s

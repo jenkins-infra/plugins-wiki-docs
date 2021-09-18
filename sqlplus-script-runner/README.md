@@ -1,12 +1,3 @@
-| Plugin Information                                                                                                      |
-|-------------------------------------------------------------------------------------------------------------------------|
-| View SQLPlus Script Runner [on the plugin site](https://plugins.jenkins.io/sqlplus-script-runner) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Password written to the build
-    log](https://www.jenkins.io/security/advisory/2020-11-04/#SECURITY-2129)
 
 This plugin enables you run [Oracle
 SQL\*Plus](http://www.orafaq.com/wiki/SQL*Plus_FAQ) scripts on your

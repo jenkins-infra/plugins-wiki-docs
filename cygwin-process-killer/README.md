@@ -1,10 +1,3 @@
-| Plugin Information                                                                                                      |
-|-------------------------------------------------------------------------------------------------------------------------|
-| View Cygwin Process Killer [on the plugin site](https://plugins.jenkins.io/cygwin-process-killer) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 Plugin implements proper termination of Cygwin processes in Jenkins jobs
 

@@ -1,10 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Reflected XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-01-15/#SECURITY-1683)
--   [Gitlab API token stored and displayed in plain
-    text](https://jenkins.io/security/advisory/2018-05-09/#SECURITY-263)
 
 Enables Gitlab web hooks to be used to trigger SMC polling on Gitlab
 projects

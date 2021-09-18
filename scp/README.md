@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Insecure credential storage and
-    transmission](https://jenkins.io/security/advisory/2017-10-23/)
 
 This plugin uploads build artifacts to repository sites using SCP (SSH)
 protocol. First you should define SCP hosts on hudson global config

@@ -1,12 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [SSL/TLS certificate validation globally and unconditionally
-    disabled](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-1376)
--   [CSRF vulnerability and missing permission
-    check](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-979)
--   [Password stored in plain
-    text](https://www.jenkins.io/security/advisory/2020-11-04/#SECURITY-2084)
 
 Add VMware Lab Manager support to Jenkins
 

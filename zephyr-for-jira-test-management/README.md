@@ -5,16 +5,6 @@ Creates test cases and publishes test results in [Zephyr for
 JIRA](http://www.getzephyr.com/products/test-management-add-ons-for-atlassian)
 for JUnit test cases
 
-  
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1550)
--   [CSRF vulnerability and missing permission
-    checks](https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1762)
-
 ## **About the Plugin**
 
 Zephyr for JIRA Plugin for Jenkins integrates Jenkins and Zephyr for

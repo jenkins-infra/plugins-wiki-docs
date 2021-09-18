@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Hyper.sh Commons Plugin stores credentials in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-964)
 
 This plugin provides common functions for other hyper plugins.
 

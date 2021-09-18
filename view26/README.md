@@ -1,16 +1,3 @@
- 
-
- 
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1440)
-
- 
-
- 
 
 This add-on will collect JUnit test results from your builds and submit
 them as Test Runs and Test Logs to VIEW26. The view26 plugin supports

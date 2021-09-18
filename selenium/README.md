@@ -1,12 +1,3 @@
-| Plugin Information                                                                            |
-|-----------------------------------------------------------------------------------------------|
-| View Selenium [on the plugin site](https://plugins.jenkins.io/selenium) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Complete lack of CSRF protection can lead to OS command
-    injection](https://jenkins.io/security/advisory/2020-06-03/#SECURITY-1766)
 
 ![(warning)](docs/images/warning.svg)
 This plugin requires Jenkins to run under Java 8 or later as of version

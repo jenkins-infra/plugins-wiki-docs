@@ -1,14 +1,3 @@
-| Plugin Information                                                                                                  |
-|---------------------------------------------------------------------------------------------------------------------|
-| View Selenium HTML report [on the plugin site](https://plugins.jenkins.io/seleniumhtmlreport) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [XXE
-    vulnerability](https://www.jenkins.io/security/advisory/2021-06-30/#SECURITY-2329)
-
-  
 
 This plugin visualizes the results of selenium tests.
 

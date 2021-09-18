@@ -6,16 +6,6 @@ offers the ability to define manual triggers for jobs that require
 intervention prior to execution, e.g. an approval process outside of
 Jenkins.
 
-| Plugin Information                                                                                               |
-|------------------------------------------------------------------------------------------------------------------|
-| View Build Pipeline [on the plugin site](https://plugins.jenkins.io/build-pipeline-plugin) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-879)
-
 ### Release Notes
 
 1.5.8

@@ -1,10 +1,4 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
 
--   [Credentials transmitted in plain
-    text](https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1519)
-
-  
 This plugin will fail the build whenever the Quality Gates criteria in
 the Sonar analysis aren't met (the project Quality Gates status is
 different than "Passed").

@@ -1,10 +1,4 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
 
--   [Reflected XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-751)
-
-  
 A wall display that shows job build progress in a way suitable for
 public wall displays. Rendering is performed using javascript based on
 REST API calls, so requires no page refreshes. 

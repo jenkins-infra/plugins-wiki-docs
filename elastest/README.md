@@ -1,14 +1,3 @@
-| Plugin Information                                                                            |
-|-----------------------------------------------------------------------------------------------|
-| View ElasTest [on the plugin site](https://plugins.jenkins.io/elastest) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission
-    checks](https://www.jenkins.io/security/advisory/2020-09-16/#SECURITY-1903)
--   [Passwords stored in plain
-    text](https://www.jenkins.io/security/advisory/2020-09-16/#SECURITY-2014)
 
 # Description
 

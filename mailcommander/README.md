@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Passwords stored in plain
-    text](https://www.jenkins.io/security/advisory/2020-11-04/#SECURITY-2085)
 
 # Mail Commander Plugin
 

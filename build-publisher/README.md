@@ -1,12 +1,3 @@
-| Plugin Information                                                                                          |
-|-------------------------------------------------------------------------------------------------------------|
-| View Build-Publisher [on the plugin site](https://plugins.jenkins.io/build-publisher) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Insecure credential storage and
-    transmission](https://jenkins.io/security/advisory/2017-10-23/)
 
 # What does it do?
 

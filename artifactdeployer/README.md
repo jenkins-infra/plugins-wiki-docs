@@ -1,17 +1,3 @@
-| Plugin Information                                                                                             |
-|----------------------------------------------------------------------------------------------------------------|
-| View Artifact Deployer [on the plugin site](https://plugins.jenkins.io/artifactdeployer) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Arbitrary code execution
-    vulnerability](https://jenkins.io/security/advisory/2017-04-10/)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 This plugin makes it possible to copy artifacts to remote locations.
 
 # History and Objectives

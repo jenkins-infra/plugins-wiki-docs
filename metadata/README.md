@@ -1,11 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Missing permission check allows unauthorized users to change
-    Metadata Plugin
-    configuration](https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1135)
--   [Cross-Site Scripting
-    vulnerability](https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1075)
 
 This plugin allows metadata to be added to projects, builds and slaves
 in Jenkins.  

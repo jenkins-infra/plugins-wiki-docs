@@ -1,14 +1,4 @@
- 
 
-| Plugin Information                                                                    |
-|---------------------------------------------------------------------------------------|
-| View GNAT [on the plugin site](https://plugins.jenkins.io/gnat) for more information. |
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
-  
 This plugin makes it possible to integrate
 [Gnat](http://www.adacore.com/home/products/gnatpro/toolsuite/tool_partners/)
 features for Ada languages in Jenkins.  

@@ -1,14 +1,3 @@
-| Plugin Information                                                                    |
-|---------------------------------------------------------------------------------------|
-| View Koji [on the plugin site](https://plugins.jenkins.io/koji) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [SSL/TLS certificate validation globally and unconditionally
-    disabled](https://jenkins.io/security/advisory/2019-04-30/#SECURITY-936)
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1092)
 
 This plugin enables integration with
 [Koji](https://fedorahosted.org/koji/) build system providing clean-room

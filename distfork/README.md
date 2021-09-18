@@ -1,8 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Missing permission checks allowed shell access to anonymous
-    users](https://jenkins.io/security/advisory/2017-03-20/)
 
 Turns a Jenkins cluster into a general purpose batch job execution
 environment through an SSH-like CLI.

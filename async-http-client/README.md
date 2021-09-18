@@ -1,13 +1,3 @@
-| Plugin Information                                                                                              |
-|-----------------------------------------------------------------------------------------------------------------|
-| View Async Http Client [on the plugin site](https://plugins.jenkins.io/async-http-client) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Improper certificate
-    validation](https://jenkins.io/security/advisory/2016-06-20/)
-
 # Async Http Client Plugin
 
 This plugin provides a shared dependency on the ning.com

@@ -1,19 +1,5 @@
 Requests Plugin
 
-| Plugin Information                                                                                   |
-|------------------------------------------------------------------------------------------------------|
-| View requests-plugin [on the plugin site](https://plugins.jenkins.io/requests) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Missing permission check allows viewing pending
-    requests](https://www.jenkins.io/security/advisory/2021-06-30/#SECURITY-1995)
--   [Missing permission check allows sending
-    emails](https://www.jenkins.io/security/advisory/2021-06-30/#SECURITY-2136%20(2))
--   [CSRF
-    vulnerabilities](https://www.jenkins.io/security/advisory/2021-06-30/#SECURITY-2136%20(1))
-
 This plugin sets up a request center for non-admin users to be able to
 ask that their job to be deleted or renamed, or a build to be deleted or
 unlocked.

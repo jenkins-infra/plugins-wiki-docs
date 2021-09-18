@@ -1,6 +1,3 @@
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 BuildResultTrigger makes it possible to monitor the build results of
 other jobs.  

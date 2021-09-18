@@ -1,11 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-954)
--   [CSRF vulnerability and missing permission check allow connecting to
-    arbitrary FTP
-    servers](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-974)
 
 This plugin can be used to upload project artifacts and whole
 directories to an ftp server. The following image show the configuration

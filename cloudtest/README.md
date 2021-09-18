@@ -3,18 +3,6 @@ CloudTest](http://www.soasta.com/products/cloudtest/) and [SOASTA
 TouchTest](http://www.soasta.com/products/touchtest/) features into
 Jenkins.
 
-| Plugin Information                                                                                     |
-|--------------------------------------------------------------------------------------------------------|
-| View SOASTA CloudTest [on the plugin site](https://plugins.jenkins.io/cloudtest) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission check allow
-    SSRF](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1054)
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1439)
-
 The CloudTest Jenkins plugin provides the ability to
 
 -   Easily run the MakeAppTouchTestable utility on an iOS or Android

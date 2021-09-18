@@ -1,6 +1,3 @@
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
 
 This plugin allows you to view the full status all the downstream builds
 so that we can graphically see that everything for this build has been

@@ -1,21 +1,6 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission check allow
-    SSRF](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1055)
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1056)
 
 Publish mobile applications to your Keivox KMAP Private Mobile App Store
 [http://www.keivox.com](http://www.keivox.com/)
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [CSRF vulnerability and missing permission check allow
-    SSRF](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1055)
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1056)
 
 ## Installing the Keivox KMAP plugin
 

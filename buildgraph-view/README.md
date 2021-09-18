@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1591)
 
 Shows a graph of builds that relates together (aka "build pipeline").
 

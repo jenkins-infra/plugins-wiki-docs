@@ -3,24 +3,6 @@ Plugin](http://localhost:8085/display/JENKINS/GitHub+Branch+Source+Plugin)
 
 This plugin builds pull requests in github and report results.
 
-| Plugin Information                                                                                            |
-|---------------------------------------------------------------------------------------------------------------|
-| View GitHub Pull Request Builder [on the plugin site](https://plugins.jenkins.io/ghprb) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [GitHub access tokens stored in
-    build.xml](https://jenkins.io/security/advisory/2018-03-26/#SECURITY-261)
--   [Webhook secret stored in plain
-    text](https://jenkins.io/security/advisory/2018-03-26/#SECURITY-262)
--   [CSRF vulnerability and lack of permission checks allows capturing
-    credentials](https://jenkins.io/security/advisory/2018-06-04/#SECURITY-805)
-
-**This plugin is up for adoption.** Want to help improve this plugin?
-[Click here to learn
-more](http://localhost:8085/display/JENKINS/Adopt+a+Plugin "Adopt a Plugin")!
-
 More **up to date** information is available on the:  
 [Github
 README.md](https://github.com/jenkinsci/ghprb-plugin/blob/master/README.md)

@@ -3,16 +3,6 @@ on the build page. It does this by using a knowledge base of build
 failure causes that is built up from scratch.  
 Saving statistics about failure causes is also possible.
 
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [CSRF vulnerability and missing permission check allow
-    ReDoS](https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1651)
--   [XSS
-    vulnerability](https://jenkins.io/security/advisory/2020-09-01/#SECURITY-1770)
--   [Cross-site scripting
-    vulnerability](https://jenkins.io/security/advisory/2016-06-20/)
-
 ### Knowledge base
 
 The plugin comes with an empty knowledge base of failure causes.

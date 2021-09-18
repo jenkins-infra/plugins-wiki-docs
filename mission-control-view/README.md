@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Stored XSS
-    vulnerability](https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1592)
 
 Full screen dashboard view featuring job history, build queue, and
 current status of jobs and nodes.

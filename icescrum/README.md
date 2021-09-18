@@ -1,14 +1,3 @@
-| Plugin Information                                                                            |
-|-----------------------------------------------------------------------------------------------|
-| View iceScrum [on the plugin site](https://plugins.jenkins.io/icescrum) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1436)
--   [CSRF vulnerability and missing permission
-    check](https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1484)
 
 iceScrum is a web application for using Scrum while keeping the spirit
 of a collaborative workspace. It also offers virtual boards with

@@ -1,13 +1,3 @@
-| Plugin Information                                                                                      |
-|---------------------------------------------------------------------------------------------------------|
-| View AbsInt Astrée [on the plugin site](https://plugins.jenkins.io/absint-astree) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Arbitrary file execution
-    vulnerability](https://jenkins.io/security/advisory/2018-06-04/#SECURITY-807)
-
 Integration of AbsInt's static code analyzer
 [Astrée](https://www.absint.com/astree) into the Jenkins continuous
 integration system

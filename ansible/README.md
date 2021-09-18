@@ -1,18 +1,4 @@
-| Plugin Information                                                                          |
-|---------------------------------------------------------------------------------------------|
-| View Ansible [on the plugin site](https://plugins.jenkins.io/ansible) for more information. |
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Host key verification disabled by
-    default](https://jenkins.io/security/advisory/2018-03-26/#SECURITY-630)
--   [Missing permission checks allow enumerating credentials
-    IDs](https://www.jenkins.io/security/advisory/2020-11-04/#SECURITY-1943)
-
- 
-
- This plugin allows to execute [Ansible](http://www.ansible.com/) tasks
+This plugin allows to execute [Ansible](http://www.ansible.com/) tasks
 as a job build step.
 
 ## Table of Contents

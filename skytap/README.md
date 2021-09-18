@@ -1,18 +1,3 @@
-| Plugin Information                                                                                 |
-|----------------------------------------------------------------------------------------------------|
-| View Skytap Cloud CI [on the plugin site](https://plugins.jenkins.io/skytap) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials transmitted in plain
-    text](https://jenkins.io/security/advisory/2020-03-09/#SECURITY-1522)
-
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-07-31/#SECURITY-1429)
 
 This plugin allows you to use Jenkins to run continuous integration and
 automated testing workflows using dynamically-created development and

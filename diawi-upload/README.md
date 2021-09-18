@@ -1,12 +1,3 @@
-| Plugin Information                                                                                    |
-|-------------------------------------------------------------------------------------------------------|
-| View Diawi Upload [on the plugin site](https://plugins.jenkins.io/diawi-upload) for more information. |
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-947)
 
 ## Features
 

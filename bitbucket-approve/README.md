@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Bitbucket Approve Plugin stores credentials in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-965)
 
 This Plugin enables Jenkins to approve commits on Bitbucket after
 successful builds.

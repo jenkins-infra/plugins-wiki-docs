@@ -1,8 +1,3 @@
-Older versions of this plugin may not be safe to use. Please review the
-following warnings before using an older version:
-
--   [Server authentication token stored in plain
-    text](https://jenkins.io/security/advisory/2018-09-25/#SECURITY-1163)
 
 Documentation of SonarQube plugin available in SonarQube wiki
 

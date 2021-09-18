@@ -1,8 +1,3 @@
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Secret stored in plain
-    text](https://jenkins.io/security/advisory/2020-07-02/#SECURITY-1627)
 
 Allows users to upload files to [Slack](https://slack.com/)
 

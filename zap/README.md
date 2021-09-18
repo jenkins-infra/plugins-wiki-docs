@@ -37,12 +37,6 @@ You can also:
         **.xml**[![](docs/images/xml.png)](http://www.w3schools.com/xml/default.asp),
         **.json**[![](docs/images/json.png)](http://www.w3schools.com/js/js_json_intro.asp))
 
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-04-03/#SECURITY-1041)
-
 ### Table of Contents
 
 -   [ZAP as a part of a CI

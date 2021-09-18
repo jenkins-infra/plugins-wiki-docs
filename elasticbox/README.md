@@ -13,14 +13,6 @@ The plugin is always compatible with the latest version of ElasticBox.
 If you're using a previous version of ElasticBox (\<4.0), the latest
 compatible version of the plugin is the 0.9.14
 
-  
-
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Credentials stored in plain
-    text](https://jenkins.io/security/advisory/2019-10-16/#SECURITY-1434)
-
 The latest documentation and tutorials can be found at
 <https://elasticbox.com/documentation/integrate-with-jenkins/ci-cd-overview/>
 

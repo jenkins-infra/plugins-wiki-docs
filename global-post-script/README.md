@@ -7,12 +7,6 @@ the parameterized jobs.
 
 **Notice: jython script support removed since 1.1.0**
 
-The current version of this plugin may not be safe to use. Please review
-the following warnings before use:
-
--   [Missing permission check allowed obtaining configuration
-    data](https://jenkins.io/security/advisory/2019-10-23/#SECURITY-1073)
-
 # Global Configure
 
 ![](docs/images/global-config.png)  

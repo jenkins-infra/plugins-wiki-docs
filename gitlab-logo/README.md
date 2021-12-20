@@ -2,8 +2,8 @@
 
 Display GitLab Repository Icon on dashboard
 
-[![](http://sebastian-badge.info/plugins/gitlab-logo.svg)](https://wiki.jenkins-ci.org/display/JENKINS/GitLab+Logo+Plugin)
-[![](https://jenkins.ci.cloudbees.com/buildStatus/icon?job=plugins/gitlab-logo-plugin)](https://jenkins.ci.cloudbees.com/job/plugins/job/gitlab-logo-plugin/)
+[![](https://img.shields.io/jenkins/plugin/v/gitlab-logo.svg)](https://plugins.jenkins.io/gitlab-logo)
+[![](https://jenkins.ci.jenkins.io/buildStatus/icon?job=plugins/gitlab-logo-plugin)](https://jenkins.ci.jenkins.io/job/plugins/job/gitlab-logo-plugin/)
 
 #### Table of content
 

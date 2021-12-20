@@ -2,7 +2,7 @@
 
 This Plugin will notify the ChatWork any message.
 
-[![](http://sebastian-badge.info/plugins/chatwork.svg)](https://wiki.jenkins-ci.org/display/JENKINS/ChatWork+Plugin)
+[![](https://img.shields.io/jenkins/plugin/v/chatwork.svg)](https://plugins.jenkins.io/chatwork/)
 [![](https://jenkins.ci.cloudbees.com/buildStatus/icon?job=plugins/chatwork-plugin)](https://jenkins.ci.cloudbees.com/job/plugins/job/chatwork-plugin/)
 
 #### Table of content

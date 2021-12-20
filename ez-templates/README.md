@@ -69,5 +69,4 @@ for this plugin.
 
 -   First release via Jenkins Update Centre
 
-![](http://jenkins.ci.cloudbees.com/buildStatus/icon?job=plugins/ez-templates-plugin)
-<https://github.com/jenkinsci/ez-templates-plugin>
+[![Build Status](https://ci.jenkins.io/job/Plugins/job/ez-templates-plugin/job/master/badge/icon)](https://ci.jenkins.io/job/Plugins/job/ez-templates-plugin/job/master/)

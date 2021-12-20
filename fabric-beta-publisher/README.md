@@ -36,4 +36,4 @@ Beta](https://docs.fabric.io/android/beta/overview.html)
 **  
 **
 
-![](http://i.imgur.com/ladnLhk.png){width="600" height="485"}
+![](https://i.imgur.com/ladnLhk.png){width="600" height="485"}

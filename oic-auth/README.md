@@ -1,9 +1,9 @@
 
-[![](https://ci.jenkins.io/buildStatus/icon?job=Plugins/oic-auth-plugin/master){width="120"}  
-![](http://sebastian-badge.info/plugins/oic-auth.svg){width="120"}  
+[![](https://ci.jenkins.io/buildStatus/icon?job=Plugins/oic-auth-plugin/master)
+![](https://img.shields.io/jenkins/plugin/v/oic-auth.svg)
 ](https://ci.jenkins.io/job/Plugins/job/oic-auth-plugin/job/master/)
 
-# ![](docs/images/OPENID_CONNECT_NEW-Logo.jpg){height="185"}
+# ![](docs/images/OPENID_CONNECT_NEW-Logo.jpg)
 
 # Summary
 

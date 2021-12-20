@@ -526,5 +526,5 @@ No Chart persistence implemented.
 # Greetings to our sponsors
 
 I'm a proud user of
-[![](http://www.jetbrains.com/idea/opensource/img/all/banners/idea120x30_white.gif)](http://www.jetbrains.com/idea/).  
+[![](docs/images/idea120x30_white.gif)](https://www.jetbrains.com/idea/).  
 Feel free to download and test this IDE, it's worth a try !

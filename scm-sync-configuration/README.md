@@ -515,5 +515,5 @@ plugin](http://issues.jenkins-ci.org/browse/JENKINS-7762)
 # Greetings to our sponsors
 
 I'm a proud user of
-[![](docs/images/dea120x30_white.gif)](https://www.jetbrains.com/idea/).  
+[![](docs/images/idea120x30_white.gif)](https://www.jetbrains.com/idea/).  
 Feel free to download and test this IDE, it's worth a try !

@@ -43,8 +43,7 @@ same host as jenkins, you could use iPhone/iPad as XFD.
 
 <https://d.hatena.ne.jp/griefworker/20110928/jenkins_web_socket_notifier_client>
 
-![Windows
-client](http://cdn-ak.f.st-hatena.com/images/fotolife/g/griefworker/20110928/20110928194148.jpg)
+![Windows client](https://cdn-ak.f.st-hatena.com/images/fotolife/g/griefworker/20110928/20110928194148.jpg)
 
 ## Version History
 

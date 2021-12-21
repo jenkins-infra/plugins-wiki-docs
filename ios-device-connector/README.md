@@ -9,8 +9,8 @@ functionalities:
     on one slave can deploy app to iOS connected to another slave.)
 -   Web UI and CLI commands to deploy \*.ipa
 
-[![](http://i.imgur.com/LB2Tb.png){width="400"}](http://i.imgur.com/LB2Tb.png)
-[![](http://i.imgur.com/wTLVR.png){width="400"}](http://i.imgur.com/wTLVR.png)
+[![](https://i.imgur.com/LB2Tb.png){width="400"}](https://i.imgur.com/LB2Tb.png)
+[![](https://i.imgur.com/wTLVR.png){width="400"}](https://i.imgur.com/wTLVR.png)
 
 # Feedback requested
 

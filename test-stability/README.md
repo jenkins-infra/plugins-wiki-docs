@@ -1,4 +1,4 @@
-#### Developed By [![](http://www.esailors.de/files/inhalte/allgemein/logo.png)](http://www.esailors.de/en/)
+#### Developed By [https://www.esailors.de/en/](http://web.archive.org/web/20160312065402/http://www.esailors.de/en/)
 
 ------------------------------------------------------------------------
 

@@ -112,7 +112,7 @@ unchecking "Enable JobAction" in the system configuration 
 ## Features controlled by system properties
 
 Based on the [Features controlled by system
-properties](http://localhost:8085/display/JENKINS/Features+controlled+by+system+properties),
+properties](https://wiki.jenkins.io/display/JENKINS/Features+controlled+by+system+properties),
 you can disable the healthy floating box in the Job Summary Page
 
 [TABLE]
@@ -358,7 +358,7 @@ Cyclomatic complexity check ([issue
     with [ci.jenkins.io](http://ci.jenkins.io/) (**PR** [\#18](https://github.com/jenkinsci/jenkinslint-plugin/pull/18 "Service has been deprecated so let's move to Jenkinsfile instead"))
 -   ![(info)](docs/images/information.svg) Fixed [Jelly
     and XSS
-    prevention](http://localhost:8085/display/JENKINS/Jelly+and+XSS+prevention)
+    prevention](https://wiki.jenkins.io/display/JENKINS/Jelly+and+XSS+prevention)
 -   ![(info)](docs/images/information.svg) Bumped
     minimal Jenkins Core version to 1.580
 

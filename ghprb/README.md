@@ -1,5 +1,5 @@
 You should probably migrate to [GitHub Branch Source
-Plugin](http://localhost:8085/display/JENKINS/GitHub+Branch+Source+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/GitHub+Branch+Source+Plugin)
 
 This plugin builds pull requests in github and report results.
 
@@ -325,9 +325,9 @@ Not publicly released.
 Added job specific triggers.  
 Added more informations as job parameters.  
 Fix support for gh-ent token generation.
-[JENKINS-17334](http://localhost:8085/display/JENKINS/GitHub+pull+request+builder+plugin#GitHubpullrequestbuilderplugin-JENKINS-17334)  
+[JENKINS-17334](https://wiki.jenkins.io/display/JENKINS/GitHub+pull+request+builder+plugin#GitHubpullrequestbuilderplugin-JENKINS-17334)  
 Lookup PR detailed information for each PR.
-[JENKINS-17852](http://localhost:8085/display/JENKINS/GitHub+pull+request+builder+plugin#GitHubpullrequestbuilderplugin-JENKINS-17852)  
+[JENKINS-17852](https://wiki.jenkins.io/display/JENKINS/GitHub+pull+request+builder+plugin#GitHubpullrequestbuilderplugin-JENKINS-17852)  
 Fix closing PR.  
 various bugfixes
 

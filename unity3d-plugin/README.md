@@ -64,7 +64,7 @@ build targets you intend to exercise.
 
 Install the latest version of the plugin from the update center and
 configure a freestyle job (see [\#Usage
-Guide](http://localhost:8085/display/JENKINS/Unity3dBuilder+Plugin#Unity3dBuilderPlugin-UsageGuide)).
+Guide](https://wiki.jenkins.io/display/JENKINS/Unity3dBuilder+Plugin#Unity3dBuilderPlugin-UsageGuide)).
 If necessary restrict the job to the node(s) that will perform the
 build(s).
 
@@ -151,7 +151,7 @@ FIXME describe and add a log about what happens on Windows.
 
 On Linux, you will need an X server. If you are running Jenkins on a
 headless server, use the [Xvfb
-Plugin](http://localhost:8085/display/JENKINS/Xvfb+Plugin). See also
+Plugin](https://wiki.jenkins.io/display/JENKINS/Xvfb+Plugin). See also
 [this
 thread](http://forum.unity3d.com/threads/qxcbconnection-could-not-connect-to-display.352536/).
 
@@ -225,14 +225,14 @@ scripts](https://bitbucket.org/WeWantToKnow/unity3d_scripts).
 #### Friendly plugins
 
 -   The [EnvInject
-    Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) can
+    Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) can
     help you parametrize your command line for maintaining large amount
     of projects in a similar manner
 
 &nbsp;
 
 -   The [Log Parser
-    Plugin](http://localhost:8085/display/JENKINS/Log+Parser+Plugin) can
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Log+Parser+Plugin) can
     help you to quickly set some parsing rules for your Unity3d builds.
     Here's a tentative set of rules that we use in one project:
     ``` syntaxhighlighter-pre
@@ -257,7 +257,7 @@ scripts](https://bitbucket.org/WeWantToKnow/unity3d_scripts).
 
 &nbsp;
 
--   [Xvfb Plugin](http://localhost:8085/display/JENKINS/Xvfb+Plugin) for
+-   [Xvfb Plugin](https://wiki.jenkins.io/display/JENKINS/Xvfb+Plugin) for
     running Unity on Linux headless servers.
 
 #### Known issues

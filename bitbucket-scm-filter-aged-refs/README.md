@@ -4,7 +4,7 @@
 
 This plugin extends the filtering abilities of the [Bitbucket Branch
 Source
-Plugin](http://localhost:8085/display/JENKINS/Bitbucket+Branch+Source+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Bitbucket+Branch+Source+Plugin).
 
 This filter will ignore references (branches and pull requests) where
 its last commit creation date is older than the defined threshold (in

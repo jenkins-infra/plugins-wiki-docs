@@ -139,7 +139,7 @@ The following features are provided by this plug-in:
 # DTD, XML FILES
 
 Any xml report file, must be validated by the following DTD : [DTD
-report](http://localhost:8085/download/attachments/42468412/report.dtd?version=1&modificationDate=1262493971000&api=v2).
+report](https://wiki.jenkins.io/download/attachments/42468412/report.dtd?version=1&modificationDate=1262493971000&api=v2).
 
 ## How-to generate your reports
 
@@ -367,7 +367,7 @@ Useful Information
 # XML-GENERATOR
 
 The tool xml-generator
-([xml-generator.jar](http://localhost:8085/download/attachments/42468412/xml-generator.jar?version=1&modificationDate=1270879301000&api=v2))
+([xml-generator.jar](https://wiki.jenkins.io/download/attachments/42468412/xml-generator.jar?version=1&modificationDate=1270879301000&api=v2))
 generates exemples of valid reports.
 
 xml-generator usage

@@ -18,14 +18,14 @@ The plugin requires two or three input files:
     the  [readme in the github
     repo](https://github.com/jenkinsci/misra-compliance-report-generator-plugin).
 2.  [A list of source
-    files](http://localhost:8085/display/JENKINS/MISRA+Compliance+Report+Plugin#MISRAComplianceReportPlugin-listofsourcefiles)
+    files](https://wiki.jenkins.io/display/JENKINS/MISRA+Compliance+Report+Plugin#MISRAComplianceReportPlugin-listofsourcefiles)
     (including header files). The plugin will scan through the files
     looking for "suppression comments" - comments that suppress the
     MISRA checking tool from giving warnings. You can add special tags
     to these comments to tell the plugin how to handle them.
 3.  Your Guideline Re-categorization Plan (GRP), if you have one, must
     be provided in [a simple text
-    format](http://localhost:8085/display/JENKINS/MISRA+Compliance+Report+Plugin#MISRAComplianceReportPlugin-grp). 
+    format](https://wiki.jenkins.io/display/JENKINS/MISRA+Compliance+Report+Plugin#MISRAComplianceReportPlugin-grp). 
 
 Achieving MISRA compliance is about more than just following the coding
 guidelines, and it requires a lot of work even when using tools like

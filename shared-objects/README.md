@@ -3,7 +3,7 @@ This plugin makes it possible to share objects (script file, source
 file, tool installation, ...) from an environment in Jenkins and manage
 dynamically these objects through environment variables with the
 [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) during
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) during
 the job build.
 
 # Features
@@ -38,38 +38,38 @@ Add uberClassLoader to Shared Objects Groovy Scripts
 ## 0.42
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.68  
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.68  
 \* Reauire Jenkins 1.444+
 
 ## 0.41
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.62
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.62
 
 ## 0.40
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.60
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.60
 
 ## 0.39
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.59
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.59
 
 ## 0.38
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.58
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.58
 
 ## 0.37
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.57
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.57
 
 ## 0.36
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.56
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.56
 
 ## 0.35
 
@@ -81,27 +81,27 @@ groovy script content)
 ## 0.34
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.55
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.55
 
 ## 0.33
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.54
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.54
 
 ## 0.32
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.53
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.53
 
 ## 0.31
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.52
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.52
 
 ## 0.30
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.51
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.51
 
 ## 0.29
 
@@ -113,32 +113,32 @@ EnvInject
 ## 0.28
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.50
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.50
 
 ## 0.27
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.49
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.49
 
 ## 0.26
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.48
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.48
 
 ## 0.25
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.47
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.47
 
 ## 0.24
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.46
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.46
 
 ## 0.23
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.45
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.45
 
 ## 0.22
 
@@ -151,71 +151,71 @@ Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.45
 ## 0.20
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.44  
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.44  
 \* Try to fix redirection on the save button (on a local reverse proxy
 infrastructure)
 
 ## 0.19
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.42
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.42
 
 ## 0.18
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.39
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.39
 
 ## 0.17
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.38  
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.38  
 \* Add the ability to export a properties file through an URL as
 environment variables
 
 ## 0.16
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.37
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.37
 
 ## 0.15
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.36
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.36
 
 ## 0.14
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.35
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.35
 
 ## 0.13
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.34
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.34
 
 ## 0.12
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.33
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.33
 
 ## 0.11
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.32
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.32
 
 ## 0.10
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.31
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.31
 
 ## 0.9
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.30
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.30
 
 ## 0.8
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.29  
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.29  
 \* Fix
 [JENKINS-12879](https://issues.jenkins-ci.org/browse/JENKINS-12879) -
 Verion 1.27 of EnvInject does not work with Tool Environment plugin
@@ -223,18 +223,18 @@ Verion 1.27 of EnvInject does not work with Tool Environment plugin
 ## 0.7
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.28
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.28
 
 ## 0.6
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 1.27
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 1.27
 with a build context
 
 ## 0.5
 
 \* Update to [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) 0.5  
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) 0.5  
 \* Refactoring profiles usage
 
 ## 0.4

@@ -3,7 +3,7 @@ Integrates Jenkins with
 This plugin interfaces Jenkins against a dynamic base view, Clearcase
 SCM. Its 'Simple' in the sense of feature availability. In contrast with
 [ClearCase
-Plugin](http://localhost:8085/display/JENKINS/ClearCase+Plugin) you
+Plugin](https://wiki.jenkins.io/display/JENKINS/ClearCase+Plugin) you
 don't define a static config specification in the SCM plugin. Rather
 what you specify is a view name and the load rules which are to be
 tracked inside of ClearCase repository.
@@ -39,7 +39,7 @@ inside of the view.
 If that is required, you can create a Jenkins job which has the task of
 updating the config spec, in for instance a shell script. That job
 should be marked as [Exclusive
-Execution](http://localhost:8085/display/JENKINS/Exclusive+Execution+Plugin)
+Execution](https://wiki.jenkins.io/display/JENKINS/Exclusive+Execution+Plugin)
 by installing the referred plugin. This will ensure no inconsistencies
 will happen as the updating of config spec is being performed in
 solitude, no other jobs are being executed.

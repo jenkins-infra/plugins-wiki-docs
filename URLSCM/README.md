@@ -8,7 +8,7 @@ into the workspace as a file.  The file is given the same name as the
 final filename component of the URL.  URLs without a filename component
 cannot be used at this time.    
 This does duplicate some of what the [URLChange Trigger
-plugin](http://localhost:8085/display/JENKINS/URL+Change+Trigger) does.
+plugin](https://wiki.jenkins.io/display/JENKINS/URL+Change+Trigger) does.
 
 Benefits this plugin over the URLChange Trigger are:  
 1. You can choose your own polling schedule via the SCM Polling

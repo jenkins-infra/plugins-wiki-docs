@@ -7,7 +7,7 @@ This plugin allows to invoke the **wsadmin** command of IBM WebSphere
 Application Server (WAS) 6.0/6.1/7.0 as a build step. It can be used for
 example to deploy a freshly built application (self-promo: using the
 [RAD Builder
-Plugin](http://localhost:8085/display/JENKINS/RAD+Builder+Plugin)).
+Plugin](https://wiki.jenkins.io/display/JENKINS/RAD+Builder+Plugin)).
 
 This plugin supports:
 
@@ -93,7 +93,7 @@ used (thanks Ilko).
 
 -   Added an option which allows creating automatically, if the
     [locks-and-latches
-    plugin](http://localhost:8085/display/JENKINS/Locks+and+Latches+plugin)
+    plugin](https://wiki.jenkins.io/display/JENKINS/Locks+and+Latches+plugin)
     is installed, one lock per defined WAS server.
 
 ### Version 1.2 (04/06/2010)

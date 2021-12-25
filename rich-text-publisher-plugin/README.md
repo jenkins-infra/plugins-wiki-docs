@@ -47,7 +47,7 @@ File names are relative to the workspace.
 ### Posting rich text messages on the Dashboard
 
 Jenkins Dashboard view is provided by [Dashboard
-View](http://localhost:8085/display/JENKINS/Dashboard+View) plugin.
+View](https://wiki.jenkins.io/display/JENKINS/Dashboard+View) plugin.
 
 Rich Text Publisher plugin adds two types of dashboard portlets: "Rich
 Text" and "Rich text published within a build". The first one publishes
@@ -72,7 +72,7 @@ Updated Jenkins core version.
 ##### 1.2
 
 Added support for [Dashboard
-View](http://localhost:8085/display/JENKINS/Dashboard+View). Arbitrary
+View](https://wiki.jenkins.io/display/JENKINS/Dashboard+View). Arbitrary
 and build-specific text may be displayed on the dashboard.
 
 ##### 1.1

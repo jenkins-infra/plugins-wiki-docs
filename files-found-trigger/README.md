@@ -33,9 +33,9 @@ configuration page.
 ### Similar Plugins
 
 -   [FSTrigger
-    Plugin](http://localhost:8085/display/JENKINS/FSTrigger+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/FSTrigger+Plugin)
 -   [File System
-    SCM](http://localhost:8085/display/JENKINS/File+System+SCM)
+    SCM](https://wiki.jenkins.io/display/JENKINS/File+System+SCM)
 
 ### Release History
 

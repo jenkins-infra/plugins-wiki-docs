@@ -21,7 +21,7 @@ The value can be changed:
 -   Via the CLI using the `set-next-build-number` command (Requires \>=
     v1.1)
 -   Programmatically via the **Job DSL** plugin
-    (see [usage](http://localhost:8085/display/JENKINS/Next+Build+Number+Plugin#NextBuildNumberPlugin-JobDSL)).
+    (see [usage](https://wiki.jenkins.io/display/JENKINS/Next+Build+Number+Plugin#NextBuildNumberPlugin-JobDSL)).
     (Requires \>= v1.3 of this plugin and Job DSL \>= 1.41)
 
 Manual Usage:

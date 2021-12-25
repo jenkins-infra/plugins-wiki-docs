@@ -1,7 +1,7 @@
 
 This plugin provides additional run conditions and integrations for [Run
 Condition
-Plugin](http://localhost:8085/display/JENKINS/Run+Condition+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Run+Condition+Plugin)
 
 # Page contents
 
@@ -18,10 +18,10 @@ Plugin](http://localhost:8085/display/JENKINS/Run+Condition+Plugin)
 Plugin integrations:
 
 1.  [Email-ext
-    plugin](http://localhost:8085/display/JENKINS/Email-ext+plugin)
+    plugin](https://wiki.jenkins.io/display/JENKINS/Email-ext+plugin)
     -   Conditional e-mail trigger
 2.  [Build-timeout
-    Plugin](http://localhost:8085/display/JENKINS/Build-timeout+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Build-timeout+Plugin)
     -   Conditional build timeout
 
 ## Examples
@@ -45,6 +45,6 @@ Plugin integrations:
 ### Version 0.1 (01/18/2014)
 
 -   Conditional e-mail trigger for [Email-ext
-    plugin](http://localhost:8085/display/JENKINS/Email-ext+plugin)
+    plugin](https://wiki.jenkins.io/display/JENKINS/Email-ext+plugin)
 -   Conditional build timeout for [Build-timeout
-    Plugin](http://localhost:8085/display/JENKINS/Build-timeout+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Build-timeout+Plugin)

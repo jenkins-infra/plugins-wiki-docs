@@ -1,5 +1,5 @@
 This plugin builds on top of [Deployment Notification
-Plugin](http://localhost:8085/display/JENKINS/Deployment+Notification+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Deployment+Notification+Plugin)
 and lets Chef users track when/where/what files are deployed, and
 trigger other activities after deployments have happened.
 

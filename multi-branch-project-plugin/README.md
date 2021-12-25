@@ -1,7 +1,7 @@
 # **DEPRECATED**
 
 **This plugin is deprecated. Please move to the** **[Multibranch
-Pipeline](http://localhost:8085/display/JENKINS/Pipeline+Multibranch+Plugin)**
+Pipeline](https://wiki.jenkins.io/display/JENKINS/Pipeline+Multibranch+Plugin)**
 **job type.**
 
 This plugin adds additional project types that create sub-projects for
@@ -10,69 +10,69 @@ each branch using a shared configuration.
 # **DEPRECATED**
 
 **This plugin is deprecated. Please move to the** **[Multibranch
-Pipeline](http://localhost:8085/display/JENKINS/Pipeline+Multibranch+Plugin)**
+Pipeline](https://wiki.jenkins.io/display/JENKINS/Pipeline+Multibranch+Plugin)**
 **job type.**
 
 #### Table of Contents
 
--   [Background](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Background)
+-   [Background](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Background)
     -   [Screenshot - Project
-        Page](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Screenshot-ProjectPage)
--   [Notes](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Notes)
+        Page](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Screenshot-ProjectPage)
+-   [Notes](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Notes)
     -   [Available
-        SCMs](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-AvailableSCMs)
-    -   [Usage](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Usage)
-    -   [Gotchas](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Gotchas)
+        SCMs](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-AvailableSCMs)
+    -   [Usage](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Usage)
+    -   [Gotchas](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Gotchas)
 -   [Change
-    Log](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-ChangeLog)
+    Log](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-ChangeLog)
     -   [Version 0.7 (Apr
-        7, 2017)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.7(Apr7,2017))
+        7, 2017)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.7(Apr7,2017))
     -   [Version 0.6 (Feb
-        22, 2017)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.6(Feb22,2017))
+        22, 2017)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.6(Feb22,2017))
     -   [Version 0.5.1 (Jul
-        8, 2016)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.5.1(Jul8,2016))
+        8, 2016)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.5.1(Jul8,2016))
     -   [Version 0.5 (Jul
-        1, 2016)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.5(Jul1,2016))
+        1, 2016)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.5(Jul1,2016))
     -   [Version 0.4.2 (Apr
-        16, 2016)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.4.2(Apr16,2016))
+        16, 2016)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.4.2(Apr16,2016))
     -   [Version 0.4.1 (Dec
-        11, 2015)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.4.1(Dec11,2015))
+        11, 2015)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.4.1(Dec11,2015))
     -   [Version 0.4 (Dec
-        2, 2015)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.4(Dec2,2015))
+        2, 2015)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.4(Dec2,2015))
     -   [Version 0.3 (Aug
-        30, 2015)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.3(Aug30,2015))
+        30, 2015)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.3(Aug30,2015))
     -   [Version 0.2.4 (Aug
-        5, 2015)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.4(Aug5,2015))
+        5, 2015)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.4(Aug5,2015))
     -   [Version 0.2.3 (Jul
-        7, 2015)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.3(Jul7,2015))
+        7, 2015)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.3(Jul7,2015))
     -   [Version 0.2.2 (Apr
-        14, 2015)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.2(Apr14,2015))
+        14, 2015)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.2(Apr14,2015))
     -   [Version 0.2.1 (Apr
-        13, 2015)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.1(Apr13,2015))
+        13, 2015)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.1(Apr13,2015))
     -   [Version 0.2 (Apr
-        13, 2015)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2(Apr13,2015))
+        13, 2015)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2(Apr13,2015))
     -   [Version 0.1.3 (Oct
-        30, 2014)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.1.3(Oct30,2014))
+        30, 2014)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.1.3(Oct30,2014))
     -   [Version 0.1.2 (Aug
-        29, 2014)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.1.2(Aug29,2014))
+        29, 2014)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.1.2(Aug29,2014))
     -   [Version 0.1.1 (Aug
-        13, 2014)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.1.1(Aug13,2014))
+        13, 2014)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.1.1(Aug13,2014))
     -   [Version 0.1 (Aug
-        12, 2014)](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.1(Aug12,2014))
+        12, 2014)](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.1(Aug12,2014))
 -   [Upgrade
-    Notes](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-UpgradeNotes)
+    Notes](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-UpgradeNotes)
     -   [Version
-        0.7.x](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.7.x)
+        0.7.x](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.7.x)
     -   [Version
-        0.6.x](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.6.x)
+        0.6.x](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.6.x)
     -   [Version
-        0.5.x](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.5.x)
+        0.5.x](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.5.x)
     -   [Version
-        0.4.x](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.4.x)
+        0.4.x](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.4.x)
     -   [Version
-        0.3.x](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.3.x)
+        0.3.x](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.3.x)
     -   [Version
-        0.2.x](http://localhost:8085/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.x)
+        0.2.x](https://wiki.jenkins.io/display/JENKINS/Multi-Branch+Project+Plugin#Multi-BranchProjectPlugin-Version0.2.x)
 
 # Background
 
@@ -82,7 +82,7 @@ as they've become stable. The original goal was to provide a single new
 project type whose configuration mimics that of a standard free-style
 project. The only difference was that the SCM configuration section
 utilizes the [SCM API
-Plugin](http://localhost:8085/display/JENKINS/SCM+API+Plugin) (and so
+Plugin](https://wiki.jenkins.io/display/JENKINS/SCM+API+Plugin) (and so
 the options may seem somewhat limited compared to the usual SCM
 options). The project will use this SCM to automatically poll for a list
 of current branches and sync all the configuration to sub-projects. Each
@@ -100,7 +100,7 @@ project's page.
 
 Any SCM plugin that has an implementation that extends the below class
 from the [SCM API
-Plugin](http://localhost:8085/display/JENKINS/SCM+API+Plugin) will be
+Plugin](https://wiki.jenkins.io/display/JENKINS/SCM+API+Plugin) will be
 available:
 
 ``` syntaxhighlighter-pre
@@ -110,14 +110,14 @@ jenkins.scm.api.SCMSource
 Known implementations:
 
 -   [Bitbucket Branch Source
-    Plugin](http://localhost:8085/display/JENKINS/Bitbucket+Branch+Source+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Bitbucket+Branch+Source+Plugin)
 -   [GitHub Branch Source
-    Plugin](http://localhost:8085/display/JENKINS/GitHub+Branch+Source+Plugin)
--   [Git Plugin](http://localhost:8085/display/JENKINS/Git+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/GitHub+Branch+Source+Plugin)
+-   [Git Plugin](https://wiki.jenkins.io/display/JENKINS/Git+Plugin)
 -   [Mercurial
-    Plugin](http://localhost:8085/display/JENKINS/Mercurial+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Mercurial+Plugin)
 -   [Subversion
-    Plugin](http://localhost:8085/display/JENKINS/Subversion+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Subversion+Plugin)
 
 ### Usage
 

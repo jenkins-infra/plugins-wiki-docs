@@ -22,14 +22,14 @@ The following features are provided by this plug-in:
     language.
 -   Overview of the lines per file, folder or language.
 -   [Dashboard
-    View](http://localhost:8085/display/JENKINS/Dashboard+View) portlet
+    View](https://wiki.jenkins.io/display/JENKINS/Dashboard+View) portlet
     showing number of lines, files and languages per job.
 -   Remote access API ([REST
     API](https://wiki.jenkins-ci.org/display/JENKINS/Remote+access+API)).
 -   Works with any project/job type.
 
 This plug-in is developed and maintained by Nicolas Piguet. Please use
-the [Mailing Lists](http://localhost:8085/display/JENKINS/Mailing+Lists)
+the [Mailing Lists](https://wiki.jenkins.io/display/JENKINS/Mailing+Lists)
 or [issue tracker](http://issues.jenkins-ci.org/) to ask questions,
 create feature request or bug reports, since I don't read the comment
 section on this page regularly.

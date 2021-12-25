@@ -3,7 +3,7 @@
 ## Description
 
 This plugin extends the filtering abilities of the [GitHub Branch Source
-Plugin](http://localhost:8085/display/JENKINS/GitHub+Branch+Source+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/GitHub+Branch+Source+Plugin).
 
 This filter will ignore events that the source branch last commit
 contains the tags \[skip ci\] or \[ci skip\]. It provides a similar

@@ -63,7 +63,7 @@ Parsing error on some JSUnit reports
 ##### Version 1.0
 
 -   Updated to the new [xUnit
-    plugin](http://localhost:8085/display/JENKINS/xUnit+Plugin)
+    plugin](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin)
     architecture.  
     Gallio Hudson plugin uses xUnit 1.6
 

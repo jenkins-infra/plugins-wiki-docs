@@ -40,7 +40,7 @@ encourage you to implement support for linkers yourself or to contribute
 by proxy (<http://www.praqma.com/stories/contribbyproxy>).
 
 Read more about the ongoing development below: [\#Ongoing
-development](http://localhost:8085/display/JENKINS/memory+map+plugin#MemoryMapPlugin-Ongoingdevelopment).
+development](https://wiki.jenkins.io/display/JENKINS/memory+map+plugin#MemoryMapPlugin-Ongoingdevelopment).
 
 Some of the next obvious linkers choices to implement are:
 
@@ -58,7 +58,7 @@ The plugin provides assistance with:
 -   Later the plugin will be extended so that memory usage can be
     browsed, through different layers of the graph, in details down to
     each symbol in the code. See [\#Road
-    map](http://localhost:8085/display/JENKINS/memory+map+plugin#MemoryMapPlugin-Roadmap)
+    map](https://wiki.jenkins.io/display/JENKINS/memory+map+plugin#MemoryMapPlugin-Roadmap)
 
 [TABLE]
 
@@ -162,7 +162,7 @@ respectively.
     time for refactoring if you expect to need more than that 5%.
 
 You can contribute with one or more of these features - see
-[\#Contributions](http://localhost:8085/display/JENKINS/memory+map+plugin#MemoryMapPlugin-Contributions).
+[\#Contributions](https://wiki.jenkins.io/display/JENKINS/memory+map+plugin#MemoryMapPlugin-Contributions).
 
 If you want a feature, without doing the dirty work yourself sponsor our
 development and contribute by proxy. See

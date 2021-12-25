@@ -2,9 +2,9 @@
 
 This plugin implements a text finder condition to be used by the [Run
 Condition
-Plugin](http://localhost:8085/display/JENKINS/Run+Condition+Plugin).  
+Plugin](https://wiki.jenkins.io/display/JENKINS/Run+Condition+Plugin).  
 This is a condition based on the [Text-finder
-Plugin](http://localhost:8085/display/JENKINS/Text-finder+Plugin) with
+Plugin](https://wiki.jenkins.io/display/JENKINS/Text-finder+Plugin) with
 some minor changes.
 
 -   It always returns true on the first occurrence of the match,

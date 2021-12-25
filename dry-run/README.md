@@ -7,8 +7,8 @@ This plugin enables you to run your job in a dry-run mode.
 If build step are dry-run aware (implements DryRun extension point), the
 dry-run execution is delegated to the build step.  
 At the moment, the [Gradle
-Plugin](http://localhost:8085/display/JENKINS/Gradle+Plugin) and the
-[xUnit Plugin](http://localhost:8085/display/JENKINS/xUnit+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Gradle+Plugin) and the
+[xUnit Plugin](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin)
 provide the dry-run feature.  
 And we strongly recommend other plugins to implement the DryRun
 extension point.

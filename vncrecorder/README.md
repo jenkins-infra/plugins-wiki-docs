@@ -2,8 +2,8 @@
 This plugin records screen of current build or other configured VNC
 session as Shock Wave Flash (swf) file during a build and stores it as
 an artifact. This plugin can be used in combination with
-[VncViewer](http://localhost:8085/display/JENKINS/VncViewer+Plugin) and
-[Xvnc plugin](http://localhost:8085/display/JENKINS/Xvnc+Plugin).
+[VncViewer](https://wiki.jenkins.io/display/JENKINS/VncViewer+Plugin) and
+[Xvnc plugin](https://wiki.jenkins.io/display/JENKINS/Xvnc+Plugin).
 
 After the build, the video file gets also published as a HTTP link in
 the "Console output" of the build. The generated HTML file embeds a
@@ -20,7 +20,7 @@ in browser.
 
 ![](docs/images/recordVncSession.png)
 
-## Example for usage together with [Xvnc plugin](http://localhost:8085/display/JENKINS/Xvnc+Plugin)
+## Example for usage together with [Xvnc plugin](https://wiki.jenkins.io/display/JENKINS/Xvnc+Plugin)
 
 ![](docs/images/Xvnc.png)
 
@@ -37,9 +37,9 @@ in browser.
 ![](docs/images/vncrecorder4.png)
 
 The generated HTML file
-[MyTest\_2.html](http://localhost:8085/download/attachments/74055684/MyTest_2.html?version=1&modificationDate=1410512066000&api=v2) embeds
+[MyTest\_2.html](https://wiki.jenkins.io/download/attachments/74055684/MyTest_2.html?version=1&modificationDate=1410512066000&api=v2) embeds
 video
-[MyTest\_2.swf](http://localhost:8085/download/attachments/74055684/MyTest_2.swf?version=1&modificationDate=1410512061000&api=v2) and
+[MyTest\_2.swf](https://wiki.jenkins.io/download/attachments/74055684/MyTest_2.swf?version=1&modificationDate=1410512061000&api=v2) and
 makes it possible to navigate within a video directly in browser.
 
 # Path of vnc2swf

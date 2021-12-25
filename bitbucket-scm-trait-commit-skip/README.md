@@ -4,7 +4,7 @@
 
 This plugin extends the filtering abilities of the [Bitbucket Branch
 Source
-Plugin](http://localhost:8085/display/JENKINS/Bitbucket+Branch+Source+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Bitbucket+Branch+Source+Plugin).
 
 This filter will ignore events that the source branch last commit
 contains the tags \[skip ci\] or \[ci skip\]. It provides a similar

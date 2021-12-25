@@ -69,7 +69,7 @@ by further clicking a task of the interest, as below:
 #### Version 1.15 (Apr 5, 2012)
 
 -   Refactored internally to [support hierarchical
-    project](http://localhost:8085/display/JENKINS/Hierarchical+projects+support)
+    project](https://wiki.jenkins.io/display/JENKINS/Hierarchical+projects+support)
 
 #### Version 1.14 (Nov 11, 2010) - *requires Hudson 1.383+*
 
@@ -81,7 +81,7 @@ by further clicking a task of the interest, as below:
 -   Use resizable text area for task script.
     ([JENKINS-5578](https://issues.jenkins-ci.org/browse/JENKINS-5578))
 -   Apply environment settings from
-    [setenv](http://localhost:8085/display/JENKINS/Setenv+Plugin) plugin
+    [setenv](https://wiki.jenkins.io/display/JENKINS/Setenv+Plugin) plugin
     when running tasks.
     ([JENKINS-5580](https://issues.jenkins-ci.org/browse/JENKINS-5580))
 -   Show links to downstream tasks on project page.

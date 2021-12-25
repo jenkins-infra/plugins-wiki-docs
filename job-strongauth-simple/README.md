@@ -1,5 +1,5 @@
 Japanese: [Job StrongAuthSimple
-Plugin](http://localhost:8085/display/JA/Job+StrongAuthSimple+Plugin)
+Plugin](https://wiki.jenkins.io/display/JA/Job+StrongAuthSimple+Plugin)
 
 # Summary
 

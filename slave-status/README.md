@@ -50,9 +50,9 @@ you also want to monitor memory usage.
 1.  Use new extensibility tools to allow easy addition of more
     monitoring (threads used, garbage collection, and so on). See
     [Defining a new extension
-    point](http://localhost:8085/display/JENKINS/Defining+a+new+extension+point).
+    point](https://wiki.jenkins.io/display/JENKINS/Defining+a+new+extension+point).
 2.  Add functional tests. See [Unit
-    Test](http://localhost:8085/display/JENKINS/Unit+Test) (misnamed).
+    Test](https://wiki.jenkins.io/display/JENKINS/Unit+Test) (misnamed).
 
 ## Change Log
 

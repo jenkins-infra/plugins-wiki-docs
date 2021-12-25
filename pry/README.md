@@ -5,7 +5,7 @@ of the Groovy shell console
 # Usage
 
 This plugin adds the "pry" command to [Jenkins
-CLI](http://localhost:8085/display/JENKINS/Jenkins+CLI), which allows
+CLI](https://wiki.jenkins.io/display/JENKINS/Jenkins+CLI), which allows
 you to connect to Jenkins from a remote machine and execute a pry
 session remotely. Type "help" in the prompt to get the list of available
 pry commands. A sample session below:

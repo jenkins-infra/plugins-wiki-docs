@@ -47,7 +47,7 @@ plugin provides.
 This plugin solves both of these issues so you only need one place to
 look. We also have some grand plans to integrate this with the
 [quarantine](https://github.com/samsta/quarantine) and [test
-stability](http://localhost:8085/display/JENKINS/Test+stability+plugin)
+stability](https://wiki.jenkins.io/display/JENKINS/Test+stability+plugin)
 plugins.
 
 ## Can I still use the other cucumber plugin.
@@ -68,7 +68,7 @@ issue](http://issues.jenkins-ci.org/secure/IssueNavigator.jspa?mode=show&createN
 ## 0.11 (not yet released)
 
 build
-from [source](http://localhost:8085/display/JENKINS/Source+code) or
+from [source](https://wiki.jenkins.io/display/JENKINS/Source+code) or
 download
 from [here](https://jenkins.ci.cloudbees.com/job/plugins/job/cucumber-testresult-plugin/lastStableBuild/org.jenkins-ci.plugins$cucumber-testresult-plugin/) if
 interested

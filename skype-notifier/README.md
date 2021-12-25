@@ -13,7 +13,7 @@ Installation Requirements
 Follow the steps below 
 
 This plugin needs the [Instant Messaging
-Plugin](http://localhost:8085/display/JENKINS/Instant+Messaging+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Instant+Messaging+Plugin).
 Please ensure that the latest version of this plug-in is also
 installed.This plugin requires special hudson setup to work.
 

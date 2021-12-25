@@ -37,10 +37,10 @@ integrate Jenkins and TestLink using TestLink Plug-in.
     (HTML)](http://tupilabs.com/books/jenkins-testlink-plugin-tutorial/pt-br/index.html)
     (Brazilian Portuguese)
 
-#### [Who is using Jenkins TestLink Plug-in](http://localhost:8085/display/JENKINS/Who+is+using+TestLink+Plug-in)
+#### [Who is using Jenkins TestLink Plug-in](https://wiki.jenkins.io/display/JENKINS/Who+is+using+TestLink+Plug-in)
 
 [Let us know if you are using this
-plug-in.](http://localhost:8085/display/JENKINS/Who+is+using+TestLink+Plug-in)
+plug-in.](https://wiki.jenkins.io/display/JENKINS/Who+is+using+TestLink+Plug-in)
 
 ## Description
 
@@ -298,9 +298,9 @@ via [@tupilabs](https://twitter.com/tupilabs)
 ##### Release 3.12 (2016-04-17)
 
 1.  Upgraded
-    [tap4j](http://localhost:8085/display/JENKINS/TestLink+Plugin#)([http://tap4j.org](http://tap4j.org/))
+    [tap4j](https://wiki.jenkins.io/display/JENKINS/TestLink+Plugin#)([http://tap4j.org](http://tap4j.org/))
 2.  Upgraded
-    [testlink-java-api](http://localhost:8085/display/JENKINS/TestLink+Plugin#)(<https://github.com/kinow/testlink-java-api>)
+    [testlink-java-api](https://wiki.jenkins.io/display/JENKINS/TestLink+Plugin#)(<https://github.com/kinow/testlink-java-api>)
 3.  [Pull request \#20: Plan and build custom fields
     support](https://github.com/jenkinsci/testlink-plugin/pull/20)
     thanks @maiksaray!

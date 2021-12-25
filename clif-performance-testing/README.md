@@ -21,21 +21,21 @@ Eclipse, Maven plug-in and... Jenkins plug-in.
 Thanks to this plug-in, you can import CLIF test projects (bundled
 scenarios, test plans and test data sets), typically written using
 CLIF's main GUI, as Jenkins jobs. Then, a detailed [performance
-report](http://localhost:8085/download/attachments/103809689/BuildPerformanceReport.png?version=1&modificationDate=1485272220000&api=v2)
+report](https://wiki.jenkins.io/download/attachments/103809689/BuildPerformanceReport.png?version=1&modificationDate=1485272220000&api=v2)
 is generated for each test run, including a global statistical analysis
 as well as graphs ([scatter
-chart](http://localhost:8085/download/attachments/103809689/callChart.png?version=1&modificationDate=1485272220000&api=v2),
+chart](https://wiki.jenkins.io/download/attachments/103809689/callChart.png?version=1&modificationDate=1485272220000&api=v2),
 [moving
-statistics](http://localhost:8085/download/attachments/103809689/movingStatChart.png?version=1&modificationDate=1485272274000&api=v2),
-[histograms](http://localhost:8085/download/attachments/103809689/fixedSliceNumberDistributionChart.png?version=1&modificationDate=1485272220000&api=v2)
+statistics](https://wiki.jenkins.io/download/attachments/103809689/movingStatChart.png?version=1&modificationDate=1485272274000&api=v2),
+[histograms](https://wiki.jenkins.io/download/attachments/103809689/fixedSliceNumberDistributionChart.png?version=1&modificationDate=1485272220000&api=v2)
 and
-[quantile](http://localhost:8085/download/attachments/103809689/quantileDistributionChart.png?version=1&modificationDate=1485272274000&api=v2)
+[quantile](https://wiki.jenkins.io/download/attachments/103809689/quantileDistributionChart.png?version=1&modificationDate=1485272274000&api=v2)
 distribution analysis) about load injectors' responses times and
 throughput. The CLIF performance report also provides statistics and
 [charts about probes
-measurements](http://localhost:8085/download/attachments/103809689/JVMusage.png?version=1&modificationDate=1485273226000&api=v2).  
+measurements](https://wiki.jenkins.io/download/attachments/103809689/JVMusage.png?version=1&modificationDate=1485273226000&api=v2).  
 A [performance trend
-chart](http://localhost:8085/download/attachments/103809689/PerformanceTrendReport.png?version=1&modificationDate=1485272219000&api=v2)
+chart](https://wiki.jenkins.io/download/attachments/103809689/PerformanceTrendReport.png?version=1&modificationDate=1485272219000&api=v2)
 is also maintained through test executions.
 
 ## Changelog
@@ -85,7 +85,7 @@ fill the fields:
     -   don't care about checkbox "Install automatically" (not
         implemented yet)
     -   checkbox "Run with ProActive Scheduler?" is documented in [this
-        page](http://localhost:8085/display/JENKINS/CLIF+Performance+Testing+Plugin+with+ProActive)
+        page](https://wiki.jenkins.io/display/JENKINS/CLIF+Performance+Testing+Plugin+with+ProActive)
 
 Click on **Save** or **Apply** buttons at the page bottom.
 
@@ -127,7 +127,7 @@ Then, go to the Build section, and add an **Invoke Clif** build step:
 Finally, you may be interested in adding a post-build action to
 automatically generate on each CLIF job successful completion. Refer to
 section below dedicated to [﻿CLIF reports
-configuration](http://localhost:8085/display/JENKINS/CLIF+Performance+Testing+Plugin#CLIFPerformanceTestingPlugin-CLIFreportsconfiguration).
+configuration](https://wiki.jenkins.io/display/JENKINS/CLIF+Performance+Testing+Plugin#CLIFPerformanceTestingPlugin-CLIFreportsconfiguration).
 
 #### Via the Import wizard
 
@@ -171,4 +171,4 @@ post-build action, you may set:
 Beyond the detailed CLIF performance report generated for each CLIF job
 successful run, a Clif performance Trend report is also maintained to
 see the response time and error trends for each request type.  
-[![](docs/images/PerformanceTrendReport-mini.png)](http://localhost:8085/download/attachments/103809689/PerformanceTrendReport.png?version=1&modificationDate=1485272219000&api=v2)
+[![](docs/images/PerformanceTrendReport-mini.png)](https://wiki.jenkins.io/download/attachments/103809689/PerformanceTrendReport.png?version=1&modificationDate=1485272219000&api=v2)

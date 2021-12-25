@@ -16,7 +16,7 @@ get matching first - job will be unblocked, if not - then next condition
 will be verified.
 
 Provides
-[@ExtensionPoint ](http://localhost:8085/display/JENKINS/Extension+points)so
+[@ExtensionPoint ](https://wiki.jenkins.io/display/JENKINS/Extension+points)so
 other plugins can provide other block/unblock features
 
 ## Changelog

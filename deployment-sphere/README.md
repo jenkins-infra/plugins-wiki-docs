@@ -8,12 +8,12 @@ pipeline.
     1.  Open “**Manage Jenkins**”
     2.  Go to “**Available**”
     3.  Find and install [H2 Database
-        Plugin](http://localhost:8085/display/JENKINS/H2+Database+Plugin "H2 Database Plugin")
+        Plugin](https://wiki.jenkins.io/display/JENKINS/H2+Database+Plugin "H2 Database Plugin")
 2.  Install plugin into Jenkins:
     1.  Open “**Manage Jenkins**”
     2.  Go to “**Available**”
     3.  Find and install [Deployment Sphere
-        Plugin](http://localhost:8085/display/JENKINS/Deployment+Sphere+Plugin "Deployment Sphere Plugin")
+        Plugin](https://wiki.jenkins.io/display/JENKINS/Deployment+Sphere+Plugin "Deployment Sphere Plugin")
 3.  Restart Jenkins
 4.  Additional menu item "**Deployment Sphere**" in the left navigation
     block should appear  

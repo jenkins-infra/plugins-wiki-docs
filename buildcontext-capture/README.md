@@ -21,7 +21,7 @@ it to your artifacts.
 
 -   To capture environment variables used by the build  
     Note: It is suggested to use [EnvInject
-    plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) for
+    plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) for
     managing environment variables  
     and there is a connector between EnvInject plugin and
     BuildContextCapture plugin.

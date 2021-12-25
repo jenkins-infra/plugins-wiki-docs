@@ -161,7 +161,7 @@ start /BUILD/
 ### Job Configuration
 
 1.  Go to menu: Jenkins -\> [job
-    name](http://localhost:8085/display/JENKINS/Log+Parser+Plugin#) -\>
+    name](https://wiki.jenkins.io/display/JENKINS/Log+Parser+Plugin#) -\>
     Configure
 2.  Go to section : Post-build Actions
 3.  Check the "Console output (build log) parsing" checkbox.

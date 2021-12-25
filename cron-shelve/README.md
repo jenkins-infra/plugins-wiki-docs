@@ -5,7 +5,7 @@ The cron-shelve plugin allows you to harvest hundreds of stale jobs in
 consistent automated manner.  
 This plugin exposes a new option in "Manage Jenkins" section called
 "Cron-Shelve". This plugin is a great option in cases where the [Job DSL
-Plugin](http://localhost:8085/display/JENKINS/Job+DSL+Plugin) is used  
+Plugin](https://wiki.jenkins.io/display/JENKINS/Job+DSL+Plugin) is used  
 and a consistent naming convention is maintained to deploy hundreds of
 jobs.
 

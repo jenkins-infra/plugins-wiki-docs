@@ -13,7 +13,7 @@ work.
 
 If Jenkins is 1.453 or later, Jenkins will not allow JavaScript in
 description. You will need ["Anything Goes"
-formatter](http://localhost:8085/pages/viewpage.action?pageId=60915753).
+formatter](https://wiki.jenkins.io/pages/viewpage.action?pageId=60915753).
 
 ## Version History
 

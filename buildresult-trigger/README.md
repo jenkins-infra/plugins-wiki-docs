@@ -16,7 +16,7 @@ criteria (unstable, failure, ...)
 Note: The plug-in uses only persistence in memory. There is no impact on
 the Jenkins infrastructure (no new files created).  
 This plugin provides a polling typology among the [XTrigger
-Plugin](http://localhost:8085/display/JENKINS/XTrigger+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/XTrigger+Plugin).
 
 # Some use cases
 
@@ -34,7 +34,7 @@ of the build pipeline is implemented with a Jenkins job.
 
 This plugin provides the inverse mechanism of the core feature
 (downstream/upstream) and the [Parameterized Trigger
-Plugin](http://localhost:8085/display/JENKINS/Parameterized+Trigger+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Parameterized+Trigger+Plugin).
 
 # Changelog
 

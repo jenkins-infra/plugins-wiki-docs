@@ -20,9 +20,9 @@ remove the dependency:
 Additional reading:
 
 -   [Java 11 Developer
-    Guidelines](http://localhost:8085/display/JENKINS/Java+11+Developer+Guidelines). 
+    Guidelines](https://wiki.jenkins.io/display/JENKINS/Java+11+Developer+Guidelines). 
 -   [Known Java 11 Compatibility
-    issues](http://localhost:8085/display/JENKINS/Known+Java+11+Compatibility+issues) 
+    issues](https://wiki.jenkins.io/display/JENKINS/Known+Java+11+Compatibility+issues) 
 -   <https://jenkins.io/doc/administration/requirements/jenkins-on-java-11/>
 -   [Java 11 Support for Jenkins is General
     Availability](https://jenkins.io/blog/2019/03/11/let-s-celebrate-java-11-support/)

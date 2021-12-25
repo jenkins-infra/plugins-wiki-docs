@@ -18,14 +18,14 @@ The following features are provided by this plug-in:
 -   Listing of source code with highlighted issues.
 -   Show all violations highlighted on a single page.
 -   [Dashboard
-    View](http://localhost:8085/display/JENKINS/Dashboard+View) portlet
+    View](https://wiki.jenkins.io/display/JENKINS/Dashboard+View) portlet
     showing number of issues per job.
 -   Remote access API ([REST
     API](https://wiki.jenkins-ci.org/display/JENKINS/Remote+access+API)).
 -   Works with most project/job types.
 
 Please use the [Mailing
-Lists](http://localhost:8085/display/JENKINS/Mailing+Lists) or [issue
+Lists](https://wiki.jenkins.io/display/JENKINS/Mailing+Lists) or [issue
 tracker](http://issues.jenkins-ci.org/) to ask questions, create feature
 request or bug reports.
 

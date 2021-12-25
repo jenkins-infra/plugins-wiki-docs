@@ -153,7 +153,7 @@ results XML files.
 Select one or more network profiles from the lists. The lists contain
 both the predefined network profiles and the custom profiles defined in
 [Global Settings \> Custom Network
-Profiles](http://localhost:8085/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-custom_profiles).
+Profiles](https://wiki.jenkins.io/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-custom_profiles).
 If no network profile is selected, the tests will run with HPE Network
 Virtualization imposing no network conditions.  
 ![](docs/images/profile_select.png)
@@ -198,23 +198,23 @@ The main flow is as follows:
 
 1.  In case a proxy was set, set an environment variable where the name
     is the name configured in [Proxy
-    Configuration](http://localhost:8085/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-proxy_config)
+    Configuration](https://wiki.jenkins.io/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-proxy_config)
     and the value is \<IP:proxy port\> taken from the selected NV Test
     Manager configured in the [Global Settings \> NV Test Manager
-    Hosts](http://localhost:8085/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-nv_hosts).
+    Hosts](https://wiki.jenkins.io/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-nv_hosts).
 2.  Create and start a new test. The name of the test should be in the
     form \<job name\>\_\<build number\>\_test\*.
 3.  Update the test with the first selected network profile.
 4.  Create a new transaction and add it to the test.
 5.  Do the following until all the network profiles are run:
     1.  Run all the steps defined in [Steps to
-        Run](http://localhost:8085/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-steps_to_run).
+        Run](https://wiki.jenkins.io/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-steps_to_run).
     2.  Process the test results based on [Test Results
-        Manipulation](http://localhost:8085/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-test_results).
+        Manipulation](https://wiki.jenkins.io/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-test_results).
         For each successful test, change its name by adding the profile
         name as a suffix. If the duration of the test is greater than
         the threshold defined in the [Thresholds
-        file](http://localhost:8085/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-test_results),
+        file](https://wiki.jenkins.io/display/JENKINS/HPE+Network+Virtualization+Plugin#HPENetworkVirtualizationPlugin-test_results),
         the plugin fails the test and adds an appropriate message. The
         plugin updates the results XML file with the new results.
     3.  Use the next network profile to change the network conditions.

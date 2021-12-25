@@ -95,28 +95,28 @@ Jira](https://issues.jenkins-ci.org/secure/IssueNavigator.jspa?reset=true&jqlQue
 Other plugins powered by 1&1:
 
 -   [Build Environment
-    Plugin](http://localhost:8085/display/JENKINS/Build+Environment+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Build+Environment+Plugin)
 -   [Email Ext Recipients Column
-    Plugin](http://localhost:8085/display/JENKINS/Email+Ext+Recipients+Column+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Email+Ext+Recipients+Column+Plugin)
 -   [JobConfigHistory
-    Plugin](http://localhost:8085/display/JENKINS/JobConfigHistory+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/JobConfigHistory+Plugin)
 -   [Job Direct Mail
-    Plugin](http://localhost:8085/display/JENKINS/Job+Direct+Mail+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Job+Direct+Mail+Plugin)
 -   [jobtemplates
-    Plugin](http://localhost:8085/display/JENKINS/jobtemplates+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/jobtemplates+Plugin)
 -   [JQS Monitoring
-    Plugin](http://localhost:8085/display/JENKINS/JQS+Monitoring+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/JQS+Monitoring+Plugin)
 -   [JSWidgets
-    Plugin](http://localhost:8085/display/JENKINS/JSWidgets+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/JSWidgets+Plugin)
 -   [Logfilesizechecker
-    Plugin](http://localhost:8085/display/JENKINS/Logfilesizechecker+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Logfilesizechecker+Plugin)
 -   [Periodic Reincarnation
-    Plugin](http://localhost:8085/display/JENKINS/Periodic+Reincarnation+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Periodic+Reincarnation+Plugin)
 -   [Pom2Config
-    Plugin](http://localhost:8085/display/JENKINS/Pom2Config+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pom2Config+Plugin)
 -   [SCM2Job
-    Plugin](http://localhost:8085/display/JENKINS/SCM2Job+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/SCM2Job+Plugin)
 -   [System Load Average Monitor
-    Plugin](http://localhost:8085/display/JENKINS/System+Load+Average+Monitor+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/System+Load+Average+Monitor+Plugin)
 -   [Violation Columns
-    Plugin](http://localhost:8085/display/JENKINS/Violation+Columns+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Violation+Columns+Plugin)

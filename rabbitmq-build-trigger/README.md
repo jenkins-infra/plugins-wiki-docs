@@ -5,7 +5,7 @@ This plugin triggers build using remote build message in RabbitMQ queue.
 # Usage
 
 This plugin needs [RabbitMQ Consumer
-Plugin](http://localhost:8085/display/JENKINS/RabbitMQ+Consumer+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/RabbitMQ+Consumer+Plugin).
 It would be installed by dependency for this plugin. Then you need to
 configure it before using this plugin.
 

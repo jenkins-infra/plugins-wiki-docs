@@ -49,7 +49,7 @@ LogfilesizecheckerWrapper, the build aborts with the following error: 
 
 ### Version 1.1 (Oct 26 2013)
 
--   [JENKINS-20221](http://localhost:8085/display/JENKINS/Logfilesizechecker+Plugin#)
+-   [JENKINS-20221](https://wiki.jenkins.io/display/JENKINS/Logfilesizechecker+Plugin#)
     wrong data binding failed job saving
 
 ### Version 1.0 (Sep 10 2012)

@@ -1,6 +1,6 @@
 Adds the ability to execute Jython script. What makes this plugin
 special, as opposed to the [Python
-Plugin](http://localhost:8085/display/JENKINS/Python+Plugin) is that it
+Plugin](https://wiki.jenkins.io/display/JENKINS/Python+Plugin) is that it
 ships with the Jython runtime, instead of actually requiring Python to
 be installed on the machine.
 

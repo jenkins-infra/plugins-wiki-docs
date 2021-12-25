@@ -19,7 +19,7 @@ within Polarion WebClient.
 Note that JIRA also integrates the Polarion WebClient as a web based
 viewer of subversion changes related to issues. When coupled with the
 Jenkins [JIRA
-Plugin](http://localhost:8085/display/JENKINS/JIRA+Plugin) this
+Plugin](https://wiki.jenkins.io/display/JENKINS/JIRA+Plugin) this
 combination provides a very useful integration between source control
 viewing, issue tracking and continuous integration and builds.
 

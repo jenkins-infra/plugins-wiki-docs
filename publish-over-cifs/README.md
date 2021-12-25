@@ -5,20 +5,20 @@ Send build artifacts to a windows share (CIFS/SMB/samba)
 Read Publish Over ... wiki page first
 
 Please read [Publish
-Over](http://localhost:8085/display/JENKINS/Publish+Over) first.  
+Over](https://wiki.jenkins.io/display/JENKINS/Publish+Over) first.  
 Common configuration options that are documented in the Publish Over ...
 wiki page will not be repeated here.
 
-[Features](http://localhost:8085/display/JENKINS/Publish+Over+CIFS+Plugin#PublishOverCIFSPlugin-features)  
-[Configure](http://localhost:8085/display/JENKINS/Publish+Over+CIFS+Plugin#PublishOverCIFSPlugin-configuration)  
+[Features](https://wiki.jenkins.io/display/JENKINS/Publish+Over+CIFS+Plugin#PublishOverCIFSPlugin-features)  
+[Configure](https://wiki.jenkins.io/display/JENKINS/Publish+Over+CIFS+Plugin#PublishOverCIFSPlugin-configuration)  
 [Change
-log](http://localhost:8085/display/JENKINS/Publish+Over+CIFS+Plugin#PublishOverCIFSPlugin-changelog)
+log](https://wiki.jenkins.io/display/JENKINS/Publish+Over+CIFS+Plugin#PublishOverCIFSPlugin-changelog)
 
 # Features
 
 -   Send files to windows shares
 -   The plugin is "promotion aware" see
-    [Promotions](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-promotions)
+    [Promotions](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-promotions)
 -   Publish to multiple shares in the "Post-build Actions"
 -   Passwords are encrypted in the configuration files and in the UI
 -   Copy files to a windows share during a build
@@ -65,7 +65,7 @@ You should now have the configuration options as below
 
 Fill in Name, Hostname, Username, Password and Share. [see Publish Over
 ... for common options for Host
-Configurations](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-host)
+Configurations](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-host)
 
 ###### Hostname
 
@@ -93,7 +93,7 @@ make more configuration options available (see below)
 ![](docs/images/cifs_global_advanced.png)
 
 [see Publish Over ... for common options for Host
-Configurations](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-host)
+Configurations](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-host)
 
 ##### Click "Test Configuration".
 
@@ -109,7 +109,7 @@ share during a build.
 Select "Send files to a windows share" from the "Add build step" drop
 down (pic below) and then configure just like [Configure a job to send
 files to a windows
-share](http://localhost:8085/display/JENKINS/Publish+Over+CIFS+Plugin#PublishOverCIFSPlugin-configjob)
+share](https://wiki.jenkins.io/display/JENKINS/Publish+Over+CIFS+Plugin#PublishOverCIFSPlugin-configjob)
 below
 
 ![](docs/images/cifs_builder.png)
@@ -129,10 +129,10 @@ You should now have the configuration options as below
 ![](docs/images/cifs_configured.png)
 
 [see Publish Over ... for common options for
-Server](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-server)
+Server](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-server)
 
 [see Publish Over ... for common options for Transfer
-Sets](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-transfer)
+Sets](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-transfer)
 
 Source files
 
@@ -145,7 +145,7 @@ make more configuration options available (see below)
 ![](docs/images/cifs_advanced.png)
 
 [see Publish Over ... for common options for Transfer
-Sets](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-transfer)
+Sets](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-transfer)
 
 ###### Clean remote
 
@@ -160,7 +160,7 @@ Server" button, then you will make more configuration options available
 ![](docs/images/cifs_publisher_advanced.png)
 
 [see Publish Over ... for common options for
-Publisher](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-publisher)
+Publisher](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-publisher)
 
 #### Options to override the default Promotion behaviour
 
@@ -169,7 +169,7 @@ available.
 ![](docs/images/cifs_promotions.png)
 
 [see Publish Over ... for common options for
-Promotions](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-promotions)
+Promotions](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-promotions)
 
 # Change log
 

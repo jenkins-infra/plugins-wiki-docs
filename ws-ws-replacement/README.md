@@ -38,7 +38,7 @@ underscores.  No additional set up or configuration is required.
 -   Replaces spaces with in workspace folders only and cannot replace
     spaces in a slaces 'Remote FS Root'
 -   Works seamlessly with [Cloudbees Folder
-    Plug-in](http://localhost:8085/display/JENKINS/CloudBees+Folders+Plugin)
+    Plug-in](https://wiki.jenkins.io/display/JENKINS/CloudBees+Folders+Plugin)
 
 ## Change Log
 

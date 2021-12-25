@@ -8,7 +8,7 @@ to create a view that only shows your favorites.
 
 It is recommended you change your default view to either one you create,
 or follow the directions in [Editing or Replacing the All
-View](http://localhost:8085/display/JENKINS/Editing+or+Replacing+the+All+View)
+View](https://wiki.jenkins.io/display/JENKINS/Editing+or+Replacing+the+All+View)
 to allow the Favorite column to show up. Once you have the Favorite
 column, it will show a star that logged in users will be able to click
 to make a favorite. You can also add another view, and apply the
@@ -96,10 +96,10 @@ Add Chinese translation
 ###    V1.9 @ 2012-06-21
 
 -   Use a [Token
-    Macro](http://localhost:8085/display/JENKINS/Token+Macro+Plugin) of
+    Macro](https://wiki.jenkins.io/display/JENKINS/Token+Macro+Plugin) of
     ${FAVORITE\_USERS\_EMAIL} that will expand to a list of users who
     have marked that job a favorite. This can be used in the
-    [Email-ext](http://localhost:8085/display/JENKINS/Email-ext+plugin) plugin
+    [Email-ext](https://wiki.jenkins.io/display/JENKINS/Email-ext+plugin) plugin
 -   Fix issue for unauthenticated users sometimes seeing all jobs on a
     "Favorites" view.
 

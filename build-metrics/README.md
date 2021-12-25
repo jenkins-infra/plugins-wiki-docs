@@ -1,13 +1,13 @@
 This plugin uses the results from the [Global Build Stats
-Plugin](http://localhost:8085/display/JENKINS/Global+Build+Stats+Plugin) to
+Plugin](https://wiki.jenkins.io/display/JENKINS/Global+Build+Stats+Plugin) to
 generate some basic build metrics.  It is really useful in combination
 with the [sidebar links
-plugin](http://localhost:8085/display/JENKINS/Sidebar-Link+Plugin).
+plugin](https://wiki.jenkins.io/display/JENKINS/Sidebar-Link+Plugin).
 
 ## Requirements 
 
 This plugin requires Jenkins 1.509 or better and the [Global Build Stats
-plugin](http://localhost:8085/display/JENKINS/Global+Build+Stats+Plugin) 1.2
+plugin](https://wiki.jenkins.io/display/JENKINS/Global+Build+Stats+Plugin) 1.2
 or better.
 
 ## Installation
@@ -42,7 +42,7 @@ Configure the following parameters:
 -   Select the time window: default is 2 weeks (must be an integer)
 -   Configure the filters (for more information on this, see the [Global
     Build Stats
-    Plugin](http://localhost:8085/display/JENKINS/Global+Build+Stats+Plugin) configuration
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Global+Build+Stats+Plugin) configuration
     since this part of the UI was copied directly from it).
 
 Click Search and the report will be generated and displayed (see Build
@@ -84,7 +84,7 @@ associated causes).  This plugin provides that reporting mechanism.  To
 be really useful though, we needed to be able to pull it up quickly and
 easily every time we wanted to generate the report.  I use the [sidebar
 links
-plugin](http://localhost:8085/display/JENKINS/Sidebar-Link+Plugin) to
+plugin](https://wiki.jenkins.io/display/JENKINS/Sidebar-Link+Plugin) to
 accomplish this, by simply copying the url for the build metrics report
 screen for a given set of search criteria.  I then enter this URL as a
 sidebar link, using the icon that I created for the plugin and the

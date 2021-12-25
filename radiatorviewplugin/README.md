@@ -83,19 +83,19 @@ Jira](https://issues.jenkins-ci.org/secure/IssueNavigator.jspa?reset=true&jqlQue
 
 -   **UPGRADE TO 1.642.3 BASELINE**
 -   [FIX
-    JENKINS-36320](http://localhost:8085/display/JENKINS/Radiator+View+Plugin#)
+    JENKINS-36320](https://wiki.jenkins.io/display/JENKINS/Radiator+View+Plugin#)
     Meaningless job names with Folders or Pipeline Multibranch Plugin
     -   Now the "Full Name" is used to display jobs in radiators
--   [JENKINS-36708](http://localhost:8085/display/JENKINS/Radiator+View+Plugin#)
+-   [JENKINS-36708](https://wiki.jenkins.io/display/JENKINS/Radiator+View+Plugin#)
     Wrong background image
--   [JENKINS-33645](http://localhost:8085/display/JENKINS/Radiator+View+Plugin#)
+-   [JENKINS-33645](https://wiki.jenkins.io/display/JENKINS/Radiator+View+Plugin#)
     Improve Folders Plugin handling: selecting a folder will now
     recursively select jobs in it
 
 ### Release 1.26 (16 February 2016):
 
 -   **UPGRADE TO 1.554.1 BASELINE**
--   [JENKINS-26392](http://localhost:8085/display/JENKINS/Radiator+View+Plugin#)
+-   [JENKINS-26392](https://wiki.jenkins.io/display/JENKINS/Radiator+View+Plugin#)
     Support CloudBees Folders Plugin (Fix ClassCastException w/ Folders)
     -   No full support. Only avoid crashing when selecting Folders.
 

@@ -61,7 +61,7 @@ See the section "Network and firewalls" for more details.
 If the global Jenkins URL configuration does not fit your needs (e.g. if
 your ECS agents must reach Jenkins through some kind of tunnel) you can
 also override the Jenkins URL in the [Advanced
-Configuration](http://localhost:8085/display/JENKINS/Amazon+EC2+Container+Service+Plugin#AmazonEC2ContainerServicePlugin-advancedconfig)
+Configuration](https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Container+Service+Plugin#AmazonEC2ContainerServicePlugin-advancedconfig)
 of the ECS cloud.
 
 At the bottom of the screen, click on "Add a new Cloud" and select

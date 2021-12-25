@@ -19,7 +19,7 @@ configuration page:
 -   ![(error)](docs/images/error.svg) [JENKINS-49237](https://issues.jenkins-ci.org/browse/JENKINS-49237) -
     Update the plugin to make it compatible with Jenkins 2.102+
     -   More info: [Plugins affected by fix for
-        JEP-200](http://localhost:8085/display/JENKINS/Plugins+affected+by+fix+for+JEP-200)
+        JEP-200](https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200)
 -   [![(error)](docs/images/error.svg) JENKINS-21511](https://issues.jenkins-ci.org/browse/JENKINS-21511) -
     Graph was missing when thresholds were not defined due to
     NullPointerException

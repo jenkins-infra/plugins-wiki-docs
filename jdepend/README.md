@@ -44,12 +44,12 @@ repository. The code should be fairly good.
 -   [JENKINS-49586](https://issues.jenkins-ci.org/browse/JENKINS-49586) -
     Make the plugin compatible with Jenkins 2.102+  
     -   More info: [Plugins affected by fix for
-        JEP-200](http://localhost:8085/display/JENKINS/Plugins+affected+by+fix+for+JEP-200)
+        JEP-200](https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200)
 -   [Commit](https://github.com/jenkinsci/jdepend-plugin/commit/0c8fbfa25f1dac94b1df242578b12da2cd4ac7ec)
     - Create JDepend temporary directory on master (reverts change in
     1.2.4)
     -   Note from [Unknown User
-        (oleg\_nenashev)](http://localhost:8085/display/~oleg_nenashev):
+        (oleg\_nenashev)](https://wiki.jenkins.io/display/~oleg_nenashev):
         This was a pending commit in the master branch. If you
         experience any issues with that, raise a JIRA ticket
 

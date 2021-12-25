@@ -1,5 +1,5 @@
 Jenkins has a mechanism known as "[User
-Content](http://localhost:8085/display/JENKINS/User+Content)", where
+Content](https://wiki.jenkins.io/display/JENKINS/User+Content)", where
 administrators can place files inside `$JENKINS_HOME/userContent`, and
 these files are served from `http://yourhost/jenkins/userContent`. This
 can be thought of as a mini HTTP server to serve images, stylesheets,
@@ -19,7 +19,7 @@ access this repository.
 ### Version 1.4 (Oct 14 2014)
 
 -   Decoupled the dependency from [Git Client
-    Plugin](http://localhost:8085/display/JENKINS/Git+Client+Plugin) to
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Git+Client+Plugin) to
     avoid LinkageErrors due to version incompatibility.
 
 ### Version 1.1 (August 29)

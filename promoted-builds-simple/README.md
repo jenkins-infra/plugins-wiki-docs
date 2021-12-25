@@ -10,13 +10,13 @@ status page, and users with "Update Run" permission will be able to
 promote the build.
 
 Unlike the [Promoted Builds
-Plugin](http://localhost:8085/display/JENKINS/Promoted+Builds+Plugin),
+Plugin](https://wiki.jenkins.io/display/JENKINS/Promoted+Builds+Plugin),
 this plugin defines metadata only; there is no action associated with
 the promotion. It just shows the promotion level on the build page and a
 badge icon in the Build History on the project page. You may use this
 metadata however you like, such as using the Remote API to find
 artifacts of a particular promotion level. The [Copy Artifact
-Plugin](http://localhost:8085/display/JENKINS/Copy+Artifact+Plugin) can
+Plugin](https://wiki.jenkins.io/display/JENKINS/Copy+Artifact+Plugin) can
 also copy artifacts of a selected promotion level from other jobs.
 
 Click the help icon for Promoted Builds in the main configuration page
@@ -42,7 +42,7 @@ plugin.
     automatically marks the build as "keep forever".
     ([JENKINS-7284](https://issues.jenkins-ci.org/browse/JENKINS-7284))
 -   When using [Copy Artifact
-    Plugin](http://localhost:8085/display/JENKINS/Copy+Artifact+Plugin),
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Copy+Artifact+Plugin),
     check promotion level of parent build for maven or matrix project
     when copying artifacts from a particular maven module or matrix
     configuration.
@@ -65,7 +65,7 @@ plugin.
 ##### Version 1.4 (Apr 17, 2010)
 
 -   Add support for selecting promoted builds with the [Copy Artifact
-    Plugin](http://localhost:8085/display/JENKINS/Copy+Artifact+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Copy+Artifact+Plugin).
 
 ##### Version 1.3 (Apr 13, 2010)
 

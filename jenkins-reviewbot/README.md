@@ -28,7 +28,7 @@ at JUG Israel 2013.
 ## Prerequisites
 
 Install [Patch Parameter
-Plugin](http://localhost:8085/display/JENKINS/Patch+Parameter+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Patch+Parameter+Plugin)
 
 ## Configuration
 
@@ -149,7 +149,7 @@ repository selection at "any" option.
 
 When using review url parameter in a job, you can refer to its value by
 **$REVIEW\_URL**, and use it with [Parameterized Trigger
-Plugin](http://localhost:8085/display/JENKINS/Parameterized+Trigger+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Parameterized+Trigger+Plugin).
 
 ## Patch in Unified Format and multiple files support
 

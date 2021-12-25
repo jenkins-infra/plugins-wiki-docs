@@ -107,7 +107,7 @@ Original author: [Ilkka
 Laukkanen](http://wiki.jenkins-ci.org/display/~ilkka)
 
 Currently maintained by [MicroFocus StarTeam
-R&D](http://localhost:8085/display/~anil_peres_da_silva)
+R&D](https://wiki.jenkins.io/display/~anil_peres_da_silva)
 
 # Requirements
 

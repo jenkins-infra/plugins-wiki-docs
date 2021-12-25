@@ -21,7 +21,7 @@ This plugin allows you to execute OS commands.
 # See also
 
 [Remote Terminal Access
-Plugin](http://localhost:8085/display/JENKINS/Remote+Terminal+Access+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Remote+Terminal+Access+Plugin)
 
 # Version History
 

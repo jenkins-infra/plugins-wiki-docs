@@ -9,7 +9,7 @@ Warning!
 
 This plugin should not be used anymore in new plugins. Use a dependency
 on [Jackson2 API
-Plugin](http://localhost:8085/display/JENKINS/Jackson2+API+Plugin) instead.
+Plugin](https://wiki.jenkins.io/display/JENKINS/Jackson2+API+Plugin) instead.
 
 ## Version History
 
@@ -17,7 +17,7 @@ Plugin](http://localhost:8085/display/JENKINS/Jackson2+API+Plugin) instead.
 
 -   Deprecate the plugin in the built-in documentation
 -   Use [Jackson2 API
-    Plugin](http://localhost:8085/display/JENKINS/Jackson2+API+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Jackson2+API+Plugin)
     as a source of the libraries
 
 ### Previous releases

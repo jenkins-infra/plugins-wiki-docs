@@ -2,7 +2,7 @@
 ### Plugin info
 
 This Plugin was derived from the very cool [SCP
-Plugin](http://localhost:8085/display/JENKINS/SCP+plugin).You can use
+Plugin](https://wiki.jenkins.io/display/JENKINS/SCP+plugin).You can use
 the SSH Plugin to run shell commands on a remote machine via ssh.
 
 ------------------------------------------------------------------------

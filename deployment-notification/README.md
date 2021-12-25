@@ -16,7 +16,7 @@ This approach hinges upon one of the key principles of continuous
 delivery, namely no rebuilding of binaries. Jenkins will just look at
 submitted reports and figure out MD5 checksums of the files deployed,
 and from there, figure out where it was built and tested by using its
-[fingerprint](http://localhost:8085/display/JENKINS/Fingerprint)
+[fingerprint](https://wiki.jenkins.io/display/JENKINS/Fingerprint)
 database. For example, it can tell that the `foo.rpm` file that just got
 deployed on your server `bar.cloudbees.com` was originally built in
 `foo-build #15`, which is built from Git commit `1b75c09a` that contains
@@ -34,7 +34,7 @@ and this plugin offers several of those out of the box:
 &nbsp;
 
 -   Adds a new promotion criteria for [promoted builds
-    plugin](http://localhost:8085/display/JENKINS/Promoted+Builds+Plugin).
+    plugin](https://wiki.jenkins.io/display/JENKINS/Promoted+Builds+Plugin).
     In this way, builds of `foo-build` whose artifacts hit production
     gets a star in the build history, making it easy to see how changes
     flow in your deployment pipeline.
@@ -49,13 +49,13 @@ This plugin defines all the models, listeners, conditions, as well as
 integration with other plugins, but it does not understand tool-specific
 execution report formats. Therefore, users would also have to install a
 plugin specific to the configuration management tool you use, such as
-[Puppet plugin](http://localhost:8085/display/JENKINS/Puppet+Plugin) and
+[Puppet plugin](https://wiki.jenkins.io/display/JENKINS/Puppet+Plugin) and
 [Chef Tracking
-Plugin](http://localhost:8085/display/JENKINS/Chef+Tracking+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Chef+Tracking+Plugin).
 
 # Developing integration with another configuration management tool
 
-[Puppet plugin](http://localhost:8085/display/JENKINS/Puppet+Plugin) is
+[Puppet plugin](https://wiki.jenkins.io/display/JENKINS/Puppet+Plugin) is
 the reference implementation that shows you how to build on top of this
 plugin. It'd be a good starting point.
 
@@ -63,9 +63,9 @@ plugin. It'd be a good starting point.
 
 Since v1.3 this plugin is not only integrated with Workflow plugin but
 it also adds a Workflow step called
-[awaitDeployment](http://localhost:8085/display/JENKINS/awaitDeployment).
+[awaitDeployment](https://wiki.jenkins.io/display/JENKINS/awaitDeployment).
 The example below shows you how to use the
-[awaitDeployment](http://localhost:8085/display/JENKINS/awaitDeployment)
+[awaitDeployment](https://wiki.jenkins.io/display/JENKINS/awaitDeployment)
 step on a Workflow DSL.
 
     node('unix-slave') {

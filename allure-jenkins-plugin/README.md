@@ -42,17 +42,17 @@ Improvements
 
 -   Update dependencies
     (via [\#177](https://github.com/jenkinsci/allure-plugin/pull/177))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Fixes
 
 -   Fix filepath serialization problem
     (via [\#188](https://github.com/jenkinsci/allure-plugin/pull/188))
-    - [@vbragin](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@vbragin](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 -   Fix NPE in build summary
     (fixes [\#172](https://github.com/jenkinsci/allure-plugin/issues/172),
     via [\#179](https://github.com/jenkinsci/allure-plugin/pull/179))
-    - [@vbragin](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@vbragin](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 
@@ -86,19 +86,19 @@ New Features
 -   Add 'disable allure report' property
     (fixes [\#92](https://github.com/jenkinsci/allure-plugin/issues/92),
     via [\#165](https://github.com/jenkinsci/allure-plugin/pull/165))
-    - [@vbragin](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@vbragin](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Improvements
 
 -   Add build results base on tests
     (fixes [\#13](https://github.com/jenkinsci/allure-plugin/issues/13),
     via [\#167](https://github.com/jenkinsci/allure-plugin/pull/167))
-    - [@vbragin](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@vbragin](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 -   Add properties wrapping
     (fixes [\#162](https://github.com/jenkinsci/allure-plugin/issues/162),
     fixes [\#146](https://github.com/jenkinsci/allure-plugin/issues/146),
     via [\#166](https://github.com/jenkinsci/allure-plugin/pull/166))
-    - [@vbragin](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@vbragin](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 
@@ -115,7 +115,7 @@ Improvements
 
 -   Downgrade jenkins core version to 1.642.4
     (via [\#160](https://github.com/jenkinsci/allure-plugin/pull/160))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 
@@ -132,7 +132,7 @@ Fixes
     (fixes [\#152](https://github.com/jenkinsci/allure-plugin/issues/152),
     fixes [\#153](https://github.com/jenkinsci/allure-plugin/issues/153),
     via [\#154](https://github.com/jenkinsci/allure-plugin/pull/154))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 
@@ -148,10 +148,10 @@ Fixes
 -   Fix duplicates
     (fixes [\#115](https://github.com/jenkinsci/allure-plugin/issues/115),
     via [\#149](https://github.com/jenkinsci/allure-plugin/pull/149))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 -   Fix npe with build summary (fixes 147,
     via [\#150](https://github.com/jenkinsci/allure-plugin/pull/150))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 
@@ -167,25 +167,25 @@ Links
 -   global properties
     (fixes [\#132](https://github.com/jenkinsci/allure-plugin/issues/132),
     via [\#143](https://github.com/jenkinsci/allure-plugin/pull/143))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 -   add graph trend
     (fixes [\#46](https://github.com/jenkinsci/allure-plugin/issues/46),
     via [\#140](https://github.com/jenkinsci/allure-plugin/pull/140))
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Improvements
 
 -   update executor json
     (fixes [\#137](https://github.com/jenkinsci/allure-plugin/issues/137),
     via [\#138](https://github.com/jenkinsci/allure-plugin/pull/138))
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Fixes
 
 -   fix properties npe
     (fixes [\#125](https://github.com/jenkinsci/allure-plugin/issues/125),
     via [\#142](https://github.com/jenkinsci/allure-plugin/pull/142))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 
@@ -208,23 +208,23 @@ Improvements
 
 -   support glob syntax
     (via [\#134](https://github.com/jenkinsci/allure-plugin/pull/134))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 -   build id to executor info
     (via [\#130](https://github.com/jenkinsci/allure-plugin/pull/130))
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 -   use data bound setters
     (via [\#131](https://github.com/jenkinsci/allure-plugin/pull/131))
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Fixes
 
 -   disable cache
     (fixes [\#113](https://github.com/jenkinsci/allure-plugin/issues/113),
     via [\#135](https://github.com/jenkinsci/allure-plugin/pull/135))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 -   fix declarative pipeline
     (via [\#133](https://github.com/jenkinsci/allure-plugin/pull/133))
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 
@@ -240,17 +240,17 @@ Links
 
 -   fix null config parameters
     ([\#125](https://github.com/jenkinsci/allure-plugin/issues/125))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Improvements:
 
 -   variables in results path
     ([\#107](https://github.com/jenkinsci/allure-plugin/issues/107))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 -   variables in properties
     ([\#55](https://github.com/jenkinsci/allure-plugin/issues/55))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 
@@ -266,12 +266,12 @@ Fixes:
 
 -   release version without snapshot
     ([\#121](https://github.com/jenkinsci/allure-plugin/issues/121))
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Improvements:
 
 -   allure 2 distribution path
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 
@@ -287,20 +287,20 @@ Fixes:
 
 -   wait for artifact uploading
     ([\#73](https://github.com/jenkinsci/allure-plugin/issues/73))
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 -   allure home setting
     ([\#82](https://github.com/jenkinsci/allure-plugin/issues/82), [\#108](https://github.com/jenkinsci/allure-plugin/issues/108))
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 -   allure properties setting
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Improvements:
 
 -   switch to gradle
-    - [@ehborisov](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@ehborisov](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 -   migrate to jenkins pipeline
-    - [@eroshenkoam](http://localhost:8085/display/JENKINS/Allure+Plugin)
+    - [@eroshenkoam](https://wiki.jenkins.io/display/JENKINS/Allure+Plugin)
 
 Links
 

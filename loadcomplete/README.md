@@ -8,14 +8,14 @@ provides a build step that lets you include LoadComplete tests in your
 Jenkins builds, and allows you to view test results from within Jenkins.
 
 -   [Plugin
-    Information](http://localhost:8085/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-info)
--   [Usage](http://localhost:8085/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-usage)
+    Information](https://wiki.jenkins.io/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-info)
+-   [Usage](https://wiki.jenkins.io/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-usage)
 -   [More
-    Information](http://localhost:8085/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-moreinfo)
+    Information](https://wiki.jenkins.io/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-moreinfo)
 -   [Technical
-    Support](http://localhost:8085/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-support)
+    Support](https://wiki.jenkins.io/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-support)
 -   [Version
-    History](http://localhost:8085/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-versionhistory)
+    History](https://wiki.jenkins.io/display/JENKINS/LoadComplete+Support+Plugin#LoadCompleteSupportPlugin-versionhistory)
 
 ## Usage
 

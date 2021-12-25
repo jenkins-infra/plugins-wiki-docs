@@ -213,7 +213,7 @@ plug-ins is very similar.
     [Storify](http://storify.com/peterflorijn/testopia-documentation)
 2.  How to handle self signed certificates on Jenkins Server ([TestLink
     Plugin SSL
-    support](http://localhost:8085/display/JENKINS/TestLink+Plugin+SSL+support))
+    support](https://wiki.jenkins.io/display/JENKINS/TestLink+Plugin+SSL+support))
 
 ## Sponsors
 

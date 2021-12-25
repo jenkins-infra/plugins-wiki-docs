@@ -203,7 +203,7 @@ the "message" array will contain a single log line.
 
 Note that data.testResults will only be present if a publisher records
 your test results in the build, for example by using the [JUnit
-Plugin](http://localhost:8085/display/JENKINS/JUnit+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/JUnit+Plugin).
 
 # Changelog
 

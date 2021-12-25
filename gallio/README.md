@@ -47,25 +47,25 @@ The error message is not reported when running MsTest with Gallio
 ##### Version 1.2 (January 23, 2011)
 
 -   Updated to [xUnit
-    1.13](http://localhost:8085/display/JENKINS/xUnit+Plugin) and its
+    1.13](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) and its
     new new public API
 
 ##### Version 1.1 (September 08, 2010)
 
 -   Updated to [xUnit
-    1.8](http://localhost:8085/display/JENKINS/xUnit+Plugin)
+    1.8](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin)
 
 ##### Version 1.0 (July 14, 2010)
 
 -   Updated to the new [xUnit
-    plugin](http://localhost:8085/display/JENKINS/xUnit+Plugin)
+    plugin](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin)
     architecture.  
     Gallio Hudson plugin uses xUnit 1.6
 
 ##### Version 0.70 (Feb 21, 2010)
 
 -   Currenlty, the Gallio plugin extends the [xUnit
-    Hudson](http://localhost:8085/display/JENKINS/xUnit+Plugin) plugin
+    Hudson](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) plugin
 
 ##### Version 0.60 (Jan 31, 2010)
 

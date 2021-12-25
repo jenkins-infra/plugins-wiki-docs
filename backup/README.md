@@ -16,7 +16,7 @@ Want periodic backups?
 This plugin requires that you manually start it to back up your data.
 
 For automated periodic backups, check out the
-[thinBackup](http://localhost:8085/display/JENKINS/thinBackup) plugin.
+[thinBackup](https://wiki.jenkins.io/display/JENKINS/thinBackup) plugin.
 
 # Description
 
@@ -36,11 +36,11 @@ Alternatives to this plugin
 There are two other alternatives to this plugin:
 
 -   The [SCM Sync configuration
-    plugin](http://localhost:8085/display/JENKINS/SCM+Sync+configuration+plugin)
+    plugin](https://wiki.jenkins.io/display/JENKINS/SCM+Sync+configuration+plugin)
     allows automatically tracking changes brought to the global
     configuration of Jenkins and to the jobs configuration into a
     configuration management system (Subversion, etc.).
--   The [thinBackup](http://localhost:8085/display/JENKINS/thinBackup)
+-   The [thinBackup](https://wiki.jenkins.io/display/JENKINS/thinBackup)
     plugin focuses on backuping Jenkins's global configuration and jobs
     configuration. It also offers a scheduling feature (if you think the
     efforts on this plugin and the Backup one should be merged, just

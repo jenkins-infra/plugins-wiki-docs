@@ -3,9 +3,9 @@ tasks including SDK installation, build file generation, emulator
 creation and launch, APK (un)installation, monkey testing and
 analysis...  
 See also: [Android Lint
-Plugin](http://localhost:8085/display/JENKINS/Android+Lint+Plugin).  
+Plugin](https://wiki.jenkins.io/display/JENKINS/Android+Lint+Plugin).  
 See also: [Google Play Android Publisher
-Plugin](http://localhost:8085/display/JENKINS/Google+Play+Android+Publisher+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Google+Play+Android+Publisher+Plugin).
 
 #### Table of Contents
 
@@ -141,7 +141,7 @@ slave by making use of an artificial X server, such as
 [Xvnc](http://www.realvnc.com/products/free/4.1/man/Xvnc.html).
 
 In this case, a recommended setup is to install both Xvnc and the [Xvnc
-Plugin](http://localhost:8085/display/JENKINS/Xvnc+Plugin) for Jenkins.
+Plugin](https://wiki.jenkins.io/display/JENKINS/Xvnc+Plugin) for Jenkins.
 With this plugin enabled in your job — and Xvnc configured to run
 without requesting a password — you can run multiple Android emulators
 in parallel on a headless slave, while keeping the "Show emulator
@@ -162,7 +162,7 @@ the desired number of seconds in the "Startup delay" field under
 
 In addition, while the Android Emulator plugin requires the [Port
 Allocator
-Plugin](http://localhost:8085/display/JENKINS/Port+Allocator+Plugin),
+Plugin](https://wiki.jenkins.io/display/JENKINS/Port+Allocator+Plugin),
 there is no job configuration required for this; everything is handled
 automatically — you need not select the "Assign unique TCP ports"
 checkbox in the job config.
@@ -571,7 +571,7 @@ die.
 ## Potential upcoming features
 
 -   Support for the [Pipeline
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Plugin) is
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Plugin) is
     planned
 -   Within the 'android-emulator' component of Jenkins' issue tracker
     you can:
@@ -665,7 +665,7 @@ doing most of the heavy lifting on this release.
     Android 6+
     ([JENKINS-30849](https://issues.jenkins-ci.org/browse/JENKINS-30849))
 -   Implemented [master-agent access
-    control](http://localhost:8085/display/JENKINS/Slave+To+Master+Access+Control)
+    control](https://wiki.jenkins.io/display/JENKINS/Slave+To+Master+Access+Control)
 -   When auto-installing the Android SDK, version 24.4.1 is now used
 -   Added support for newer screen densities that are in use (400, 420,
     560dpi)
@@ -1180,7 +1180,7 @@ doing most of the heavy lifting on this release.
 
 -   Ensure correct environment variables are used when starting the
     emulator. Fixes a problem where the emulator may not start under the
-    [Xvnc Plugin](http://localhost:8085/display/JENKINS/Xvnc+Plugin)
+    [Xvnc Plugin](https://wiki.jenkins.io/display/JENKINS/Xvnc+Plugin)
 
 ### Version 1.0.2 (Apr 06, 2010)
 

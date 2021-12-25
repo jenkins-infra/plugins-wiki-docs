@@ -18,9 +18,9 @@ framework and support parallel execution for TestNg.
 
 Currently supported unit test frameworks:
 
--   [\#Junit](http://localhost:8085/display/JENKINS/Test+In+Progress+Plugin#TestInProgressPlugin-Junit)
--   [\#Spock](http://localhost:8085/display/JENKINS/Test+In+Progress+Plugin#TestInProgressPlugin-Spock)
--   [\#TestNg](http://localhost:8085/display/JENKINS/Test+In+Progress+Plugin#TestInProgressPlugin-TestNg)
+-   [\#Junit](https://wiki.jenkins.io/display/JENKINS/Test+In+Progress+Plugin#TestInProgressPlugin-Junit)
+-   [\#Spock](https://wiki.jenkins.io/display/JENKINS/Test+In+Progress+Plugin#TestInProgressPlugin-Spock)
+-   [\#TestNg](https://wiki.jenkins.io/display/JENKINS/Test+In+Progress+Plugin#TestInProgressPlugin-TestNg)
 
 ![](docs/images/progressInJenkinsMedium.png)
 

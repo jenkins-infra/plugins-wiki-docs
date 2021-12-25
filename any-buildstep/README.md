@@ -1,14 +1,14 @@
-[Features](http://localhost:8085/display/JENKINS/Any+Build+Step+Plugin#AnyBuildStepPlugin-features)  
+[Features](https://wiki.jenkins.io/display/JENKINS/Any+Build+Step+Plugin#AnyBuildStepPlugin-features)  
 [Change
-log](http://localhost:8085/display/JENKINS/Any+Build+Step+Plugin#AnyBuildStepPlugin-changelog)
+log](https://wiki.jenkins.io/display/JENKINS/Any+Build+Step+Plugin#AnyBuildStepPlugin-changelog)
 
 # Features
 
 -   Use publishers as a Build Step (via the [Conditional BuildStep
-    Plugin](http://localhost:8085/display/JENKINS/Conditional+BuildStep+Plugin))
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Conditional+BuildStep+Plugin))
 -   Use builders during the Post-build Actions (via the [Flexible
     Publish
-    Plugin](http://localhost:8085/display/JENKINS/Flexible+Publish+Plugin))
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Flexible+Publish+Plugin))
 -   Adds a global configuration option for the Flexible Publish and
     Conditional BuildStep Plugins to enable all build steps to be made
     available to them.

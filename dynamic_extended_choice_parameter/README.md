@@ -4,7 +4,7 @@ Adds Dynamic functionality to Extended Choice parameter plugin.
 ### Functionality usage
 
 This plugin extends the functionality of [Extended Choice Parameter
-plugin](http://localhost:8085/display/JENKINS/Extended+Choice+Parameter+plugin)
+plugin](https://wiki.jenkins.io/display/JENKINS/Extended+Choice+Parameter+plugin)
 and adds dynamic loading to it. This plugin supports two features;
 
 -   **Automatic populate dropdown options for branch/tag/trunk names** :

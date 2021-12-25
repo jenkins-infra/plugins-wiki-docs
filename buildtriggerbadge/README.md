@@ -68,7 +68,7 @@ better, filing a pull-request would be great
 -   Support for [Branch
     Indexing](https://github.com/jenkinsci/buildtriggerbadge-plugin/commit/660abcbf054b27a51595ae8b0417220122aaf058)
     from the [Branch API
-    Plugin](http://localhost:8085/display/JENKINS/Branch+API+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Branch+API+Plugin)
 -   (Internal: updated to the 2.x plugin parent pom)
 
 #### Version 2.3 - 17/06/2016

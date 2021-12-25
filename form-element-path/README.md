@@ -14,7 +14,7 @@ Configuration pages in Jenkins are assmbled from small pieces that
 plugins contribute. Furthermore, in general they form a tree structure,
 and each such fragment can be used multiple times in different context.
 For example, think of [Conditional BuildStep
-Plugin](http://localhost:8085/display/JENKINS/Conditional+BuildStep+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Conditional+BuildStep+Plugin)
 that allows you to add arbitrary builder as a nested builder inside the
 "conditional build step" builder.
 

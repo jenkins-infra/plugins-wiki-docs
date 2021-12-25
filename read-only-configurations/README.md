@@ -10,7 +10,7 @@ configuraiton" in the left-side menu in a job page
 ![](docs/images/Screenshot-19.png)
 
 Note: the [Extended Read Permission
-Plugin](http://localhost:8085/display/JENKINS/Extended+Read+Permission+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Extended+Read+Permission+Plugin)
 provides a somewhat similar function, merely activating a permission
 already defined in Jenkins core and honored by jobs and various plugins
 providing configurable objects (but currently not the Jenkins global

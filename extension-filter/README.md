@@ -5,7 +5,7 @@ disabling some Extensions/Descriptors.
 ## About
 
 Jenkins has a large set of plugin to contribute
-[extensions](http://localhost:8085/display/JENKINS/Extension+points).
+[extensions](https://wiki.jenkins.io/display/JENKINS/Extension+points).
 Sometime such plugin comes with some extra feature you don't want to use
 / have issue with your particular installation, or you consider too
 "advanced" for users to let them configure.

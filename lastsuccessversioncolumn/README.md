@@ -10,7 +10,7 @@ the build description does not have a version number in it then it shows
 the Jenkins build number.
 
 To set the build description use [Description Setter
-Plugin](http://localhost:8085/display/JENKINS/Description+Setter+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Description+Setter+Plugin).
 
 ## Changelog
 

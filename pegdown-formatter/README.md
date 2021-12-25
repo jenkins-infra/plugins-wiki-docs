@@ -1,10 +1,10 @@
 
-[Features](http://localhost:8085/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-features)  
-[Compatibility](http://localhost:8085/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-compatibility)  
-[Install](http://localhost:8085/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-install)  
-[Configure](http://localhost:8085/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-configuration)  
+[Features](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-features)  
+[Compatibility](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-compatibility)  
+[Install](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-install)  
+[Configure](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-configuration)  
 [Change
-log](http://localhost:8085/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-changelog)
+log](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-changelog)
 
 # Features
 

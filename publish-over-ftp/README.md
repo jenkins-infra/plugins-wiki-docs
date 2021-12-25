@@ -4,20 +4,20 @@
 Read Publish Over ... wiki page first
 
 Please read [Publish
-Over](http://localhost:8085/display/JENKINS/Publish+Over) first.  
+Over](https://wiki.jenkins.io/display/JENKINS/Publish+Over) first.  
 Common configuration options that are documented in the Publish Over ...
 wiki page will not be repeated here.
 
-[Features](http://localhost:8085/display/JENKINS/Publish+Over+FTP+Plugin#PublishOverFTPPlugin-features)  
-[Configure](http://localhost:8085/display/JENKINS/Publish+Over+FTP+Plugin#PublishOverFTPPlugin-configuration)  
+[Features](https://wiki.jenkins.io/display/JENKINS/Publish+Over+FTP+Plugin#PublishOverFTPPlugin-features)  
+[Configure](https://wiki.jenkins.io/display/JENKINS/Publish+Over+FTP+Plugin#PublishOverFTPPlugin-configuration)  
 [Change
-log](http://localhost:8085/display/JENKINS/Publish+Over+FTP+Plugin#PublishOverFTPPlugin-changelog)
+log](https://wiki.jenkins.io/display/JENKINS/Publish+Over+FTP+Plugin#PublishOverFTPPlugin-changelog)
 
 # Features
 
 -   Send files to FTP servers
 -   The plugin is "promotion aware" see
-    [Promotions](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-promotions)
+    [Promotions](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-promotions)
 -   Publish to multiple servers in the "Post-build Actions"
 -   Transfer complete directory structures, partial structures or just
     files
@@ -42,7 +42,7 @@ You should now have the configuration options as below
 
 Fill in Name, Hostname, Username, Password and Remote Directory. [see
 Publish Over ... for common options for Host
-Configurations](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-host)
+Configurations](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-host)
 
 ##### Advanced
 
@@ -51,7 +51,7 @@ make more configuration options available (see below)
 ![](docs/images/ftp_global_advanced.PNG)
 
 [see Publish Over ... for common options for Host
-Configurations](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-host)
+Configurations](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-host)
 
 ###### Use active data mode
 
@@ -95,10 +95,10 @@ You should now have the configuration options as below
 ![](docs/images/ftp_configure.png)
 
 [see Publish Over ... for common options for
-Server](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-server)
+Server](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-server)
 
 [see Publish Over ... for common options for Transfer
-Sets](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-transfer)
+Sets](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-transfer)
 
 Source files
 
@@ -112,7 +112,7 @@ make more configuration options available (see below)
 ![](docs/images/screenshot18.png)
 
 [see Publish Over ... for common options for Transfer
-Sets](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-transfer)
+Sets](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-transfer)
 
 ###### ASCII mode
 
@@ -137,7 +137,7 @@ Server" button, then you will make more configuration options available
 ![](docs/images/ftp_publish_publisher_advanced.PNG)
 
 [see Publish Over ... for common options for
-Publisher](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-publisher)
+Publisher](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-publisher)
 
 #### Options to override the default Promotion behaviour
 
@@ -146,7 +146,7 @@ available.
 ![](docs/images/ftp_promotion.PNG)
 
 [see Publish Over ... for common options for
-Promotions](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-promotions)
+Promotions](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-promotions)
 
 # Change log
 
@@ -211,10 +211,10 @@ Promotions](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-promo
 #### 1.0 (08/07/2011)
 
 -   Add [Parameterized
-    publishing](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-parampub)
+    publishing](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-parampub)
     [JENKINS-10006](https://issues.jenkins-ci.org/browse/JENKINS-10006)
 -   Add ability to
-    [retry](http://localhost:8085/display/JENKINS/Publish+Over#PublishOver-retry)
+    [retry](https://wiki.jenkins.io/display/JENKINS/Publish+Over#PublishOver-retry)
     the publish
     [JENKINS-10094](https://issues.jenkins-ci.org/browse/JENKINS-10094)
 -   Moved the "Verbose output in console" option to the new Advanced

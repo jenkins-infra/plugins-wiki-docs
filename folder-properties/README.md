@@ -19,7 +19,7 @@ defined by one of its sub-folders.
 ## Configuring Folder Properties
 
 Just create a
-[folder](http://localhost:8085/display/JENKINS/CloudBees+Folders+Plugin),
+[folder](https://wiki.jenkins.io/display/JENKINS/CloudBees+Folders+Plugin),
 go to its configuration page and add as many properties as you need
 under the `Folder Properties` section.
 
@@ -47,7 +47,7 @@ withFolderProperties{
 ```
 
 Jenkins deployments using some of the older versions of the [Structs
-Plugin](http://localhost:8085/display/JENKINS/Structs+plugin) will need
+Plugin](https://wiki.jenkins.io/display/JENKINS/Structs+plugin) will need
 to do this using the `wrap` meta-step:
 
 **Using folder properties in older pipeline jobs**

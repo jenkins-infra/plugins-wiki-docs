@@ -6,7 +6,7 @@ This plugin allows you to use jQuery UI on each view descriptions.
 Warning
 
 This plugin has been replaced with the [jQuery
-Plugin](http://localhost:8085/display/JENKINS/jQuery+Plugin). Please
+Plugin](https://wiki.jenkins.io/display/JENKINS/jQuery+Plugin). Please
 remove this plugin from your installation.
 
 ## Version History
@@ -18,7 +18,7 @@ remove this plugin from your installation.
 #### Version 1.0.1 (Feb 22, 2011)
 
 -   Upgrade [jQuery
-    Plugin](http://localhost:8085/display/JENKINS/jQuery+Plugin) (1.0
+    Plugin](https://wiki.jenkins.io/display/JENKINS/jQuery+Plugin) (1.0
     -\> 1.0.1)
 
 #### Version 1.0 (Feb 20, 2011)

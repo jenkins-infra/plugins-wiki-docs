@@ -44,13 +44,13 @@ The global build stats main screen is made of different sections :
     Jenkins/Hudson root URL
 -   Create new chart : Display a popup form to create a new Chart. See
     the [Create / Update a chart
-    section](http://localhost:8085/display/JENKINS/Global+Build+Stats+Plugin#GlobalBuildStatsPlugin-chartcreationupdate).
+    section](https://wiki.jenkins.io/display/JENKINS/Global+Build+Stats+Plugin#GlobalBuildStatsPlugin-chartcreationupdate).
 -   Manage retention strategies. See the [Manage retention strategies
-    section](http://localhost:8085/display/JENKINS/Global+Build+Stats+Plugin#GlobalBuildStatsPlugin-retentionStrategies).
+    section](https://wiki.jenkins.io/display/JENKINS/Global+Build+Stats+Plugin#GlobalBuildStatsPlugin-retentionStrategies).
 -   Data Initialization : Useful to initialize your global build stats
     data, especially just after Global build stats first installation.
     See the [Data Initialization
-    Section](http://localhost:8085/display/JENKINS/Global+Build+Stats+Plugin#GlobalBuildStatsPlugin-datainitialization).
+    Section](https://wiki.jenkins.io/display/JENKINS/Global+Build+Stats+Plugin#GlobalBuildStatsPlugin-datainitialization).
 
 ## Data Initialization
 
@@ -310,7 +310,7 @@ Tasks :
 -   Allowing to define **build result retention strategies**, which will
     purge stored job build results and lower job build result filesize
     on filesystem. See the [Manage retention strategies
-    section](http://localhost:8085/display/JENKINS/Global+Build+Stats+Plugin#GlobalBuildStatsPlugin-retentionStrategies)
+    section](https://wiki.jenkins.io/display/JENKINS/Global+Build+Stats+Plugin#GlobalBuildStatsPlugin-retentionStrategies)
     section for further informations.
 
 #### Bugs

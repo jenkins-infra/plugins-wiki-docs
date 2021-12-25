@@ -25,7 +25,7 @@ The following features are provided by this plug-in:
     threshold
 
 Please use the [mailing
-lists](http://localhost:8085/display/JENKINS/Mailing+Lists) or [issue
+lists](https://wiki.jenkins.io/display/JENKINS/Mailing+Lists) or [issue
 tracker](http://issues.jenkins-ci.org/) to ask questions, create feature
 request, or create bug reports.
 

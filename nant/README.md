@@ -73,7 +73,7 @@ validation errors.
 -   integrated [pull
     \#1](https://github.com/jenkinsci/nant-plugin/pull/1) allow nant
     plugin to be seen as a valid builder in the ﻿[Conditional BuildStep
-    Plugin](http://localhost:8085/display/JENKINS/Conditional+BuildStep+Plugin)  
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Conditional+BuildStep+Plugin)  
 
 ### Version 1.4.2 (Aug 5, 2011)
 

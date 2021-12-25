@@ -6,13 +6,13 @@ To configure Jenkins for the execution of Tricentis Tosca tests, perform
 one of the following actions:
 
 -   [Add a new Tricentis Continuous Integration build step to your
-    project.](http://localhost:8085/display/JENKINS/Tricentis+Continuous+Integration#TricentisContinuousIntegration-add_build_step)
+    project.](https://wiki.jenkins.io/display/JENKINS/Tricentis+Continuous+Integration#TricentisContinuousIntegration-add_build_step)
 -   [Configure your Jenkins pipeline for Tricentis Continuous
-    Integration](http://localhost:8085/display/JENKINS/Tricentis+Continuous+Integration#TricentisContinuousIntegration-configure_pipeline).
+    Integration](https://wiki.jenkins.io/display/JENKINS/Tricentis+Continuous+Integration#TricentisContinuousIntegration-configure_pipeline).
 
 Once you have configured Jenkins for Tricentis Continuous Integration,
 [execute your
-tests.](http://localhost:8085/display/JENKINS/Tricentis+Continuous+Integration#TricentisContinuousIntegration-execute_tests)
+tests.](https://wiki.jenkins.io/display/JENKINS/Tricentis+Continuous+Integration#TricentisContinuousIntegration-execute_tests)
 
   
 

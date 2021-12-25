@@ -9,7 +9,7 @@ several plugins that have all individual entries in the job's config.xml
 files? Than this plugin can help you a lot.
 
 It takes the idea of the [configuration slicing
-plugin](http://localhost:8085/display/JENKINS/Configuration+Slicing+Plugin)
+plugin](https://wiki.jenkins.io/display/JENKINS/Configuration+Slicing+Plugin)
 using a more generic approach. XPath expressions are used to filter all
 jobs, that match to it. The resulting table shows all variations of the
 XPath-selected XML-snippets in the left column. The right column shows

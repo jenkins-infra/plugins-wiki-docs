@@ -347,7 +347,7 @@ Refresh
 
 -   [JENKINS-27123](https://issues.jenkins-ci.org/browse/JENKINS-27123)
     Support for [Pipeline
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Plugin) and
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Plugin) and
     other non abstract builds. ([Pull
     \#52](https://github.com/jenkinsci/build-failure-analyzer-plugin/pull/52))
 

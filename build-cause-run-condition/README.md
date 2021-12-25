@@ -2,7 +2,7 @@
 
 This plugin implements a build cause run condition to be used by the
 [Run Condition
-Plugin](http://localhost:8085/display/JENKINS/Run+Condition+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Run+Condition+Plugin).
 
 ## Build Cause Condition
 

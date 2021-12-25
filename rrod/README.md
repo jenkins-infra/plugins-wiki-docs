@@ -7,7 +7,7 @@ jobs are renamed or deleted
 
 **This plugin is no longer maintained and has been deprecated. The
 functionality has been migrated onto the new [Requests
-Plugin](http://localhost:8085/display/JENKINS/Requests+Plugin). Please
+Plugin](https://wiki.jenkins.io/display/JENKINS/Requests+Plugin). Please
 download the new plugin from GitHub or search for “requests-plugin"
 under “Manage plugins/Available” on your Jenkins system to install it
 directly.**
@@ -87,7 +87,7 @@ them.
 ## Version 1.0.2 (10/17/2011)
 
 -   Fixed permission handling when using the [Role
-    Strategy](http://localhost:8085/display/JENKINS/Role+Strategy+Plugin)
+    Strategy](https://wiki.jenkins.io/display/JENKINS/Role+Strategy+Plugin)
     plugin
 
 ## Version 1.0.1 (10/07/2011)

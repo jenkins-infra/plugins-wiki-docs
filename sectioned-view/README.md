@@ -24,7 +24,7 @@ The sections currently implemented are:
     -   A great way to make a home screen for listing all your different
         views
     -   Supports the [Nested View
-        Plugin](http://localhost:8085/display/JENKINS/Nested+View+Plugin)
+        Plugin](https://wiki.jenkins.io/display/JENKINS/Nested+View+Plugin)
         for hierarchical views.
 
 You can add as many different sections as you want to create an overview
@@ -51,7 +51,7 @@ your sections. Each section can be further configured by expanding its
 
 The View Listing Section type presents a listing of all your views (as
 an expandable tree if you're using the [Nested View
-Plugin](http://localhost:8085/display/JENKINS/Nested+View+Plugin)).  
+Plugin](https://wiki.jenkins.io/display/JENKINS/Nested+View+Plugin)).  
 Just check the ones you want to show in the listing. Any checked entries
 will be given a box in the listing.
 

@@ -2,7 +2,7 @@
 
 This plugin allows the credential provider to use Google Cloud Platform
 OAuth Credentials (provided by the [Google OAuth Credentials
-plugin](http://localhost:8085/display/JENKINS/Google+OAuth+Plugin)) to
+plugin](https://wiki.jenkins.io/display/JENKINS/Google+OAuth+Plugin)) to
 access Docker images from [Google Container Registry
 (GCR)](https://cloud.google.com/tools/container-registry/).
 
@@ -10,22 +10,22 @@ access Docker images from [Google Container Registry
 
 This plugin supports both kinds of credentials provided by [Google OAuth
 Credentials
-plugin](http://localhost:8085/display/JENKINS/Google+OAuth+Plugin) :
+plugin](https://wiki.jenkins.io/display/JENKINS/Google+OAuth+Plugin) :
 **Google Service Account from metadata** as well as **Google Service
 Account from private key.**
 
 As of this writing, it has been verified that this plugin can be used
 together with [Docker Build Step
-Plugin](http://localhost:8085/display/JENKINS/Docker+build+step+plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Docker+build+step+plugin)
 and [CloudBees Docker Custom Build Environment
-Plugin](http://localhost:8085/display/JENKINS/CloudBees+Docker+Custom+Build+Environment+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/CloudBees+Docker+Custom+Build+Environment+Plugin).
 These plugins will be able to retrieve the credential provided by this
 plugin, and then use it to authenticate against
 [GCR](https://cloud.google.com/tools/container-registry/) to pull/push
 Docker images. Other plugins that rely on [credentials
-provider](http://localhost:8085/display/JENKINS/Credentials+Plugin) or
+provider](https://wiki.jenkins.io/display/JENKINS/Credentials+Plugin) or
 [Docker Commons
-Plugin](http://localhost:8085/display/JENKINS/Docker+Commons+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Docker+Commons+Plugin)
 (preferred than Credentials Plugin) to provide credentials will also be
 able to utilize this credential provider plugin to pull images from or
 push images to GCR.
@@ -41,14 +41,14 @@ push images to GCR.
 ### Usage
 
 The instruction below uses [Docker Build Step
-Plugin](http://localhost:8085/display/JENKINS/Docker+build+step+plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Docker+build+step+plugin)
 as an example to show how this plugin can be used to provide credentials
 for the former plugin to authenticate against
 [GCR](https://cloud.google.com/tools/container-registry/) to perform
 pull/push.
 
 -   Install [Docker Build Step
-    Plugin](http://localhost:8085/display/JENKINS/Docker+build+step+plugin),
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Docker+build+step+plugin),
     and configure it accordingly. Note that do not forget to configure
     its global configurations, which includes the Docker server's
     address.
@@ -56,7 +56,7 @@ pull/push.
 &nbsp;
 
 -   Configure your OAuth credentials per instructions from [Google OAuth
-    Plugin](http://localhost:8085/display/JENKINS/Google+OAuth+Plugin),
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Google+OAuth+Plugin),
     using the service account that has read/write access to your Google
     Container Registry.
 

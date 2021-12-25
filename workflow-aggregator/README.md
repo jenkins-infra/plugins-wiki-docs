@@ -25,7 +25,7 @@ GitHub](https://github.com/jenkinsci/pipeline-plugin). Quick links:
     image](https://github.com/jenkinsci/workflow-aggregator-plugin/blob/master/demo/README.md)
 
 Formerly known as the Workflow plugin. Originally inspired by the [Build
-Flow Plugin](http://localhost:8085/display/JENKINS/Build+Flow+Plugin).
+Flow Plugin](https://wiki.jenkins.io/display/JENKINS/Build+Flow+Plugin).
 
 ## Changelog
 
@@ -36,12 +36,12 @@ Flow Plugin](http://localhost:8085/display/JENKINS/Build+Flow+Plugin).
 ### 2.5 (Feb 01, 2017)
 
 -   Updated dependencies, and added [Pipeline Model Definition
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Model+Definition+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Model+Definition+Plugin).
 
 ### 2.4 (Sep 21, 2016)
 
 -   Updated dependencies, and added [Pipeline Milestone Step
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Milestone+Step+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Milestone+Step+Plugin).
 
 ### 2.3 (Aug 31, 2016)
 
@@ -54,7 +54,7 @@ Flow Plugin](http://localhost:8085/display/JENKINS/Build+Flow+Plugin).
 ### 2.1 (May 03, 2016)
 
 -   Now depends on [Pipeline Stage View
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Stage+View+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Stage+View+Plugin).
 
 ### 2.0 (Apr 05, 2016)
 
@@ -63,10 +63,10 @@ Flow Plugin](http://localhost:8085/display/JENKINS/Build+Flow+Plugin).
     for earlier releases.
 -   Jenkins core requirement increased to 1.642.3.
 -   Now depends on [Pipeline Multibranch
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Multibranch+Plugin),
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Multibranch+Plugin),
     and moves some steps into new [Pipeline Build Step
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Build+Step+Plugin),
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Build+Step+Plugin),
     [Pipeline Input Step
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Input+Step+Plugin),
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Input+Step+Plugin),
     and [Pipeline Stage Step
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Stage+Step+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Stage+Step+Plugin).

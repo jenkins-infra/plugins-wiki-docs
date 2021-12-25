@@ -17,7 +17,7 @@ the Jenkins job.
 ## Combination with other plugins
 
 It is suggested to use the [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin) to
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin) to
 manage all job environment variables.  
 EnvInject plugin retrieves the job revision variable (JOB\_REVISION).
 

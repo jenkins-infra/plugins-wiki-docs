@@ -3,7 +3,7 @@ this SCM, users will be asked at build-time to select the baseline on
 which the job has to work.
 
 To use this plugin, you need to install the [ClearCase
-Plugin](http://localhost:8085/display/JENKINS/ClearCase+Plugin) since it
+Plugin](https://wiki.jenkins.io/display/JENKINS/ClearCase+Plugin) since it
 relies on it (more precisely, the global configuration data is shared
 between the two plugins):
 
@@ -33,14 +33,14 @@ night) to frequently ensure everything works fine. This job may do the
 following:
 
 1.  It gathers the application source code using the [ClearCase
-    Plugin](http://localhost:8085/display/JENKINS/ClearCase+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/ClearCase+Plugin).
 2.  It builds the application from the source code using the [RAD
     Builder
-    Plugin](http://localhost:8085/display/JENKINS/RAD+Builder+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/RAD+Builder+Plugin).
 3.  It runs the unit tests (thank you JUnit).
 4.  It deploys the application on a production-like application server
     (for example using the [WAS Builder
-    Plugin](http://localhost:8085/display/JENKINS/WAS+Builder+Plugin)),
+    Plugin](https://wiki.jenkins.io/display/JENKINS/WAS+Builder+Plugin)),
     ensuring everything is deployed properly (e.g. JDBC resources are
     available, etc.).
 5.  It triggers the execution of non-regression testing.
@@ -185,7 +185,7 @@ plugin:
 -   Fixed [HUDSON-5877](http://issues.hudson-ci.org/browse/HUDSON-5877):
     Added a new error message to clearly show that the publishers (make
     baseline and make composite baseline) from the [ClearCase
-    plugin](http://localhost:8085/display/JENKINS/ClearCase+Plugin)
+    plugin](https://wiki.jenkins.io/display/JENKINS/ClearCase+Plugin)
     can't be used with the **ClearCase UCM baseline** SCM mode.
 
 ## Version 1.4 (03/02/2010)

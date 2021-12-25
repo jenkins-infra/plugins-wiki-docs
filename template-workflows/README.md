@@ -136,7 +136,7 @@ previous versions of Jenkins.
     existing job name and check the 'Allow the use of existing jobs'
     checkbox.
 -   Explanation on how to configure the [Locks and Latches
-    plugin](http://localhost:8085/display/JENKINS/Locks+and+Latches+plugin):
+    plugin](https://wiki.jenkins.io/display/JENKINS/Locks+and+Latches+plugin):
     create a lock with parameter pattern and configure your job with
     this lock.
 

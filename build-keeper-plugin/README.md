@@ -1,8 +1,8 @@
-[Features](http://localhost:8085/display/JENKINS/Build+Keeper+Plugin#BuildKeeperPlugin-features)  
-[Compatibility](http://localhost:8085/display/JENKINS/Build+Keeper+Plugin#BuildKeeperPlugin-compatibility)  
-[Install](http://localhost:8085/display/JENKINS/Build+Keeper+Plugin#BuildKeeperPlugin-install)  
+[Features](https://wiki.jenkins.io/display/JENKINS/Build+Keeper+Plugin#BuildKeeperPlugin-features)  
+[Compatibility](https://wiki.jenkins.io/display/JENKINS/Build+Keeper+Plugin#BuildKeeperPlugin-compatibility)  
+[Install](https://wiki.jenkins.io/display/JENKINS/Build+Keeper+Plugin#BuildKeeperPlugin-install)  
 [Change
-log](http://localhost:8085/display/JENKINS/Build+Keeper+Plugin#BuildKeeperPlugin-changelog)
+log](https://wiki.jenkins.io/display/JENKINS/Build+Keeper+Plugin#BuildKeeperPlugin-changelog)
 
 # Features
 
@@ -29,7 +29,7 @@ Upload Plugin option in the Advanced tab of the Plugin Manager.
 #### 1.3 (16/04/2012)
 
 -   Add a policy that evaluates [Run
-    Conditions](http://localhost:8085/display/JENKINS/Run+Condition+Plugin)
+    Conditions](https://wiki.jenkins.io/display/JENKINS/Run+Condition+Plugin)
     and keeps the build if the build step would have run
 -   Now requires Jenkins 1.408 (from 1.396)
 

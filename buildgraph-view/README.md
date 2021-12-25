@@ -2,7 +2,7 @@
 Shows a graph of builds that relates together (aka "build pipeline").
 
 Code was originally part of
-[build-flow-plugin](http://localhost:8085/display/JENKINS/Build+Flow+Plugin).
+[build-flow-plugin](https://wiki.jenkins.io/display/JENKINS/Build+Flow+Plugin).
 
 ## About
 
@@ -15,12 +15,12 @@ point.
 
 -   Default one is using Jenkins dependencyGraph and UpstreamCause and
     as such can detect common build chain.
--   [build-flow](http://localhost:8085/display/JENKINS/Build+Flow+Plugin) plugin
+-   [build-flow](https://wiki.jenkins.io/display/JENKINS/Build+Flow+Plugin) plugin
     is contributing one to render flow execution as a graph
 -   some Jenkins plugins may later contribute dedicated solutions.
 
 Note: due to [Join
-plugin](http://localhost:8085/display/JENKINS/Join+Plugin)'s design,
+plugin](https://wiki.jenkins.io/display/JENKINS/Join+Plugin)'s design,
 join jobs appear concurrently to other downstream jobs, not as being
 triggered subsequently.
 
@@ -93,7 +93,7 @@ Prevent wrapping of build graph
 ##### Version 1.1 - 22 Aug 2013
 
 Added support for [Parameterized
-trigger](http://localhost:8085/display/JENKINS/Parameterized+Trigger+Plugin) plugin
+trigger](https://wiki.jenkins.io/display/JENKINS/Parameterized+Trigger+Plugin) plugin
 
 ##### Version 1.0.1 - 8 Aug 2013
 

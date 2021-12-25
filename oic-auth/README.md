@@ -50,7 +50,7 @@ here: <https://github.com/jenkinsci/oic-auth-plugin/issues/62>*
 -   Added documentation about how scripted clients should authenticate
     given this plugin is active
 -   Now honoring jenkins proxy settings
-    see [JenkinsBehindProxy](http://localhost:8085/display/JENKINS/JenkinsBehindProxy)
+    see [JenkinsBehindProxy](https://wiki.jenkins.io/display/JENKINS/JenkinsBehindProxy)
 
 ### 1.3
 
@@ -130,7 +130,7 @@ post <http://www.epiclabs.io/configure-jenkins-use-azure-ad-authentication-open
 
 TLDR: use an API token instead as described here: [Authenticating
 scripted
-clients](http://localhost:8085/display/JENKINS/Authenticating+scripted+clients)
+clients](https://wiki.jenkins.io/display/JENKINS/Authenticating+scripted+clients)
 
 Using basic auth for authentication won't work. This is because jenkins
 has no knowledge of the password due to the way openid connect works:
@@ -158,7 +158,7 @@ Jenkins which would defeat this.
 Scripted clients can still interact with Jenkins even when the openid
 connect plugin is active: they will have to use an API
 token. [Authenticating scripted
-clients](http://localhost:8085/display/JENKINS/Authenticating+scripted+clients) describes
+clients](https://wiki.jenkins.io/display/JENKINS/Authenticating+scripted+clients) describes
 how to obtain one. 
 
   

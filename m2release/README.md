@@ -50,7 +50,7 @@ deployment section of your project:
 
 If your build fails with the following:
 
-> [INFO](http://localhost:8085/display/JENKINS/M2+Release+Plugin#)
+> [INFO](https://wiki.jenkins.io/display/JENKINS/M2+Release+Plugin#)
 > Executing: mvn clean verify --no-plugin-updates --batch-mode -P
 > null,null  
 > 'mvn' is not recognized as an internal or external command,  
@@ -90,7 +90,7 @@ issue](http://issues.jenkins-ci.org/secure/IssueNavigator.jspa?mode=show&createN
 
 ## 0.16.0 (Not yet released)
 
-build from [source](http://localhost:8085/display/JENKINS/Source+code)
+build from [source](https://wiki.jenkins.io/display/JENKINS/Source+code)
 or download from
 [here](https://jenkins.ci.cloudbees.com/job/plugins/job/m2release-plugin/lastStableBuild/org.jenkins-ci.plugins.m2release$m2release/)
 if interested
@@ -198,7 +198,7 @@ Security fixes
 ## 0.10.0 (26th Apr 2013)
 
 -   Feature: Add a release view to the [Dashboard
-    View](http://localhost:8085/display/JENKINS/Dashboard+View) portlet
+    View](https://wiki.jenkins.io/display/JENKINS/Dashboard+View) portlet
     ([pull \#5](https://github.com/jenkinsci/m2release-plugin/pull/5)
     thanks to [Larry Shatzer](https://github.com/larrys))
 -   Fix
@@ -427,7 +427,7 @@ In no order:
 -   Check compatability with multi-module projects.
 -   Add some feedback onto the build history to show release builds
     (like the [Release
-    Plugin](http://localhost:8085/display/JENKINS/M2+Release+Plugin#)).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/M2+Release+Plugin#)).
 -   Get jenkins to recognize the releases as build artifacts.
 -   See if we can do something in the freestyle for maven builds.
 -   Nexus support

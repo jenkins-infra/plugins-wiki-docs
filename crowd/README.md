@@ -9,7 +9,7 @@ application.
 In the current version, the Crowd plugin does not support SSO.
 
 For SSO support, check out the [Crowd 2
-Plugin](http://localhost:8085/display/JENKINS/Crowd+2+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Crowd+2+Plugin).
 
 ## Configuration
 

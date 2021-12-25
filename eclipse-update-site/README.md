@@ -34,7 +34,7 @@ advantages of this plugin by following these steps:
 2.  bundle files that constitute an Eclipse site into the
     `/eclipse.site/` directory of your `*.jpi` file. The following POM
     snippet (taken from [Jenkow
-    plugin](http://localhost:8085/display/JENKINS/Jenkow+Plugin)) shows
+    plugin](https://wiki.jenkins.io/display/JENKINS/Jenkow+Plugin)) shows
     how to do this:
           <build>
             <plugins>

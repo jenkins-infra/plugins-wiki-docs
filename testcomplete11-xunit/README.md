@@ -6,8 +6,8 @@ grater into xUnit format so they can be integrated with Jenkins' JUnit
 features.
 
 The  plugin [TestComplete xUnit
-Plugin](http://localhost:8085/display/JENKINS/TestComplete+xUnit+Plugin) from [Unknown
-User (fmiguelez)](http://localhost:8085/display/~fmiguelez) can still be
+Plugin](https://wiki.jenkins.io/display/JENKINS/TestComplete+xUnit+Plugin) from [Unknown
+User (fmiguelez)](https://wiki.jenkins.io/display/~fmiguelez) can still be
 used with newer TestComplete/TestExecuter versions if the TC / TE
 executable is called with the option \*/ExportLogToXMLAlso\* included in
 the command line. This plugin works without this option for TC / TE 11
@@ -16,14 +16,14 @@ and grater.
 ## How it works
 
 It works like the [TestComplete xUnit
-Plugin](http://localhost:8085/display/JENKINS/TestComplete+xUnit+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/TestComplete+xUnit+Plugin)
 from [Unknown User
-(fmiguelez)](http://localhost:8085/display/~fmiguelez). 
+(fmiguelez)](https://wiki.jenkins.io/display/~fmiguelez). 
 
 As a reminder here the content again.
 
 It has been developed as a [xUnit
-Plugin](http://localhost:8085/display/JENKINS/xUnit+Plugin) extension.
+Plugin](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) extension.
 To use it select the build step "Process xUnit test result report" or
 "Publish xUnit test result report" post-build action. In either case
 click on "Add" button and select "TestComplete-11.x-12.x" from drop down

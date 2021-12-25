@@ -49,7 +49,7 @@ Jira](http://issues.jenkins-ci.org/secure/IssueNavigator.jspa?reset=true&jqlQuer
 ###    V1.4 @ 11-30-2011
 
 -   JENKINS-9114 changes by [Unknown User
-    (aheritier)](http://localhost:8085/display/~aheritier)
+    (aheritier)](https://wiki.jenkins.io/display/~aheritier)
 
 ###    V1.3 @ 10-20-2010
 

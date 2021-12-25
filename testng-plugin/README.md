@@ -310,7 +310,7 @@ Jira](https://issues.jenkins-ci.org/secure/IssueNavigator.jspa?reset=true&jqlQue
 
 -   Added: JENKINS-10882 - Add duration in the XML API for test-result,
     package and classes [Nicolas De
-    Loof](http://localhost:8085/display/JENKINS/testng-plugin#)
+    Loof](https://wiki.jenkins.io/display/JENKINS/testng-plugin#)
 -   Added: JENKINS-10018 - New graph for test method details page
 
 ### **Release 0.26 (July 6th, 2011)**

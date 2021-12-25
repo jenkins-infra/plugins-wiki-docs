@@ -111,7 +111,7 @@ than "Stable", only "Stable" seems to work.
 #### Version 1.16 - August 2, 2015
 
 -   Removed integration with deprecated [CopyArchiver
-    Plugin](http://localhost:8085/display/JENKINS/CopyArchiver+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/CopyArchiver+Plugin)
     (pull \#6)
 -   Pick up job renames properly
 -   JENKINS-16201 - Handle cache reloads correctly.  Previous behavior
@@ -146,7 +146,7 @@ than "Stable", only "Stable" seems to work.
     version 2.10 and the join plugin with version 1.10.1 are installed.
     Join Plugin does not work with versions of the [Parameterized
     Trigger
-    Plugin](http://localhost:8085/display/JENKINS/Parameterized+Trigger+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Parameterized+Trigger+Plugin)
     prior to 2.10.
 
 #### Version 1.10.1 - April 11, 2011
@@ -175,7 +175,7 @@ than "Stable", only "Stable" seems to work.
 #### Version 1.7 - January 16, 2010
 
 -   Avoid error if
-    [parameterized-trigger](http://localhost:8085/display/JENKINS/Parameterized+Trigger+Plugin)
+    [parameterized-trigger](https://wiki.jenkins.io/display/JENKINS/Parameterized+Trigger+Plugin)
     plugin is installed, but current project doesn't use a parameterized
     BuildTrigger.
     ([5159](https://issues.jenkins-ci.org/browse/JENKINS-5159))

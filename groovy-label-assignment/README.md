@@ -120,7 +120,7 @@ TODO
 To report a bug or request an enhancement to this plugin please create a
 ticket in JIRA (you need to login or to sign up for an account). Also
 have a look on [How to report an
-issue](http://localhost:8085/display/JENKINS/How+to+report+an+issue)
+issue](https://wiki.jenkins.io/display/JENKINS/How+to+report+an+issue)
 
 -   [Bug
     report](https://issues.jenkins-ci.org/secure/CreateIssueDetails!init.jspa?pid=10172&issuetype=1&components=17655&priority=4&assignee=ikedam)
@@ -163,14 +163,14 @@ This plugin works as following:
 
 -   Now targets Jenkins 1.509 and later (was 1.466).
 -   **Groovy scripts run with [Script Security
-    Plugin](http://localhost:8085/display/JENKINS/Script+Security+Plugin)**
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Script+Security+Plugin)**
     ([JENKINS-27535](https://issues.jenkins-ci.org/browse/JENKINS-27535))
     -   Existing scripts are configured to run in the Groovy sandboxes.
     -   You may have to approve some methods to allow run in the
         sandbox, or approve your scripts to allow run out of the
         sandbox.
     -   See [Script Security
-        Plugin](http://localhost:8085/display/JENKINS/Script+Security+Plugin)
+        Plugin](https://wiki.jenkins.io/display/JENKINS/Script+Security+Plugin)
         for details.
 
 ### Version 1.1.1 (Sep 13, 2015)

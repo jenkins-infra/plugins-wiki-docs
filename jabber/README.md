@@ -47,7 +47,7 @@ problem:
 
 If you experience any problems using the plugin please increase the log
 level of the logger *hudson.plugins.jabber* to FINEST (see
-[Logging](http://localhost:8085/display/JENKINS/Logging) ), try to
+[Logging](https://wiki.jenkins.io/display/JENKINS/Logging) ), try to
 reproduce the problem and attach the collected logs to the JIRA issue.
 
 ## Changelog
@@ -172,13 +172,13 @@ for new features.
 ### Version 1.16
 
 -   See [Instant-Messaging plugin
-    1.16](http://localhost:8085/display/JENKINS/Instant+Messaging+Plugin#InstantMessagingPlugin-Version1.16)
+    1.16](https://wiki.jenkins.io/display/JENKINS/Instant+Messaging+Plugin#InstantMessagingPlugin-Version1.16)
     for new features
 
 ### Version 1.15
 
 -   See [Instant-Messaging plugin
-    1.15](http://localhost:8085/display/JENKINS/Instant+Messaging+Plugin#InstantMessagingPlugin-Version1.15)
+    1.15](https://wiki.jenkins.io/display/JENKINS/Instant+Messaging+Plugin#InstantMessagingPlugin-Version1.15)
     for new features
 
 ### Version 1.14
@@ -310,7 +310,7 @@ publish a fixed version shortly!**
 ### Version 1.0
 
 -   This is the first release which is based on the [Instant Messaging
-    Plugin](http://localhost:8085/display/JENKINS/Instant+Messaging+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Instant+Messaging+Plugin)
     -   Make sure that the instant messaging plugin is installed, too
     -   ATTENTION: Although much care has been taken to make this
         version compatible with 0.11 it cannot be guaranteed that all

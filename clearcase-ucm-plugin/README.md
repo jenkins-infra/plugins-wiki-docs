@@ -26,12 +26,12 @@ integration with Jenkins.
 read what others have achieved:
 
 [Share Your Usage of This
-Plugin](http://localhost:8085/display/JENKINS/ClearCase+UCM+Plugin+Usage).
+Plugin](https://wiki.jenkins.io/display/JENKINS/ClearCase+UCM+Plugin+Usage).
 
 #### About the Plugin
 
 If you are using base ClearCase you should use [the old
-plugin](http://localhost:8085/display/JENKINS/ClearCase+Plugin). **If
+plugin](https://wiki.jenkins.io/display/JENKINS/ClearCase+Plugin). **If
 you are using ClearCase UCM you should use this one.**
 
 Do you wonder why there is a separate plugin for ClearCase UCM? - Please
@@ -83,7 +83,7 @@ downloaded [here](http://repo.jenkins-ci.org/public/org/jenkins-ci/plugins/clea
 
 Please read [Get up and running with ClearCase UCM plugin for Jenkins in
 11 easy
-steps](http://localhost:8085/display/JENKINS/Get+up+and+running+with+ClearCase+UCM+plugin+for+Jenkins+in+11+easy+steps)
+steps](https://wiki.jenkins.io/display/JENKINS/Get+up+and+running+with+ClearCase+UCM+plugin+for+Jenkins+in+11+easy+steps)
 
 ## **Prerequisites:**
 
@@ -353,7 +353,7 @@ build a specific named baseline. This baseline name is the value of the
 parameter. This feature will let you have one job, that does the polling
 on SCM and then has a post-build step orchestrated by
 the ﻿[Parameterized Trigger
-Plugin](http://localhost:8085/display/JENKINS/Parameterized+Trigger+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Parameterized+Trigger+Plugin)
 which builds the same baseline. The downstream job, should have the same
 settings for stream and component - and if you set the promotion level
 to ANY, the downstream job will not change the built baseline's
@@ -461,7 +461,7 @@ ccucmNOTIFIER.log.
 ###### *Setup logging with plugin versions after 1.2.0*
 
 From version 1.2.0 the [Logging
-Plugin](http://localhost:8085/display/JENKINS/Logging+Plugin) is
+Plugin](https://wiki.jenkins.io/display/JENKINS/Logging+Plugin) is
 required.
 
 So install the Logging Plugin and restart Jenkins, then go to the Job
@@ -944,7 +944,7 @@ even though the promotion level is flipped manually.
 -    Help text to the post build action ([issue
     \#12717](https://issues.jenkins-ci.org/browse/JENKINS-12717))
 -    net.sf.json.JSONException:
-    JSONObject["CCUCM.multiSiteFrequency"](http://localhost:8085/display/JENKINS/ClearCase+UCM+Plugin#)
+    JSONObject["CCUCM.multiSiteFrequency"](https://wiki.jenkins.io/display/JENKINS/ClearCase+UCM+Plugin#)
     not found ([issue
     \#12716](https://issues.jenkins-ci.org/browse/JENKINS-12716))
 -    ClearCase ucm gives a NullPointer Exception ([issue

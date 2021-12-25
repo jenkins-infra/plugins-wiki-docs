@@ -66,7 +66,7 @@ Both will be rebuilt at build time so new capabilities are incorporated
 without revisiting the project.
 
 I would advise using the [Mask Passwords
-Plugin](http://localhost:8085/display/JENKINS/Mask+Passwords+Plugin) to
+Plugin](https://wiki.jenkins.io/display/JENKINS/Mask+Passwords+Plugin) to
 mask passwords in the console log.
 
 You will need a SauceLabs account to use the SauceLabs part. If you

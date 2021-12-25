@@ -19,5 +19,5 @@ actual deployments.
 ### Version 1.0 (2014-10-29)
 
 -   Initial release (spun out from the [CloudBees
-    Deployer](http://localhost:8085/display/JENKINS/Cloudbees+Deployer+Plugin)
+    Deployer](https://wiki.jenkins.io/display/JENKINS/Cloudbees+Deployer+Plugin)
     plugin)

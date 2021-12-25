@@ -56,7 +56,7 @@ Jira](https://issues.jenkins-ci.org/secure/IssueNavigator.jspa?reset=true&jqlQue
 ### 1.5 (5/8/2016)
 
 -   Fixed:
-    [JENKINS-34525](http://localhost:8085/display/JENKINS/Simple+Parameterized+Builds+Report+plugin#)
+    [JENKINS-34525](https://wiki.jenkins.io/display/JENKINS/Simple+Parameterized+Builds+Report+plugin#)
     Work around Groovy bug in Jenkins 2 (jglick)
 -   Added: Support for Matrix Jobs (JeremyMarshall)
 

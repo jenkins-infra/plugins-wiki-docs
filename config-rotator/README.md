@@ -66,7 +66,7 @@ master/slave. If you are using the plugin in other setups than the
 above, kindly let us know if it works or not.
 
 -   Issue or inquiry use Jenkins Jira and see [Known
-    Issues](http://localhost:8085/display/JENKINS/config+rotator+plugin#ConfigRotatorPlugin-KnownIssues)
+    Issues](https://wiki.jenkins.io/display/JENKINS/config+rotator+plugin#ConfigRotatorPlugin-KnownIssues)
     below
 -   Other questions: <http://www.praqma.net/support>
 

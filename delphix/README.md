@@ -12,24 +12,24 @@ Bookmarks.
 
 #### Table of Contents
 
-1.  [Description](http://localhost:8085/display/JENKINS/Delphix+Plugin#description)
-2.  [Installation](http://localhost:8085/display/JENKINS/Delphix+Plugin#installation)
+1.  [Description](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#description)
+2.  [Installation](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#installation)
 3.  [Delphix Engine
-    Requirements](http://localhost:8085/display/JENKINS/Delphix+Plugin#requirements)
-4.  [Usage](http://localhost:8085/display/JENKINS/Delphix+Plugin#usage)
-5.  [Links](http://localhost:8085/display/JENKINS/Delphix+Plugin#links)
-6.  [Contribute](http://localhost:8085/display/JENKINS/Delphix+Plugin#contribute)
+    Requirements](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#requirements)
+4.  [Usage](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#usage)
+5.  [Links](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#links)
+6.  [Contribute](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#contribute)
     -   [Code of
-        conduct](http://localhost:8085/display/JENKINS/Delphix+Plugin#code-of-conduct)
+        conduct](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#code-of-conduct)
     -   [Community
-        Guidelines](http://localhost:8085/display/JENKINS/Delphix+Plugin#community-guidelines)
+        Guidelines](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#community-guidelines)
     -   [Contributor
-        Agreement](http://localhost:8085/display/JENKINS/Delphix+Plugin#contributor-agreement)
+        Agreement](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#contributor-agreement)
 7.  [Reporting
-    Issues](http://localhost:8085/display/JENKINS/Delphix+Plugin#reporting-issues)
+    Issues](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#reporting-issues)
 8.  [Statement of
-    Support](http://localhost:8085/display/JENKINS/Delphix+Plugin#statement-of-support)
-9.  [License](http://localhost:8085/display/JENKINS/Delphix+Plugin#license)
+    Support](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#statement-of-support)
+9.  [License](https://wiki.jenkins.io/display/JENKINS/Delphix+Plugin#license)
 
 ## Description
 

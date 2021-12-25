@@ -16,10 +16,10 @@ height="505"}
 
 -   Project description
 -   [Editable Email Notification (recipient list
-    only)](http://localhost:8085/display/JENKINS/Email-ext+plugin)
--   [Git SCM URL](http://localhost:8085/display/JENKINS/Git+Plugin)
+    only)](https://wiki.jenkins.io/display/JENKINS/Email-ext+plugin)
+-   [Git SCM URL](https://wiki.jenkins.io/display/JENKINS/Git+Plugin)
 -   [SVN SCM
-    URL](http://localhost:8085/display/JENKINS/Subversion+Plugin)
+    URL](https://wiki.jenkins.io/display/JENKINS/Subversion+Plugin)
 
 ## Changelog
 

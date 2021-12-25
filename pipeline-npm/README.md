@@ -37,7 +37,7 @@ is to place the `npmrc` in the workspace where it will be prioritized
 over the home and global `npmrc`.
 
 Here is another example using Docker and [Pipeline Model Definition
-Plugin](http://localhost:8085/display/JENKINS/Pipeline+Model+Definition+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Model+Definition+Plugin).
  When using the Docker based approach, the npmrc is installed to the
 user home location.
 

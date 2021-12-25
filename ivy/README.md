@@ -220,7 +220,7 @@ dependency).
     builds, IVY\_MODULE\_NAME and IVY\_MODULE\_ORGANISATION are
     available. This is leading up to better integration with the Jenkins
     [SonarQube
-    plugin](http://localhost:8085/display/JENKINS/SonarQube+plugin).
+    plugin](https://wiki.jenkins.io/display/JENKINS/SonarQube+plugin).
 -   Fixed
     [JENKINS-7085](http://issues.jenkins-ci.org/browse/JENKINS-7085) -
     Ivy Projects using multi-module, non-aggregated, incremental build
@@ -239,7 +239,7 @@ dependency).
     pluggable. Implemented the Ant (default) and NAnt builder types.
 -   Applied a patch from the [JFrog](http://www.jfrog.org/) guys to
     support integration with the next release of their [Artifactory
-    Plugin](http://localhost:8085/display/JENKINS/Artifactory+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Artifactory+Plugin).
 -   Implemented
     [JENKINS-6884](http://issues.jenkins-ci.org/browse/JENKINS-6884) -
     Added ability to specify property files that need to get loaded
@@ -309,7 +309,7 @@ dependency).
 #### Version 1.0 (Feb 18, 2010)
 
 -   Added support for creating Ivy Projects - see [Adding Ivy Project
-    Support](http://localhost:8085/display/JENKINS/Adding+Ivy+Project+Support)
+    Support](https://wiki.jenkins.io/display/JENKINS/Adding+Ivy+Project+Support)
     for information on the development of this feature.
 -   **Note:** requires Jenkins 1.346 or newer
 

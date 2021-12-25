@@ -152,7 +152,7 @@ curl -X POST https://jenkins.example.com/job/_jervis_generator/build --user "sam
 
 Configuration management could be used to configure the security realm
 via the [Jenkins Script
-Console](http://localhost:8085/display/JENKINS/Jenkins+Script+Console).
+Console](https://wiki.jenkins.io/display/JENKINS/Jenkins+Script+Console).
 Here's a sample configuring plugin version 0.22.
 
 ``` syntaxhighlighter-pre
@@ -175,7 +175,7 @@ if(!github_realm.equals(Jenkins.instance.getSecurityRealm())) {
 
 Configuration management could be used to configure the authorization
 strategy via the [Jenkins Script
-Console](http://localhost:8085/display/JENKINS/Jenkins+Script+Console).
+Console](https://wiki.jenkins.io/display/JENKINS/Jenkins+Script+Console).
 Here's a sample configuring plugin version 0.22.
 
 ``` syntaxhighlighter-pre

@@ -1,6 +1,6 @@
 This plugin publishes [Concordion](http://www.concordion.org/) test
 reports for each build, and is based somewhat on the [WebTest Presenter
-Plugin](http://localhost:8085/display/JENKINS/WebTest+Presenter+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/WebTest+Presenter+Plugin).
 
 # Usage
 

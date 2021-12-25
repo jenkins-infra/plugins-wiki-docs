@@ -38,7 +38,7 @@ You can :
 
 -   Select the Docker image to run the build as a **Docker image** to be
     pulled. This is comparable to the
-    [docker-plugin](http://localhost:8085/display/JENKINS/Docker+Plugin)
+    [docker-plugin](https://wiki.jenkins.io/display/JENKINS/Docker+Plugin)
     approach to offer docker slaves within Jenkins, but without any
     prerequisites on the Docker image nor need for Administrator
     privileges to configure the adequate slave template.
@@ -56,7 +56,7 @@ required container.
 CloudBees Docker Custom Build Environment let you use arbitrary docker
 image to host the build. You can use such an image you build on your own
 (or using [CloudBees Docker Build and
-Publish](http://localhost:8085/display/JENKINS/Docker+build+publish+Plugin)
+Publish](https://wiki.jenkins.io/display/JENKINS/Docker+build+publish+Plugin)
 plugin) to define the set of prerequisites for your project and share
 with the development team, as well as reuse for your CI job. In
 following sample, maven+jdk8 image available on DockerHub is used as a
@@ -79,7 +79,7 @@ using.
 ### **Advanced options**
 
 CloudBees Docker Custom Build Environment integrates with
-[Docker-commons](http://localhost:8085/display/JENKINS/Docker+Commons+Plugin)
+[Docker-commons](https://wiki.jenkins.io/display/JENKINS/Docker+Commons+Plugin)
 plugin so you can define the docker cli executable to be used to
 interact with Docker daemon, as well as select TLS credentials to be
 used to access a secured infrastructure (which is highly recommended)
@@ -306,7 +306,7 @@ only build it the first time it is requested.
 #### Comparison
 
 Compared to [docker
-plugin](http://localhost:8085/display/JENKINS/Docker+Plugin),
+plugin](https://wiki.jenkins.io/display/JENKINS/Docker+Plugin),
 
 -   This plugin can use arbitrary docker images, there is NO
     prerequisite to get a specific user set, ssh daemon, or even JDK

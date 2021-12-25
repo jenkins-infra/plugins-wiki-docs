@@ -16,7 +16,7 @@ Features:
 -   Restrictions of jobs triggering by external causes
     -   Example 1: Prohibit manual builds
     -   Example 2: Allow triggering only by a job with the
-        specified [owner](http://localhost:8085/display/JENKINS/Ownership+Plugin).
+        specified [owner](https://wiki.jenkins.io/display/JENKINS/Ownership+Plugin).
 -   Several built-in restrictions + JobRestriction extension point
 
 Contributors:
@@ -62,7 +62,7 @@ Built-in extensions:
 -   Started by user/group restrictions
     -   Restrictions support upstream projects (UpstreamCause)
     -   [Rebuild
-        Plugin](http://localhost:8085/display/JENKINS/Rebuild+Plugin)
+        Plugin](https://wiki.jenkins.io/display/JENKINS/Rebuild+Plugin)
         and other specific causes are not supported
 -   Regex restriction - check the jobs name by a regular expression
 
@@ -71,14 +71,14 @@ The following plugins produce additional job restrictions:
 -   Page:
 
     [Priority Sorter
-    Plugin](http://localhost:8085/display/JENKINS/Priority+Sorter+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Priority+Sorter+Plugin)
     — This plugin allows Jobs to be prioritised based on *Queue
     Strategies* and *Priority Strategies*.
 
 -   Page:
 
     [Ownership
-    Plugin](http://localhost:8085/display/JENKINS/Ownership+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Ownership+Plugin)
 
 If your plug-in is not listed here, then simply add the label
 **job-restriction-producer** to your plug-in wiki page and it will be
@@ -171,7 +171,7 @@ Jira](https://issues.jenkins-ci.org/secure/IssueNavigator.jspa?reset=true&jqlQue
 -   ![(plus)](docs/images/add.svg)
     Support of "Started by user from the group" restriction
     ([JENKINS-25726](https://issues.jenkins-ci.org/browse/JENKINS-25726)) -
-    thanks to [Unknown User (csms)](http://localhost:8085/display/~csms)
+    thanks to [Unknown User (csms)](https://wiki.jenkins.io/display/~csms)
 -   ![(error)](docs/images/error.svg)
     Avoid NPEs for deleted builds in UpstreamCauseRestriction for jobs
     ([JENKINS-26374](https://issues.jenkins-ci.org/browse/JENKINS-26374))

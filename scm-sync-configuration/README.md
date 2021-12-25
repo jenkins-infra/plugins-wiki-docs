@@ -2,13 +2,13 @@ Deprecated: The SCM Sync plugin is deprecated
 
 -   Users of this plugin are encouraged to migrate their jobs to
     [Pipeline
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Plugin), so
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Plugin), so
     that their jobs will be specified in pipeline code that can be
     checked into an SCM, all without using the SCM Sync confguration
     plugin.
 -   Users of this plugin are also encouraged to use the [Configuration
     as Code
-    Plugin](http://localhost:8085/display/JENKINS/Configuration+as+Code+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Configuration+as+Code+Plugin)
     to specify the configuration of their Jenkins server in a file which
     can be checked into an SCM, all without using the SCM Sync
     configuration plugin.
@@ -83,7 +83,7 @@ before using the plugin (same for using Git in Jenkins jobs).
 # Troubleshootings
 
 A page dedicated to [Scm Sync Configuration
-troubleshoots](http://localhost:8085/display/JENKINS/ScmSyncConfig+Troubleshootings)
+troubleshoots](https://wiki.jenkins.io/display/JENKINS/ScmSyncConfig+Troubleshootings)
 has been created. Don't hesitate to participate on it by telling your
 stories.
 

@@ -43,7 +43,7 @@ clean install sonar:sonar -Dsonar.analysis.mode=preview -Dsonar.report.export.pa
 ### Gerrit Trigger configuration
 
 [Gerrit
-Trigger](http://localhost:8085/display/JENKINS/Gerrit+Trigger) plugin
+Trigger](https://wiki.jenkins.io/display/JENKINS/Gerrit+Trigger) plugin
 should be installed and configured.
 
 Rest API should be configured in the Advanced section of Gerrit Trigger

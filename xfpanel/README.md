@@ -4,7 +4,7 @@ expose the status of a selected number of Jobs.
 Notice
 
 Thanks to Mark Howard and his [Radiator View
-Plugin](http://localhost:8085/display/JENKINS/Radiator+View+Plugin) from
+Plugin](https://wiki.jenkins.io/display/JENKINS/Radiator+View+Plugin) from
 which this plugin was inspired.
 
 Notice

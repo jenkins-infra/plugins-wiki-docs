@@ -15,7 +15,7 @@ or '2.+' and a new artifact has been deployed in the repository manager
 Note: The plugin uses only persistence in memory. There is no impact on
 the Jenkins infrastructure (no new files created).  
 This plugin provides a polling typology among the [XTrigger
-Plugin](http://localhost:8085/display/JENKINS/XTrigger+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/XTrigger+Plugin).
 
 # Changelog
 
@@ -43,7 +43,7 @@ IvyTrigger fails on Jenkins 1.532
 \* Fix
 [JENKINS-19459](https://issues.jenkins-ci.org/browse/JENKINS-19459) -
 IvyTrigger reports
-[ERROR](http://localhost:8085/display/JENKINS/IvyTrigger+Plugin#) -
+[ERROR](https://wiki.jenkins.io/display/JENKINS/IvyTrigger+Plugin#) -
 Polling error...
 
 ## Release 0.30

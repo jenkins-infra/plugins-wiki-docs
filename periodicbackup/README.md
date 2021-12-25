@@ -2,7 +2,7 @@
 ## Description
 
 This plugin was created as alternative to existing [Backup
-Plugin](http://localhost:8085/display/JENKINS/Backup+Plugin) that would
+Plugin](https://wiki.jenkins.io/display/JENKINS/Backup+Plugin) that would
 work periodically.  
 The main idea was to create a backup plugin that provides an **easy**
 way to be **extended** with new functionality in the future without the

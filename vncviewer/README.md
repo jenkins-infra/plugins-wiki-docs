@@ -2,7 +2,7 @@
 VncViewer lets you monitor or operate GUI of your running build. You can
 start HTML5 based VNC viewer via HTML link directly from 'Console
 output'. This plugin can be used in combination
-with [Xvnc](http://localhost:8085/display/JENKINS/Xvnc+Plugin) and [VncRecorder](http://localhost:8085/display/JENKINS/VncRecorder+Plugin)
+with [Xvnc](https://wiki.jenkins.io/display/JENKINS/Xvnc+Plugin) and [VncRecorder](https://wiki.jenkins.io/display/JENKINS/VncRecorder+Plugin)
 plugins.
 
 The plugin uses internally HTML5 based VNC
@@ -16,7 +16,7 @@ client [noVNC](http://kanaka.github.io/noVNC/). 
 
 ![](docs/images/vncviwer.png)
 
-## Example for usage together with [Xvnc plugin](http://localhost:8085/display/JENKINS/Xvnc+Plugin)
+## Example for usage together with [Xvnc plugin](https://wiki.jenkins.io/display/JENKINS/Xvnc+Plugin)
 
 ![](docs/images/xvncDisplay.png)
 

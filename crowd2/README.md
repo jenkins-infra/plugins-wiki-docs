@@ -129,8 +129,8 @@ Improvements
 -   Added possibility to enable caching to reduce remote calls to Crowd
 
 Thanks a lot [Arnaud
-Héritier](http://localhost:8085/display/~aheritier), [Unknown User
-(gmshake)](http://localhost:8085/display/~gmshake) and all others who
+Héritier](https://wiki.jenkins.io/display/~aheritier), [Unknown User
+(gmshake)](https://wiki.jenkins.io/display/~gmshake) and all others who
 tested, gave input and had patience
 ![](https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png){width="20"
 height="20"}
@@ -198,7 +198,7 @@ Fixed the following bugs:
 
 -   Fix for a problem that I discovered in combination with the
     [Email-ext
-    plugin](http://localhost:8085/display/JENKINS/Email-ext+plugin):
+    plugin](https://wiki.jenkins.io/display/JENKINS/Email-ext+plugin):
     Sending emails to the logged-in user was not possible because a
     lookup operation in the Crowd server for details about a user
     failed.
@@ -208,7 +208,7 @@ Fixed the following bugs:
 
     The debug log messages are usually not shown in Jenkins' console
     output because they are logged with log level FINE or below. See
-    [here](http://localhost:8085/display/JENKINS/Logging) how to enable
+    [here](https://wiki.jenkins.io/display/JENKINS/Logging) how to enable
     them (the plugin uses logger classes `de.theit.jenkins.crowd.XXX`).
 
 ### Version 1.0 (Sep 23, 2011)

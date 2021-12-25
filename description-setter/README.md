@@ -44,7 +44,7 @@ So the following regex would select the version:
      .*\[INFO\] Uploading project information for [^\s]* ([^\s]*)
 
 People interested in this plugin might also find [Build Name Setter
-Plugin](http://localhost:8085/display/JENKINS/Build+Name+Setter+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Build+Name+Setter+Plugin)
 useful, as it does similar thing for the display name, instead of
 description.
 

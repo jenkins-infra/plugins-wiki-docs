@@ -21,7 +21,7 @@ There may be several ways to accomplish this, but here is one suggested
 method:
 
 1.  Install the [Copy Artifact
-    Plugin](http://localhost:8085/display/JENKINS/Copy+Artifact+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Copy+Artifact+Plugin)
 2.  Create a new job that you will trigger manually only when needed
 3.  Configure this job with a build parameter of type "Build selector
     for Copy Artifact", and a copy artifact build step using "Specified

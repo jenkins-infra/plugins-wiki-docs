@@ -77,7 +77,7 @@ the path can be modified into the Jenkins' system configuration panel:
 ##### 1.7 (2010/09/18)
 
 -   Autodetect Rvm installation and its Ruby instances.
-    [\#rvm](http://localhost:8085/display/JENKINS/Rake+Plugin#Rakeplugin-rvm)
+    [\#rvm](https://wiki.jenkins.io/display/JENKINS/Rake+Plugin#Rakeplugin-rvm)
 
 ##### 1.6.3 (2010/04/16)
 

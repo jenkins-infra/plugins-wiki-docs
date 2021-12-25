@@ -1,7 +1,7 @@
 This plugin adds ability to choose branches, tags or revisions from git
 repository configured as a parameter in your builds. Unlike [Git
 Parameter
-Plugin](http://localhost:8085/display/JENKINS/Git+Parameter+Plugin),
+Plugin](https://wiki.jenkins.io/display/JENKINS/Git+Parameter+Plugin),
 this plugin requires a git repository defined instead of reading GIT SCM
 configuration from your projects
 

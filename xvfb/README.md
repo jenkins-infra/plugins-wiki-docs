@@ -12,7 +12,7 @@ GUI.
 New feature in version 1.1.0 - Jenkins Pipeline support
 
 With 1.1.0
-[Pipeline](http://localhost:8085/display/JENKINS/Pipeline+Plugin)
+[Pipeline](https://wiki.jenkins.io/display/JENKINS/Pipeline+Plugin)
 support has landed, you can now use Xvfb to wrap other pipeline steps:
 
 ``` syntaxhighlighter-pre
@@ -181,7 +181,7 @@ Thanks to Daniel Borges for the pull request!
 ## **Version 1.1.0 (Nov 24, 2015)**
 
 Added support for the [Pipeline
-Plugin](http://localhost:8085/display/JENKINS/Pipeline+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Plugin)
 
 ## **Version 1.0.16 (Feb 8, 2015)**
 
@@ -197,7 +197,7 @@ Cannot run low numbered builds with xvfb in Jenkins 1.597
 [JENKINS-26505](https://issues.jenkins-ci.org/browse/JENKINS-26505)
 java.lang.IllegalArgumentException: Prefix string too short
 org.jenkinsci.plugins.xvfb.XvfbBuildWrapper.launchXvfb(XvfbBuildWrapper.java:484)
-[duplicate](http://localhost:8085/display/JENKINS/Xvfb+Plugin#)
+[duplicate](https://wiki.jenkins.io/display/JENKINS/Xvfb+Plugin#)
 
 Thanks to Jonathan Price and mturra for reporting the issue!
 

@@ -25,7 +25,7 @@ See below a sample list of plugins that are providing events to
 LOGBack:  
   
 - [Statistics
-Gatherer](http://localhost:8085/display/JENKINS/Statistics+Gatherer+Plugin)
+Gatherer](https://wiki.jenkins.io/display/JENKINS/Statistics+Gatherer+Plugin)
 
 # How to configure a NATS appender in LOGBack
 

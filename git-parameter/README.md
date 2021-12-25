@@ -348,7 +348,7 @@ This option is a regular expression, which is compared to the
 'Repository URL'.
 
 You can define the multiple SCM for few way, you can use [Multiple SCMs
-Plugin](http://localhost:8085/display/JENKINS/Multiple+SCMs+Plugin), specified
+Plugin](https://wiki.jenkins.io/display/JENKINS/Multiple+SCMs+Plugin), specified
 many 'Repository URL' in one SCM  or define them in pipeline.
 
 Consider an example based on two repositories:

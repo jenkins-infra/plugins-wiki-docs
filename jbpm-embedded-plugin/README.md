@@ -5,7 +5,7 @@ a test plan described by a business process.
 
 jBPM workflow plugin implements a Jenkins build step. To learn more
 about possibilities and benefits of integration with jBPM, take a look
-[here](http://localhost:8085/display/JENKINS/jBPM+Integration+with+Jenkins).
+[here](https://wiki.jenkins.io/display/JENKINS/jBPM+Integration+with+Jenkins).
 
 ## Current status
 

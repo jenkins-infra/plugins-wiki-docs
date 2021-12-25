@@ -117,7 +117,7 @@ node {
 
 ## 1.1 (2016-05-30)
 
--   [JENKINS-35220](http://localhost:8085/display/JENKINS/Amazon+ECR#)
+-   [JENKINS-35220](https://wiki.jenkins.io/display/JENKINS/Amazon+ECR#)
     Correctly display the credentials
 
 ## 1.0 (2016-01-12)

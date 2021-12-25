@@ -113,7 +113,7 @@ the key
 ### env
 
 This is the environment variables used in the build. It is also aware of
-the [envinject](http://localhost:8085/display/JENKINS/EnvInject+Plugin)
+the [envinject](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin)
 plugin and will use these if installed and defined for the project
 
 ### out

@@ -3,7 +3,7 @@ This plugin allows you to capture code coverage report from
 coverage.
 
 This functionality is replaced by the ﻿[JaCoCo
-Plugin](http://localhost:8085/display/JENKINS/JaCoCo+Plugin) now!
+Plugin](https://wiki.jenkins.io/display/JENKINS/JaCoCo+Plugin) now!
 
 ## Usage with Maven2
 

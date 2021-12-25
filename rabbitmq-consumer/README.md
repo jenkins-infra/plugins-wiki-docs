@@ -8,7 +8,7 @@ Causion
 This plugin has global configuration only, so any features for user are
 not provided. You should need other plugins to provide features to user.
 c.f. [RabbitMQ Build Trigger
-Plugin](http://localhost:8085/display/JENKINS/RabbitMQ+Build+Trigger+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/RabbitMQ+Build+Trigger+Plugin)
 
 # Develop listener plugin
 
@@ -48,7 +48,7 @@ public abstract class MessageQueueListener implements ExtensionPoint {
 This plugin registers extension to publish messages to RabbitMQ.  
 If you want to use them from your plugin, please see the implementation
 of [RabbitMQ Build Trigger
-Plugin](http://localhost:8085/display/JENKINS/RabbitMQ+Build+Trigger+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/RabbitMQ+Build+Trigger+Plugin).
 
 ### Implementation class
 
@@ -69,7 +69,7 @@ This plugin provides extension to customize server operation.
 # Remote API
 
 Since 2.7, this plugin has [Remote access
-API](http://localhost:8085/display/JENKINS/Remote+access+API). You can
+API](https://wiki.jenkins.io/display/JENKINS/Remote+access+API). You can
 get plugin status via API.
 
 |              |                                |

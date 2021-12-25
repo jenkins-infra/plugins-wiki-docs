@@ -73,7 +73,7 @@ dedicated hooks to allow the Build:Executor inverse relation.
 ## History
 
 This plugin has been extracted
-from [docker-slaves](http://localhost:8085/display/JENKINS/Docker+Slaves+Plugin),
+from [docker-slaves](https://wiki.jenkins.io/display/JENKINS/Docker+Slaves+Plugin),
 we created for Docker Hack Day 2015 (we won the 3rd prize!), and which
 is an experiment sandbox for us. So this specific piece of code was
 created by extracting stable components to let them become mature and

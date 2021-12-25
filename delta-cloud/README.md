@@ -6,7 +6,7 @@ slaves and therefore allows you to decouple your Jenkins instance from
 cloud provider
 
 **Credits:** Kohsuke and his [EC2
-plug-in](http://localhost:8085/display/JENKINS/Amazon+EC2+Plugin), a lot
+plug-in](https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Plugin), a lot
 of thing were inspired by this plug-in
 
 # Configuration

@@ -16,9 +16,9 @@ Plugin Source:
 
 Once you have installed this plugin, you still have to update a view to
 add this column.  The pages [Changing the Columns of a
-View](http://localhost:8085/display/JENKINS/Changing+the+Columns+of+a+View)
+View](https://wiki.jenkins.io/display/JENKINS/Changing+the+Columns+of+a+View)
 and [Editing or Replacing the All
-View](http://localhost:8085/display/JENKINS/Editing+or+Replacing+the+All+View)
+View](https://wiki.jenkins.io/display/JENKINS/Editing+or+Replacing+the+All+View)
 will show you how.
 
 # Changelog

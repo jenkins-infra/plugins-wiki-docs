@@ -3,7 +3,7 @@ This plugin allows use of [Git](http://git-scm.com/) as a build SCM,
 including repository browsers for several providers. A recent Git
 runtime is required (1.7.9 minimum, 1.8.x recommended). Interaction with
 the Git runtime is performed by the use of the [Git Client
-Plugin](http://localhost:8085/display/JENKINS/Git+Client+Plugin), which
+Plugin](https://wiki.jenkins.io/display/JENKINS/Git+Client+Plugin), which
 is only tested on official [git client](http://git-scm.com/). Use exotic
 installations at your own risk.
 
@@ -303,7 +303,7 @@ below for more
 details: <http://www.ualberta.ca/CNS/RESEARCH/LinuxClusters/pka-putty.html>
 
 **Note:**\* future \*integration with
-[ssh-credentials-plugin](http://localhost:8085/display/JENKINS/SSH+Credentials+Plugin)
+[ssh-credentials-plugin](https://wiki.jenkins.io/display/JENKINS/SSH+Credentials+Plugin)
 could help
 
 ## Some windows fun
@@ -404,7 +404,7 @@ Once JGit (or JGit apache) has been added, jobs will include a picklist
 # Why Not JGit
 
 As of 1.2.0, the Git plugin uses
-[git-client-plugin](http://localhost:8085/display/JENKINS/Git+Client+Plugin)
+[git-client-plugin](https://wiki.jenkins.io/display/JENKINS/Git+Client+Plugin)
 for all Git low-level operation. git-client was extracted from git
 plugin 1.1.x code base, to ensure
 *[SoC](http://en.wikipedia.org/wiki/Separation_of_concerns)* and allow
@@ -800,7 +800,7 @@ scripts:
 
 -   ![(info)](docs/images/information.svg) 
      Upgrade to [Git Client
-    Plugin](http://localhost:8085/display/JENKINS/Git+Client+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Git+Client+Plugin)
     version 2.5.0
 -   ![(error)](docs/images/error.svg) 
      Switch GitSCMSource indexing based on ls-remote to correctly
@@ -1892,7 +1892,7 @@ scripts:
 ### Version 1.2.0 (February 20, 2013)
 
 -   move git client related stuff into [Git Client
-    plugin](http://localhost:8085/display/JENKINS/Git+Client+Plugin)
+    plugin](https://wiki.jenkins.io/display/JENKINS/Git+Client+Plugin)
 -   double checked backward compatibility with gerrit, git-parameter and
     cloudbees validated-merge plugins.
 
@@ -2047,7 +2047,7 @@ java (JGit) one, so that plugin is not system dependent.
 ### Version 1.1.14 (November 30, 2011)
 
 -   Added support for [instant commit push
-    notifications](http://localhost:8085/display/JENKINS/Git+Plugin#GitPlugin-Pushnotificationfromrepository)
+    notifications](https://wiki.jenkins.io/display/JENKINS/Git+Plugin#GitPlugin-Pushnotificationfromrepository)
     (see also this [blog
     post](http://kohsuke.org/2011/12/01/polling-must-die-triggering-jenkins-builds-from-a-git-hook/))
 
@@ -2162,12 +2162,12 @@ java (JGit) one, so that plugin is not system dependent.
 -   Passwords should now be properly used in https URLs.
     ([JENKINS-3807](https://issues.jenkins-ci.org/browse/JENKINS-3807))
 -   Exposed a few [token
-    macros](http://localhost:8085/display/JENKINS/Token+Macro+Plugin)
+    macros](https://wiki.jenkins.io/display/JENKINS/Token+Macro+Plugin)
 
 ### Version 1.1.5 (February 14, 2011)
 
 -   Added an extension for [Parameterized Trigger
-    Plugin](http://localhost:8085/display/JENKINS/Parameterized+Trigger+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Parameterized+Trigger+Plugin)
     to allow Git SHA1 of the current build to be passed to downstream
     builds (so that they can act on the exact same commit.)
 -   Allowed optional disabling of internal tagging
@@ -2293,7 +2293,7 @@ java (JGit) one, so that plugin is not system dependent.
 ### Version 0.8.2
 
 -   Support for
-    [Gerrit](http://localhost:8085/display/JENKINS/Gerrit+Plugin)
+    [Gerrit](https://wiki.jenkins.io/display/JENKINS/Gerrit+Plugin)
     plugin.
 -   Support for different build choosers.
 

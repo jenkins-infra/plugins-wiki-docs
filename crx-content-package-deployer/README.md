@@ -36,7 +36,7 @@ to one or more other CRX servers.
 
 CRX login credentials are managed using functionality provided by the
 [Credentials
-Plugin](http://localhost:8085/display/JENKINS/Credentials+Plugin). Users
+Plugin](https://wiki.jenkins.io/display/JENKINS/Credentials+Plugin). Users
 are encouraged to provide a description for each set of credentials and
 to organize their credentials using Domains, which are regularly
 filtered by this plugin's components according to Base URL parameters.
@@ -103,7 +103,7 @@ are exposed in other areas of the application. In addition, the Base URL
 field is persisted as plaintext on disk, so any unencrypted passwords
 stored in that field are visible to anyone who has access to the Jenkins
 filesystem. Use the Password Parameter type and the [Mask Passwords
-Plugin](http://localhost:8085/display/JENKINS/Mask+Passwords+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Mask+Passwords+Plugin)
 whenever possible to properly secure your parameterized CRX application
 credentials.
 
@@ -112,7 +112,7 @@ credentials.
 In addition to username/password login, this plugin also supports HTTP
 Signature client authentication using SSH User Private Key credentials,
 which in turn is provided by [SSH Credentials
-Plugin](http://localhost:8085/display/JENKINS/SSH+Credentials+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/SSH+Credentials+Plugin).
 The server side of this functionality can be setup in Adobe Granite/CRX
 servers by installing the [Sling HTTP Signature Authentication
 Handler](https://github.com/adamcin/net.adamcin.sling.auth.httpsig/wiki/getting-started).
@@ -169,17 +169,17 @@ filter may look like this:
 ## Components
 
 -   [\#Deploy Content Packages to
-    CRX](http://localhost:8085/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-DeployContentPackagestoCRX)
+    CRX](https://wiki.jenkins.io/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-DeployContentPackagestoCRX)
 -   [\#CRX Content Package Choice
-    Parameter](http://localhost:8085/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-CRXContentPackageChoiceParameter)
+    Parameter](https://wiki.jenkins.io/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-CRXContentPackageChoiceParameter)
 -   [\#Download Content Packages from
-    CRX](http://localhost:8085/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-DownloadContentPackagesfromCRX)
+    CRX](https://wiki.jenkins.io/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-DownloadContentPackagesfromCRX)
 -   [\#Replicate Content Packages from
-    CRX](http://localhost:8085/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-ReplicateContentPackagesfromCRX)
+    CRX](https://wiki.jenkins.io/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-ReplicateContentPackagesfromCRX)
 -   [\#Build a Content Package on
-    CRX](http://localhost:8085/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-BuildaContentPackageonCRX)
+    CRX](https://wiki.jenkins.io/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-BuildaContentPackageonCRX)
 -   [\#Validate CRX Content
-    Packages](http://localhost:8085/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-ValidateCRXContentPackages)
+    Packages](https://wiki.jenkins.io/display/JENKINS/CRX+Content+Package+Deployer+Plugin#CRXContentPackageDeployerPlugin-ValidateCRXContentPackages)
 
 ### Deploy Content Packages to CRX
 

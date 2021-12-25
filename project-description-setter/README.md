@@ -1,7 +1,7 @@
-[Features](http://localhost:8085/display/JENKINS/Project+Description+Setter+Plugin#ProjectDescriptionSetterPlugin-features)  
-[Configure](http://localhost:8085/display/JENKINS/Project+Description+Setter+Plugin#ProjectDescriptionSetterPlugin-configuration)  
+[Features](https://wiki.jenkins.io/display/JENKINS/Project+Description+Setter+Plugin#ProjectDescriptionSetterPlugin-features)  
+[Configure](https://wiki.jenkins.io/display/JENKINS/Project+Description+Setter+Plugin#ProjectDescriptionSetterPlugin-configuration)  
 [Change
-log](http://localhost:8085/display/JENKINS/Project+Description+Setter+Plugin#ProjectDescriptionSetterPlugin-changelog)
+log](https://wiki.jenkins.io/display/JENKINS/Project+Description+Setter+Plugin#ProjectDescriptionSetterPlugin-changelog)
 
 # Features
 
@@ -55,7 +55,7 @@ Select the charset (character set and character-encoding) for the file
     \#2](https://github.com/jenkinsci/project-description-setter-plugin/pull/2) -
     Make the plugin compatible with Jenkins 2.102 and above  
     -   More info: [Plugins affected by fix for
-        JEP-200](http://localhost:8085/display/JENKINS/Plugins+affected+by+fix+for+JEP-200)
+        JEP-200](https://wiki.jenkins.io/display/JENKINS/Plugins+affected+by+fix+for+JEP-200)
 -   Update the minimal Jenkins Core requirement to 1.625.3
 
 #### 1.1 (12/06/2012)

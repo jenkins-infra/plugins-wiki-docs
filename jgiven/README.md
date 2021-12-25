@@ -46,7 +46,7 @@ freeStyleJob('test-job') {
 ### 0.2 (25.9.2015)
 
 -   Added support for the [Job DSL
-    Plugin](http://localhost:8085/display/JENKINS/Job+DSL+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Job+DSL+Plugin).
 -   Upgraded JGiven to 0.8.2
 -   Only one Html Report (= previously called Html5 report) is supported
 

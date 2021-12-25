@@ -115,7 +115,7 @@ height="250"}
 -   In case the test report is not rendered as a hyperlink, Jenkins may
     be enforcing a security policy which could be relaxed.
      See [Configuring Content Security
-    Policy](http://localhost:8085/display/JENKINS/Configuring+Content+Security+Policy) for
+    Policy](https://wiki.jenkins.io/display/JENKINS/Configuring+Content+Security+Policy) for
     more information on this topic.  In some cases, an additional JAVA
     ARG can be added to the Jenkins startup.  For example, under
     /etc/defaults/jenkins, the following would be

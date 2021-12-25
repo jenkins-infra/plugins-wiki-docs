@@ -19,7 +19,7 @@ properly.
 There is also an option to clean up locks when starting the first
 Xvnc-enabled build in a given session.  
 You can record your vnc session with [VncRecorder
-Plugin](http://localhost:8085/display/JENKINS/VncRecorder+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/VncRecorder+Plugin).
 
 Note: you must have started the vncserver at least one time before you
 use it with hudson. This is to create a password. Otherwise Jenkins

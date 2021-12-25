@@ -40,43 +40,43 @@ You can also:
 ### Table of Contents
 
 -   [ZAP as a part of a CI
-    Environment](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-ZAPasapartofaCIEnvironment) 
--   [Tech](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Tech)
--   [Questions/Troubleshooting](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Questions/Troubleshooting)
+    Environment](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-ZAPasapartofaCIEnvironment) 
+-   [Tech](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Tech)
+-   [Questions/Troubleshooting](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Questions/Troubleshooting)
 -   [Issue
-    Tracking](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-IssueTracking)
+    Tracking](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-IssueTracking)
 -   [Security
-    Vulnerabilities](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-SecurityVulnerabilities)
--   [Installation](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Installation)
-    -   [Jenkins](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Jenkins)
+    Vulnerabilities](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-SecurityVulnerabilities)
+-   [Installation](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Installation)
+    -   [Jenkins](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Jenkins)
     -   [Zed Attack Proxy –  Documentation, how to configure **ZAP** can
         be found
-        **here**](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-ZedAttackProxy%E2%80%93Documentation,howtoconfigureZAPcanbefoundhere)
+        **here**](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-ZedAttackProxy%E2%80%93Documentation,howtoconfigureZAPcanbefoundhere)
     -   [Firefox –  Documentation, how to configure **Firefox** can be
         found
-        **here**](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Firefox%E2%80%93Documentation,howtoconfigureFirefoxcanbefoundhere)
--   [Usage](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Usage)
--   [Development](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Development)
+        **here**](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Firefox%E2%80%93Documentation,howtoconfigureFirefoxcanbefoundhere)
+-   [Usage](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Usage)
+-   [Development](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Development)
 -   [Building the
-    Plugin](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-BuildingthePlugin)
-    -   [Prerequisites](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Prerequisites)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-BuildingthePlugin)
+    -   [Prerequisites](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Prerequisites)
     -   [Development
-        Build](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-DevelopmentBuild)
+        Build](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-DevelopmentBuild)
     -   [To
-        Install](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-ToInstall%3A)
+        Install](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-ToInstall%3A)
     -   [Pre-Production
-        Release](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Pre-ProductionRelease)
+        Release](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Pre-ProductionRelease)
     -   [Production
-        Release](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-ProductionRelease)
+        Release](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-ProductionRelease)
 -   [Development Rules and
-    Guidelines](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-DevelopmentRulesandGuidelines)
--   [Contributors](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Contributors)
+    Guidelines](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-DevelopmentRulesandGuidelines)
+-   [Contributors](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Contributors)
 -   [Version
-    History](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-VersionHistory)
--   [Other](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-Other)
+    History](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-VersionHistory)
+-   [Other](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-Other)
 -   [Previous Release
-    (Deprecated)](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-PreviousRelease(Deprecated))
--   [License](http://localhost:8085/display/JENKINS/zap+plugin#zapplugin-License)
+    (Deprecated)](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-PreviousRelease(Deprecated))
+-   [License](https://wiki.jenkins.io/display/JENKINS/zap+plugin#zapplugin-License)
 
 ### ZAP as a part of a CI Environment
 
@@ -168,7 +168,7 @@ to one of the
     -   Download and extract the **[desired war
         release](https://updates.jenkins-ci.org/download/war/)**.
 
-##### [Zed Attack Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) – ![(info)](docs/images/information.svg) Documentation, how to configure **ZAP** can be found **[here](http://localhost:8085/display/JENKINS/ZAP+Settings)**
+##### [Zed Attack Proxy](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) – ![(info)](docs/images/information.svg) Documentation, how to configure **ZAP** can be found **[here](https://wiki.jenkins.io/display/JENKINS/ZAP+Settings)**
 
 -   -   ZAP Jenkins plugin requires **[ZAP 2.6.0
         Standard](https://github.com/zaproxy/zaproxy/wiki/Downloads#zap-260-standard)**
@@ -176,7 +176,7 @@ to one of the
         -   **[Downloads](https://github.com/zaproxy/zaproxy/wiki/Downloads)**
         -   **[Releases](https://github.com/zaproxy/zaproxy/releases)**
 
-##### [Firefox](https://www.mozilla.org/en-US/firefox/products/) – ![(info)](docs/images/information.svg) Documentation, how to configure **Firefox** can be found [**here**](http://localhost:8085/display/JENKINS/Firefox+Settings)** **
+##### [Firefox](https://www.mozilla.org/en-US/firefox/products/) – ![(info)](docs/images/information.svg) Documentation, how to configure **Firefox** can be found [**here**](https://wiki.jenkins.io/display/JENKINS/Firefox+Settings)** **
 
 -   -   ZAP supports one of the following
         **[versions](https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsSeleniumIntro)**
@@ -188,7 +188,7 @@ to one of the
 
 Detailed instructions on how to configure a Job from start to finish can
 be found
-**[here](http://localhost:8085/display/JENKINS/Configure+the+Job)**.
+**[here](https://wiki.jenkins.io/display/JENKINS/Configure+the+Job)**.
 
 -   -   Configure the Job to [**Execute
         ZAP**](https://wiki.jenkins-ci.org/display/JENKINS/Configure+the+Job#ConfiguretheJob-ConfiguretheJobtoExecuteZAP)
@@ -212,11 +212,11 @@ Start the local Jenkins instance: `$ mvn hpi:run`
 
 1.  Ensure that your Maven Environment is setup and configured properly
     by following the **[Plugin
-    tutorial](http://localhost:8085/display/JENKINS/Plugin+tutorial)**.
+    tutorial](https://wiki.jenkins.io/display/JENKINS/Plugin+tutorial)**.
 2.  Ensure that your various hosting permissions are configured properly
     and additional project settings are configured properly by following
     the **[Hosting
-    Plugins](http://localhost:8085/display/JENKINS/Hosting+Plugins)**
+    Plugins](https://wiki.jenkins.io/display/JENKINS/Hosting+Plugins)**
     tutorial.
 
 **Warning:** Do **NOT** attempt to perform a production release until
@@ -253,17 +253,17 @@ following document on how to resolve them.
 **Required:** Only **ONE** Pull Request per JIRA Issue/Ticket.
 
 See [**Code Style
-Guidelines**](http://localhost:8085/display/JENKINS/Code+Style+Guidelines)** **
+Guidelines**](https://wiki.jenkins.io/display/JENKINS/Code+Style+Guidelines)** **
 
 ### Contributors
 
 See
-[**Contributors**](http://localhost:8085/display/JENKINS/List+of+Contributors)** **
+[**Contributors**](https://wiki.jenkins.io/display/JENKINS/List+of+Contributors)** **
 
 ### Version History
 
 See
-[**History**](http://localhost:8085/display/JENKINS/Version+History)** **
+[**History**](https://wiki.jenkins.io/display/JENKINS/Version+History)** **
 
 ### Other
 
@@ -273,10 +273,10 @@ demo](https://www.youtube.com/watch?v=mmHZLSffCUg)**
 ### Previous Release (Deprecated)
 
 See **[Wiki
-Documentation](http://localhost:8085/display/JENKINS/ZAProxy+Plugin)**  
+Documentation](https://wiki.jenkins.io/display/JENKINS/ZAProxy+Plugin)**  
 See **[Source Code](https://github.com/jenkinsci/zaproxy-plugin)**  
 See
-**[Contributors](http://localhost:8085/display/JENKINS/ZAProxy+Plugin+Contributors)**
+**[Contributors](https://wiki.jenkins.io/display/JENKINS/ZAProxy+Plugin+Contributors)**
 
 ### License
 

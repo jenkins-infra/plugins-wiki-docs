@@ -7,13 +7,13 @@ information on the build summary page.
 ## Migration from 1.X
 
 From version 2.0, Groovy Postbuild plugin introduces [Script Security
-Plugin](http://localhost:8085/display/JENKINS/Script+Security+Plugin).  
+Plugin](https://wiki.jenkins.io/display/JENKINS/Script+Security+Plugin).  
 Administrators can prevent users without proper privileges from running
 harmful scripts.  
 For details, see [Script Security
-Plugin](http://localhost:8085/display/JENKINS/Script+Security+Plugin).  
+Plugin](https://wiki.jenkins.io/display/JENKINS/Script+Security+Plugin).  
 This doesn't affect [Jenkins without security
-enabled](http://localhost:8085/display/JENKINS/Securing+Jenkins) and
+enabled](https://wiki.jenkins.io/display/JENKINS/Securing+Jenkins) and
 users with administrative privilege (to be exact, with RUN\_SCRIPTS
 permission).
 
@@ -40,7 +40,7 @@ fail with outputs like this:
 ### Scripts using only whitelisted methods of manager
 
 Scripts using only [whitelisted methods of
-manager](http://localhost:8085/display/JENKINS/Groovy+Postbuild+Plugin#GroovyPostbuildPlugin-Whitelistedmethods)
+manager](https://wiki.jenkins.io/display/JENKINS/Groovy+Postbuild+Plugin#GroovyPostbuildPlugin-Whitelistedmethods)
 can run with using Groovy sandbox.  
 They can be validated only by checking "Use Groovy Sandbox".
 
@@ -49,7 +49,7 @@ They can be validated only by checking "Use Groovy Sandbox".
 ### Scripts using non-whitelisted methods
 
 Scripts using [non-whitelisted methods of
-manager](http://localhost:8085/display/JENKINS/Groovy+Postbuild+Plugin#GroovyPostbuildPlugin-Non-whitelistedmethods)
+manager](https://wiki.jenkins.io/display/JENKINS/Groovy+Postbuild+Plugin#GroovyPostbuildPlugin-Non-whitelistedmethods)
 or methods not of manager requires  
 approval of administrators.
 
@@ -71,7 +71,7 @@ Jenkins \> In-process Script Approval.
 ### Scripts using external class directories
 
 [Script Security
-Plugin](http://localhost:8085/display/JENKINS/Script+Security+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Script+Security+Plugin)
 doesn't support class directories.
 
 If you refer external class directories from your scripts, you should
@@ -427,7 +427,7 @@ manager.listener.logger.println("I want to see this line in my job's output");
 To report a bug or request an enhancement to this plugin please create a
 ticket in JIRA (you need to login or to sign up for an account). Also
 have a look on [How to report an
-issue](http://localhost:8085/display/JENKINS/How+to+report+an+issue)
+issue](https://wiki.jenkins.io/display/JENKINS/How+to+report+an+issue)
 
 -   [Open
     Issues](https://issues.jenkins-ci.org/issues/?jql=project%20%3D%20JENKINS%20AND%20status%20in%20(Open%2C%20%22In%20Progress%22%2C%20Reopened%2C%20%22In%20Review%22%2C%20Verified)%20AND%20component%20%3D%20%27groovy-postbuild-plugin%27%20)
@@ -457,11 +457,11 @@ issue](http://localhost:8085/display/JENKINS/How+to+report+an+issue)
     JENKINS-54262](https://issues.jenkins.io/browse/JENKINS-54262) -
     Getting issue details... STATUS
     -   It caused problems when used with [Authorize Project
-        plugin](http://localhost:8085/display/JENKINS/Authorize+Project+plugin)
+        plugin](https://wiki.jenkins.io/display/JENKINS/Authorize+Project+plugin)
 -   Suppress "WARNING: Avoid calling getLogFile on ..." when used in
     pipeline jobs.
     -   It gets warned since [Pipeline Job
-        Plugin](http://localhost:8085/display/JENKINS/Pipeline+Job+Plugin)
+        Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Job+Plugin)
         2.26.
 
 #### Version 2.4.3 (Nov 18, 2018)
@@ -479,7 +479,7 @@ issue](http://localhost:8085/display/JENKINS/How+to+report+an+issue)
 #### Version 2.4.1 (May 4, 2018)
 
 -   Have [Build Monitor
-    Plugin](http://localhost:8085/display/JENKINS/Build+Monitor+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Build+Monitor+Plugin)
     not to cause errors.
     ([JENKINS-50420](https://issues.jenkins-ci.org/browse/JENKINS-50420))
     -   Introduced fake `GroovyPostbuildAction`.
@@ -495,12 +495,12 @@ issue](http://localhost:8085/display/JENKINS/How+to+report+an+issue)
     ([JENKINS-43992](https://issues.jenkins-ci.org/browse/JENKINS-43992)).  
     -   You can use badge and summary features in pipeline only with
         badge-plugin. See [Badge
-        Plugin](http://localhost:8085/display/JENKINS/Badge+Plugin) for
+        Plugin](https://wiki.jenkins.io/display/JENKINS/Badge+Plugin) for
         more details.
 -   Sanitize HTML in the badges.
     -   You no longer be able to use HTML expressions in badge contents.
 -   **Don't upgrade to this version if you use [Build Monitor
-    Plugin](http://localhost:8085/display/JENKINS/Build+Monitor+Plugin).**
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Build+Monitor+Plugin).**
     -   Groovy-postbuild-2.4 breaks build-moitor-1.12 or earlier. Sorry.
     -   Please postpone upgrading groovy-postbuild till fixing this
         issue:
@@ -540,10 +540,10 @@ issue](http://localhost:8085/display/JENKINS/How+to+report+an+issue)
 #### Version 2.2.1 (Aug 18, 2015)
 
 -   Improved the behavior with [Template Project
-    Plugin](http://localhost:8085/display/JENKINS/Template+Project+Plugin)
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Template+Project+Plugin)
     ([JENKINS-21276](https://issues.jenkins-ci.org/browse/JENKINS-21276))
     -   Prior versions disturbed the execution of [Template Project
-        Plugin](http://localhost:8085/display/JENKINS/Template+Project+Plugin)
+        Plugin](https://wiki.jenkins.io/display/JENKINS/Template+Project+Plugin)
         when the build was failed (even if the groovy script succeeded).
 
 #### Version 2.2 (Dec 19, 2014)
@@ -560,11 +560,11 @@ issue](http://localhost:8085/display/JENKINS/How+to+report+an+issue)
 
 -   Changed target Jenkins core from 1.466 to 1.509.4.
 -   Introduced [Script Security
-    Plugin](http://localhost:8085/display/JENKINS/Script+Security+Plugin).
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Script+Security+Plugin).
     ([JENKINS-15212](https://issues.jenkins-ci.org/browse/JENKINS-15212))
     -   You need reconfigure your projects or approve scripts. Have a
         look at [\#Migration from
-        1.X](http://localhost:8085/display/JENKINS/Groovy+Postbuild+Plugin#GroovyPostbuildPlugin-Migrationfrom1.X)
+        1.X](https://wiki.jenkins.io/display/JENKINS/Groovy+Postbuild+Plugin#GroovyPostbuildPlugin-Migrationfrom1.X)
 -   Added `manager.buildIsA(klcass)`.
     ([JENKINS-24694](https://issues.jenkins-ci.org/browse/JENKINS-24694))
 

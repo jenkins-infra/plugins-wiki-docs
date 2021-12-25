@@ -8,7 +8,7 @@ so they can be integrated with Jenkins' JUnit features.
 ## How it works
 
 It has been developed as a ﻿[xUnit
-Plugin](http://localhost:8085/display/JENKINS/xUnit+Plugin) extension.
+Plugin](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) extension.
 To use it select the build step "Process xUnit test result report" or
 "Publish xUnit test result report" post-build action. In either case
 click on "Add" button and select "TestComplete-9.x-10.x" from drop down

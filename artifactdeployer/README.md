@@ -18,9 +18,9 @@ JENKINS\_HOME directory).
 
 There are many other Jenkins plugins close to ArtifactDeployer such as
 [CopyArtifact
-plugin](http://localhost:8085/display/JENKINS/Copy+Artifact+Plugin) or
+plugin](https://wiki.jenkins.io/display/JENKINS/Copy+Artifact+Plugin) or
 [CopyArchiver
-plugin](http://localhost:8085/display/JENKINS/CopyArchiver+Plugin) for
+plugin](https://wiki.jenkins.io/display/JENKINS/CopyArchiver+Plugin) for
 publishing artifacts from Jenkins resources (from the current workspace,
 from the old builds of the same job or other jobs, ...) to remote
 locations with the protocol file://  

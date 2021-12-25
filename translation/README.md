@@ -43,7 +43,7 @@ future versions of Jenkins.
 If you'd like to involve more deeply with the localization effort,
 please drop us a note at <http://groups.google.com/group/jenkinsci-dev>.
 Also see
-[Internationalization](http://localhost:8085/display/JENKINS/Internationalization).
+[Internationalization](https://wiki.jenkins.io/display/JENKINS/Internationalization).
 
 ## Change Log
 

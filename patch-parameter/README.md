@@ -18,9 +18,9 @@ considerably faster than developers' local computers.
 
 Note that on distributed version control systems, there's often a better
 way to do this. See [Gerrit
-Trigger](http://localhost:8085/display/JENKINS/Gerrit+Trigger) or
+Trigger](https://wiki.jenkins.io/display/JENKINS/Gerrit+Trigger) or
 [Subversion Merge
-Plugin](http://localhost:8085/display/JENKINS/Subversion+Merge+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Subversion+Merge+Plugin)
 or [validated merge feature from
 CloudBees](http://jenkins-enterprise.cloudbees.com/docs/user-guide-bundle/validated-merge.html).
 

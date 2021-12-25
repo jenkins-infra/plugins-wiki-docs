@@ -64,7 +64,7 @@ SEE :
 To report a bug or request an enhancement to this plugin please create a
 ticket in JIRA (you need to login or to sign up for an account). Also
 have a look on [How to report an
-issue](http://localhost:8085/display/JENKINS/How+to+report+an+issue)
+issue](https://wiki.jenkins.io/display/JENKINS/How+to+report+an+issue)
 
 -   [Bug
     report](https://issues.jenkins-ci.org/secure/CreateIssueDetails!init.jspa?pid=10172&issuetype=1&components=17576&priority=4&assignee=ikedam)

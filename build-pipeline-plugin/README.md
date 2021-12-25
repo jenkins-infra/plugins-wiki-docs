@@ -144,11 +144,11 @@ Jenkins.
 [1.3.1](http://code.google.com/p/build-pipeline-plugin/issues/list?can=1&q=label%3AMilestone-Release1.3.1&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles)  
 [1.3.0](http://www.centrumsystems.com.au/2012/07/build-pipeline-plugin-1-3-0-release/)
 - Also see the
-[roadmap](http://localhost:8085/display/JENKINS/Build+Pipeline+Plugin+-+Roadmap)
+[roadmap](https://wiki.jenkins.io/display/JENKINS/Build+Pipeline+Plugin+-+Roadmap)
 for details.  
 [1.2.4](http://code.google.com/p/build-pipeline-plugin/issues/list?can=1&q=label%3AMilestone-Release1.2.4&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles)
 - Also see the
-[roadmap](http://localhost:8085/display/JENKINS/Build+Pipeline+Plugin+-+Roadmap)
+[roadmap](https://wiki.jenkins.io/display/JENKINS/Build+Pipeline+Plugin+-+Roadmap)
 for details.  
 [1.2.2](http://www.centrumsystems.com.au/blog/?p=325)  
 [1.2.1](http://www.centrumsystems.com.au/blog/?p=287)  

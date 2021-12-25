@@ -1,6 +1,6 @@
 # CLI Commander Plugin
 
-Run [CLI commands](http://localhost:8085/display/JENKINS/Jenkins+CLI)
+Run [CLI commands](https://wiki.jenkins.io/display/JENKINS/Jenkins+CLI)
 from Jenkins web UI.
 
 ## What? Why?

@@ -35,7 +35,7 @@ It is possible to configure several applications to be notified.
 ### Getting user as an environment variable
 
 Install the [Build User Vars
-Plugin](http://localhost:8085/display/JENKINS/Build+User+Vars+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Build+User+Vars+Plugin)
 and use any of the supported environment variables.  
 ![](docs/images/user.png)
 

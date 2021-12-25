@@ -291,7 +291,7 @@ install clover:instrument \| -N clover:aggregate clover:site
 **Version 4.6.0 (March 4, 2016)**
 
 -   Compatibility with the [Pipeline
-    Plugin](http://localhost:8085/display/JENKINS/Pipeline+Plugin). 
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Plugin). 
 -   Minimum Jenkins version is **1.580.3**
 
 **Version 4.5.0** (December 9, 2015)

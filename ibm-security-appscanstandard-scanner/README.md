@@ -149,10 +149,10 @@ build to run on that node so that the plugin can reach the installation.
 
 First you must set that machine as a node (slave), you can follow [this
 guide to do
-so](http://localhost:8085/display/JENKINS/Step+by+step+guide+to+set+up+master+and+agent+machines+on+Windows).
+so](https://wiki.jenkins.io/display/JENKINS/Step+by+step+guide+to+set+up+master+and+agent+machines+on+Windows).
 
 Afterwards you can use the [Node and Label Parameter
-Plugin](http://localhost:8085/display/JENKINS/NodeLabel+Parameter+Plugin),
+Plugin](https://wiki.jenkins.io/display/JENKINS/NodeLabel+Parameter+Plugin),
 following the guide provided in its wiki achieving this goal should be
 straightforward.
 
@@ -165,7 +165,7 @@ below.
 
 To take full advantage of this plugin, you may want to combine it with
 [HTML Publisher
-Plugin](http://localhost:8085/display/JENKINS/HTML+Publisher+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/HTML+Publisher+Plugin)
 
 If you already have HTML Publisher installed, this can be achieved in 2
 simple steps:

@@ -13,7 +13,7 @@ of executing same pipeline routine for the job and all its downstream
 jobs. For maven projects that means an execution of the same routine for
 all the jobs defined as SNAPSHOT dependencies of the given job. The
 execution graph can be visualized using [Dependency Graph View
-Plugin](http://localhost:8085/display/JENKINS/Dependency+Graph+View+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Dependency+Graph+View+Plugin).
 
 Some extra documentation for this plugin is in
 the [GitHub](https://github.com/jenkinsci/pipeline-dependency-walker-plugin)
@@ -51,9 +51,9 @@ node {
 ## 2. Multiple (cascade) release
 
 Another use case is a multiple release. When the release action (see
-[Release Plugin](http://localhost:8085/display/JENKINS/Release+Plugin)
+[Release Plugin](https://wiki.jenkins.io/display/JENKINS/Release+Plugin)
 or [M2 Release
-Plugin](http://localhost:8085/display/JENKINS/M2+Release+Plugin)) is
+Plugin](https://wiki.jenkins.io/display/JENKINS/M2+Release+Plugin)) is
 defined in a way that it drops SNAPSHOT keyword from dependencies, than
 using this plugin one can trigger a consistent release of multiple
 modules. In this scenario release should first update dependencies, for
@@ -64,7 +64,7 @@ versions:use-releases scm:checkin \-Dmessage="drop snapshot versions"
 ```
 
 In some way the plugin is an alternative to [Maven Cascade Release
-Plugin](http://localhost:8085/display/JENKINS/Maven+Cascade+Release+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Maven+Cascade+Release+Plugin).
 
 Example of pipeline configuration:
 

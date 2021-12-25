@@ -2,7 +2,7 @@ Runtime diagnosis tool for "too many open files" problem.This plugin
 watches file descriptor open/close activities of JVM and allow you to
 see the list of what's currently opened, and Java call stack that opened
 the file. If you are suffering from the [too many open
-files](http://localhost:8085/display/JENKINS/I%27m+getting+too+many+open+files+error)
+files](https://wiki.jenkins.io/display/JENKINS/I%27m+getting+too+many+open+files+error)
 problem, this report enables the developers to fix the leak.
 
 # Usage

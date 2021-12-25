@@ -113,7 +113,7 @@ While browser access is convenient, there's only so much browser allows
 JavaScript to do. Its keyboard support isn't perfect, and you cannot do
 copy&paste. For these reasons, this plugin also allows you to access the
 terminal session through the standard SSH command through [Jenkins
-SSH](http://localhost:8085/display/JENKINS/Jenkins+SSH) service.
+SSH](https://wiki.jenkins.io/display/JENKINS/Jenkins+SSH) service.
 
 To remotely login to the build, run the following command (the '-t'
 option is to allocate tty, which is necessary because ssh doesn't do so
@@ -139,7 +139,7 @@ Make SFTP work.
 
 ### See also
 
-[Terminal Plugin](http://localhost:8085/display/JENKINS/Terminal+Plugin)
+[Terminal Plugin](https://wiki.jenkins.io/display/JENKINS/Terminal+Plugin)
 
 # Changelog
 

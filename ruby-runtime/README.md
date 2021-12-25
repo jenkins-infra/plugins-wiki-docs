@@ -1,6 +1,6 @@
 
 Provides the Ruby runtime and bindings required to implement [plugins in
-Ruby](http://localhost:8085/display/JENKINS/Jenkins+plugin+development+in+Ruby).
+Ruby](https://wiki.jenkins.io/display/JENKINS/Jenkins+plugin+development+in+Ruby).
 
 # History
 

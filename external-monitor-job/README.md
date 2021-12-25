@@ -87,7 +87,7 @@ write something like:
 
 Note that you can also move the cron job itself to Jenkins by using
 [free-style software
-project](http://localhost:8085/display/JENKINS/Building+a+software+project),
+project](https://wiki.jenkins.io/display/JENKINS/Building+a+software+project),
 which would also allow you to manually execute the job outside the
 scheduled executions.
 

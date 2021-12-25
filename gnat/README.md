@@ -30,7 +30,7 @@ plugin)
 ## Release 0.11.2 (April 01, 2011)
 
 \* Upgraded to
-[xUnit](http://localhost:8085/display/JENKINS/xUnit+Plugin) 1.16.2
+[xUnit](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) 1.16.2
 
 ## Release 0.11.1 (March 06, 2011)
 
@@ -40,43 +40,43 @@ plugin)
 
 \* Upgraded to Jenkins metadata 1.399  
 \* Upgraded to
-[xUnit](http://localhost:8085/display/JENKINS/xUnit+Plugin) 1.16.1
+[xUnit](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) 1.16.1
 
 ## Release 0.10 (December 15, 2010)
 
 \* Upgraded to
-[xUnit](http://localhost:8085/display/JENKINS/xUnit+Plugin) 1.13
+[xUnit](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) 1.13
 
 ## Release 0.9 (October 11, 2010)
 
 \* Upgraded to
-[xUnit](http://localhost:8085/display/JENKINS/xUnit+Plugin) 1.9
+[xUnit](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) 1.9
 
 ## Release 0.8 (September 07, 2010)
 
 \* Upgraded to
-[xUnit](http://localhost:8085/display/JENKINS/xUnit+Plugin) 1.8
+[xUnit](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) 1.8
 
 ## Release 0.7 (August 29, 2010)
 
 \* Upgraded its
-[xUnit](http://localhost:8085/display/JENKINS/xUnit+Plugin) dependency
+[xUnit](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) dependency
 to 0.7
 
 ## Release 0.6 (July 12, 2010)
 
 \* Upgraded to
-[xUnit](http://localhost:8085/display/JENKINS/xUnit+Plugin) 1.4
+[xUnit](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) 1.4
 
 ## Release 0.5 (July 12, 2010)
 
 \* Upgraded to
-[xUnit](http://localhost:8085/display/JENKINS/xUnit+Plugin) 1.3
+[xUnit](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) 1.3
 
 ## Release 0.4 (July 09, 2010)
 
 \* Upgraded to
-[xUnit](http://localhost:8085/display/JENKINS/xUnit+Plugin) 1.1
+[xUnit](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin) 1.1
 
 ## Release 0.3
 
@@ -94,7 +94,7 @@ to 0.7
 
 \* Added the support of AUnit XML results.  
 The plugin extends the [xUnit
-plugin](http://localhost:8085/display/JENKINS/xUnit+Plugin).
+plugin](https://wiki.jenkins.io/display/JENKINS/xUnit+Plugin).
 
 ## Release 0.1 (April 14, 2009)
 

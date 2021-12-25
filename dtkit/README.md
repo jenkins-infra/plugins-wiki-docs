@@ -4,10 +4,10 @@ execution into unified outputs.
 # Features
 
 The plugin provides the
-[DTKit](http://localhost:8085/display/JENKINS/DTKit) Jenkins
+[DTKit](https://wiki.jenkins.io/display/JENKINS/DTKit) Jenkins
 integration.  
 Look at the [DTKit
-Design](http://localhost:8085/display/JENKINS/DTKit+Design)
+Design](https://wiki.jenkins.io/display/JENKINS/DTKit+Design)
 
 # Changelog
 

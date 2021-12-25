@@ -3,7 +3,7 @@ file's format must be the standard [Java property file
 format](http://en.wikipedia.org/wiki/.properties).
 
 Superseded by the [EnvInject
-Plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin)?
+Plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin)?
 
 The property file is always retrieved from the file system of the
 Jenkins master node, even in distributed setups with slave nodes.

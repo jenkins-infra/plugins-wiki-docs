@@ -27,18 +27,18 @@ Current functionality of the Build Monitor plugin:
 2.  Displays the names of people who might be responsible for "breaking
     the build".
 3.  Supports the [Claim
-    plugin](http://localhost:8085/display/JENKINS/Claim+plugin), so that
+    plugin](https://wiki.jenkins.io/display/JENKINS/Claim+plugin), so that
     you can see who's fixing a broken build
 4.  Supports [View Job
-    Filters](http://localhost:8085/display/JENKINS/View+Job+Filters), so
+    Filters](https://wiki.jenkins.io/display/JENKINS/View+Job+Filters), so
     that you can easily create Build Monitors for "slow builds", "only
     failing", etc.
 5.  Supports [Build Failure
-    Analyzer](http://localhost:8085/display/JENKINS/Build+Failure+Analyzer),
+    Analyzer](https://wiki.jenkins.io/display/JENKINS/Build+Failure+Analyzer),
     so that you know not only *who*, but also *what* broke the build;
     more [here](http://bit.ly/JBMBuild102)
 6.  Supports [CloudBees Folders
-    Plugin](http://localhost:8085/display/JENKINS/CloudBees+Folders+Plugin),
+    Plugin](https://wiki.jenkins.io/display/JENKINS/CloudBees+Folders+Plugin),
     so that you can have project- and team-specific nested Build
     Monitors; more [here](http://bit.ly/JBMBuild117)
 7.  The number of columns and size of the font used is easily

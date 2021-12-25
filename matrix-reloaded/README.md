@@ -174,4 +174,4 @@ Jira](http://issues.jenkins-ci.org/secure/IssueNavigator.jspa?reset=true&jqlQuer
 ##### Version 1.0.0(2011-5-23) Initial release
 
 Design wiki: [Matrix Reloaded Plugin
-Design](http://localhost:8085/display/JENKINS/Matrix+Reloaded+Plugin+Design)
+Design](https://wiki.jenkins.io/display/JENKINS/Matrix+Reloaded+Plugin+Design)

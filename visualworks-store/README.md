@@ -103,7 +103,7 @@ Specify the following settings:
 
 Visualworks Smalltalk Store Plugin is designed to work with the
 [Multiple SCMs
-Plugin](http://localhost:8085/display/JENKINS/Multiple+SCMs+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Multiple+SCMs+Plugin).
  This is useful if you need to monitor more than one repository for the
 same build, or if you need to monitor both a Store repository and a git
 or Subversion repository.

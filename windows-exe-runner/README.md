@@ -29,7 +29,7 @@ This plug-in is used to run the Windows Exe.
 ##### Version 1.3 (11/01/2018)
 
 Supports [Token Macro
-Plugin](http://localhost:8085/display/JENKINS/Token+Macro+Plugin)
+Plugin](https://wiki.jenkins.io/display/JENKINS/Token+Macro+Plugin)
 
 Works with Pipeline
 

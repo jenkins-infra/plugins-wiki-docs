@@ -51,7 +51,7 @@ pattern such as the value '`yyyyMMddHHmmss`'.
 ### Release 3.1 (March 07, 2012)
 
 -   Make it compatible to [envinject jenkins
-    plugin](http://localhost:8085/display/JENKINS/EnvInject+Plugin)
+    plugin](https://wiki.jenkins.io/display/JENKINS/EnvInject+Plugin)
     (Remove `RunListener` and add an `EnvironmentContributor`).
 -   Fix
     [JENKINS-12694](https://issues.jenkins-ci.org/browse/JENKINS-12694) -

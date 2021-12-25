@@ -10,7 +10,7 @@ Extensible
 The DTKit architecture is extensible so that he end user can extend it
 with his own tools.  
 Have a look at the [DTKit
-Design](http://localhost:8085/display/JENKINS/DTKit+Design)
+Design](https://wiki.jenkins.io/display/JENKINS/DTKit+Design)
 
 JUnit
 
@@ -784,7 +784,7 @@ The supported type are the following values:
 DTKIT is an extensible solution and lets the users to add its own
 tools.  
 The new tools will be available in the [xUnit Hudson
-plugin](http://localhost:8085/display/JENKINS/DTKit#) (for xUnit tools)
+plugin](https://wiki.jenkins.io/display/JENKINS/DTKit#) (for xUnit tools)
 and in the TusarNotifier Hudson plugin (for all other metric tools)
 without a new version of these plugins.
 
@@ -797,10 +797,10 @@ Adding a new tool can be done in two ways:
 ## Making a new Plugin
 
 This is the case of the following plugin:
-[Gallio](http://localhost:8085/display/JENKINS/DTKit#),
-[Gnat](http://localhost:8085/display/JENKINS/DTKit#),
-[CppTest](http://localhost:8085/display/JENKINS/DTKit#),
-[CppUnit](http://localhost:8085/display/JENKINS/DTKit#).
+[Gallio](https://wiki.jenkins.io/display/JENKINS/DTKit#),
+[Gnat](https://wiki.jenkins.io/display/JENKINS/DTKit#),
+[CppTest](https://wiki.jenkins.io/display/JENKINS/DTKit#),
+[CppUnit](https://wiki.jenkins.io/display/JENKINS/DTKit#).
 
 These plugins are 'a plugin of a plugin', i.e a plugin that extends
 another plugin.

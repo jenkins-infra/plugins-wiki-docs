@@ -4,7 +4,7 @@
 
 This plugin extends the filtering abilities of the [Bitbucket Branch
 Source
-Plugin](http://localhost:8085/display/JENKINS/Bitbucket+Branch+Source+Plugin).
+Plugin](https://wiki.jenkins.io/display/JENKINS/Bitbucket+Branch+Source+Plugin).
 
 These filters will ignore pull requests if its title doesn't contain a
 single valid and open Jira ticket.

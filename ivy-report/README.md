@@ -3,7 +3,7 @@ for each build.
 
   
 This plugin depends on the [Ivy
-Plugin](http://localhost:8085/display/JENKINS/Ivy+Plugin) and requires a
+Plugin](https://wiki.jenkins.io/display/JENKINS/Ivy+Plugin) and requires a
 graphviz installation on the server.
 
 # Using the plugin
@@ -12,8 +12,8 @@ graphviz installation on the server.
     Configure the dot executable path in "Configure System"  
     ![](docs/images/dotConfig.png)
 2.  Create (using the [Ivy
-    Plugin](http://localhost:8085/display/JENKINS/Ivy+Plugin)
-    [\|\\](http://localhost:8085/display/JENKINS/Ivy+Report+Plugin)) or
+    Plugin](https://wiki.jenkins.io/display/JENKINS/Ivy+Plugin)
+    [\|\\](https://wiki.jenkins.io/display/JENKINS/Ivy+Report+Plugin)) or
     edit an ivy project   
     Check "Publish ivy dependency report", give the ivy configurations
     for which to generate the report and the resolve id (generally

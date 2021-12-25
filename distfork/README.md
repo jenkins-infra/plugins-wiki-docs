@@ -4,7 +4,7 @@ environment through an SSH-like CLI.
 
   
 This plugin adds a new command 'distfork' to [Jenkins
-CLI](http://localhost:8085/display/JENKINS/Jenkins+CLI), which can be
+CLI](https://wiki.jenkins.io/display/JENKINS/Jenkins+CLI), which can be
 used to execute arbitrary command on a slave of your choice. The
 distfork command is modeled after ssh, but it's Jenkins aware — for
 example, instead of hardcoding a machine name, you can specify a label

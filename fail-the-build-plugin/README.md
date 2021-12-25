@@ -1,9 +1,9 @@
-[Features](http://localhost:8085/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-features)  
-[Compatibility](http://localhost:8085/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-compatibility)  
-[Install](http://localhost:8085/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-install)  
-[Configure](http://localhost:8085/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-configuration)  
+[Features](https://wiki.jenkins.io/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-features)  
+[Compatibility](https://wiki.jenkins.io/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-compatibility)  
+[Install](https://wiki.jenkins.io/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-install)  
+[Configure](https://wiki.jenkins.io/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-configuration)  
 [Change
-log](http://localhost:8085/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-changelog)
+log](https://wiki.jenkins.io/display/JENKINS/Fail+The+Build+Plugin#FailTheBuildPlugin-changelog)
 
 # Features
 

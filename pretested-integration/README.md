@@ -337,7 +337,7 @@ In the end the merge result is verified and, if successful, pushed.
 We tried to gather some common errors and problems seen, together with
 some suggested solutions but not much have been contributed. See [Help
 and error
-messages](http://localhost:8085/display/JENKINS/Help+and+error+messages)
+messages](https://wiki.jenkins.io/display/JENKINS/Help+and+error+messages)
 
 # Scripted job examples
 

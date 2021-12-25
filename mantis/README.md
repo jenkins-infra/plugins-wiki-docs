@@ -81,7 +81,7 @@ If you have ran into trouble,
 3.  Update Mantis issue...
 4.  See System log. Check SOAP request and response.
 
-## [Use BASIC\_AUTH](http://localhost:8085/display/JENKINS/Use+BASIC_AUTH) (Workaround)
+## [Use BASIC\_AUTH](https://wiki.jenkins.io/display/JENKINS/Use+BASIC_AUTH) (Workaround)
 
 ## Tips
 

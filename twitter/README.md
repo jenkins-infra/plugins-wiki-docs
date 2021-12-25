@@ -21,7 +21,7 @@ After the plugin is installed you will need to get an OAuth token and
 token secret. These can be gotten by logging into Twitter as the user
 you want Hudson to tweet as and then download
 
-[auth-0.8.jar](http://localhost:8085/download/attachments/25591848/auth-0.8.jar?version=1&modificationDate=1404317428000&api=v2)
+[auth-0.8.jar](https://wiki.jenkins.io/download/attachments/25591848/auth-0.8.jar?version=1&modificationDate=1404317428000&api=v2)
 
 Then execute ***java -jar auth.jar***. This will give you a URL to
 authorize Hudson to tweet with this user account. Twitter will then give

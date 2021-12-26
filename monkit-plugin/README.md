@@ -7,8 +7,6 @@
 ![](docs/images/grundfos_logo.jpg){width="161"
 height="33"}
 
-![](http://www.novonordisk.dk/Images/apis.png)
-
 **The MonKit plugin is used to display charts of data delivered in XML
 compliant with**
 **[monkit.xsd](http://code.praqma.net/schemas/monkit/1.0.1/monkit.xsd).

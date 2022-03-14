@@ -80,7 +80,7 @@ Let’s create a standard Freestyle job in Jenkins.
 
 2\. Provide a name for your job.
 
-    Select **Freestyle project** on the screen and then click OK.
+   Select **Freestyle project** on the screen and then click OK.
 
   
 
@@ -109,7 +109,7 @@ configure GitHub plugin in global configuration).
 
 5\.  Optionally, you can set Build Triggers.
 
-Select the **Build Triggers** tab. Let’s just add a periodic trigger
+Select the **Build Triggers** tab. Let’s add a periodic trigger
 which triggers build every minute – every hour – every day (Schedule: \*
 \* \* \* \*).
 
@@ -169,7 +169,9 @@ what to enter in that particular field.
 
 *Release is mandatory if Cycle is mentioned.
 
-  
+**Robot Framework**
+
+Robot Framework result files can be of multiple hierarchy structures. The structure of these files depends upon the libraries that are used to generate the automation results.
 
 **Supported Fields**
 
@@ -442,7 +444,7 @@ parameters are added as shown below.
 
   
 
-![](docs/images/add_parameters.png)
+![](docs/images/Parameters_Added.png)
 
   
 
@@ -460,7 +462,7 @@ for the corresponding fields.
 
   
 
-![](docs/images/post_build_Pipeline.png)
+![](docs/images/add_parameters.png)
 
   
  

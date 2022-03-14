@@ -30,7 +30,7 @@ Read the following topics on this page:
 
   
 
-![](docs/images/image002.jpg){height="250"}
+![](docs/images/image002.jpg)
 
   
 
@@ -38,7 +38,7 @@ Read the following topics on this page:
 
   
 
-![](docs/images/image004.jpg){height="250"}
+![](docs/images/image004.jpg)
 
   
 
@@ -48,7 +48,7 @@ Read the following topics on this page:
 
   
 
-![](docs/images/3image006.jpg){height="250"}
+![](docs/images/3image006.jpg)
 
   
 
@@ -58,9 +58,9 @@ after restart**.
 
   
 
-![](docs/images/4image006.jpg){height="250"}
+![](docs/images/4image006.jpg)
 
-![](docs/images/5image008.jpg){height="250"}
+![](docs/images/5image008.jpg)
 
 # Configuring a Standard Jenkins job
 
@@ -73,10 +73,10 @@ You can configure Jenkins job through either of the following options:
 
 Let’s create a standard Freestyle job in Jenkins.
 
-1.  To create a new Jenkins job, click on the **New Item** option on the
+1\.  To create a new Jenkins job, click on the **New Item** option on the
     **Jenkins** menu.
 
-![](docs/images/New_item.png){height="250"}
+![](docs/images/New_item.png)
 
 2\. Provide a name for your job.
 
@@ -84,7 +84,7 @@ Let’s create a standard Freestyle job in Jenkins.
 
   
 
- ![](docs/images/Item_Name.png){height="250"}
+ ![](docs/images/Item_Name.png)
 
   
 
@@ -94,7 +94,7 @@ Triggers, Build, and Post build actions.
 
     
 
- ![](docs/images/General.png){height="250"}
+ ![](docs/images/General.png)
 
   
 
@@ -103,7 +103,7 @@ in which you have your source code. For example, here it is “Git”. So,
 select “Git” and provide the necessary information. (Note: You need to
 configure GitHub plugin in global configuration).
 
-![](docs/images/SCM.png){height="250"}
+![](docs/images/SCM.png)
 
   
 
@@ -113,7 +113,7 @@ Select the **Build Triggers** tab. Let’s just add a periodic trigger
 which triggers build every minute – every hour – every day (Schedule: \*
 \* \* \* \*).
 
-![](docs/images/Build_Triggers.png){height="250"}
+![](docs/images/Build_Triggers.png)
 
   
 
@@ -127,7 +127,7 @@ trigger a maven build and specify goals.
 
   
 
-![](docs/images/Build.png){height="250"}
+![](docs/images/Build.png)
 
   
 
@@ -163,11 +163,11 @@ what to enter in that particular field.
 
   
 
-**Parameters **
+**Parameters**
 
-[TABLE]
 
-**\* **Release is mandatory if Cycle is mentioned.
+
+**Release is mandatory if Cycle is mentioned.
 
   
 
@@ -192,109 +192,7 @@ what to enter in that particular field.
 
   
 
-Field
 
-Example
-
-Test Case
-
-Test Suite
-
-Notes
-
-"component"
-
-"component" : \["Label1, "Label2"\]
-
-Yes
-
-No
-
-Old values will persist and new value will get set e.g., L1 and L2 are
-set and L3 is assigned, then the updated values for component will be
-L1, L2 and L3.
-
-  
-
-"priority"
-
-"priority" : "Minor"
-
-Yes
-
-No
-
-As mentioned for Look Up and Multi Look Up lists above.
-
-"testCaseState"
-
-"testCaseState":"Open"
-
-Yes
-
-No
-
-"testCaseType"
-
-"testCaseType":"UI"
-
-Yes
-
-No
-
-"testcaseOwner"
-
-"testCaseType":"John"
-
-Yes
-
-No
-
-userAlias should be passed in request. Owner will not be set if the
-requested user is not found or the user doesn't have right for the Test
-Case module.
-
-"description"
-
-"description":"Sample Description."
-
-Yes
-
-Yes
-
-This will be set as requested.
-
-"estimatedTime"
-
-"estimatedTime":6
-
-Yes
-
-No
-
-This will be set as requested.
-
-"testSuiteState"
-
-"testSuiteState":"Open"
-
-No
-
-Yes
-
-A new Status value will be added if it does not exist in the project.
-
-"testsuiteOwner"
-
-"testsuiteOwner":"lizamathew"
-
-No
-
-Yes
-
-userAlias should be passed in request. Owner will not be set if the
-requested user is not found or the user doesn't have right for the Test
-Suite module.
 
   
 
@@ -302,7 +200,7 @@ Suite module.
 
 **User Defined Fields**
 
-[TABLE]
+
 
   
 
@@ -335,8 +233,7 @@ Suite module.
 }
 ```
 
-**Test Suite Fields with UDFs in JSON format  
-**
+**Test Suite Fields with UDFs in JSON format**
 
   
 
@@ -387,7 +284,7 @@ results.
 
   
 
-![](docs/images/JUnit_1_Jenkins.png){height="250"}
+![](docs/images/JUnit_1_Jenkins.png)
 
   
 
@@ -405,7 +302,7 @@ Let’s create a standard Pipeline job in Jenkins.
 
   
 
-![](https://wiki.jenkins.io/download/attachments/138448864/New%20item.png?version=2&modificationDate=1517909180000&api=v2){height="250"}
+![](https://wiki.jenkins.io/download/attachments/138448864/New%20item.png?version=2&modificationDate=1517909180000&api=v2)
 
   
 
@@ -415,7 +312,7 @@ Let’s create a standard Pipeline job in Jenkins.
 
   
 
-![](docs/images/Pipeline1.png){height="250"}
+![](docs/images/Pipeline1.png)
 
   
 
@@ -427,19 +324,19 @@ Options, and Pipeline.
 
     
 
-![](docs/images/General.png){height="250"}
+![](docs/images/General.png)
 
   
 
 4\.  Optionally, you can set Build Triggers.
 
-Select the **Build Triggers** tab. Let’s just add a periodic trigger
+Select the **Build Triggers** tab. Let’s add a periodic trigger
 which triggers build every minute – every hour – every day (Schedule: \*
 \* \* \* \*).
 
   
 
-![](docs/images/Build_Triggers.png){height="250"}
+![](docs/images/Build_Triggers.png)
 
   
 
@@ -491,15 +388,15 @@ Syntax of *automationFramework*:
 -   JUNIT
 -   QAS
 -   HPUFT
+-   ROBOT
 
   
 
-![](docs/images/Pipeline_Script.png){height="250"}
+![](docs/images/Pipeline_Script.png)
 
   
 
-**Parameters  
-**
+**Parameters**
 
 Refer to the **Parameters section** for **Freestyle Project** above.
 
@@ -510,7 +407,7 @@ output. It displays success message for uploading the result file.
 
   
 
-![](docs/images/Pipeline_Console.png){height="250"}
+![](docs/images/Pipeline_Console.png)
 
   
 
@@ -519,7 +416,7 @@ results.
 
   
 
-![](docs/images/JUnit_1_Jenkins.png){height="250"}
+![](docs/images/JUnit_1_Jenkins.png)
 
 ## Define Parameters
 
@@ -531,7 +428,7 @@ types. Use the drop-down button to add as many parameters as you need.
 
   
 
- ![](docs/images/Parameterized_check_box.png){height="250"}
+ ![](docs/images/Parameterized_check_box.png)
 
   
 
@@ -545,7 +442,7 @@ parameters are added as shown below.
 
   
 
-![](docs/images/Parameters_Added.png){height="250"}
+![](docs/images/Parameters_Added.png)
 
   
 
@@ -572,7 +469,7 @@ The values can also be changed before triggering the Jenkins build.
 
   
 
- ![](docs/images/Build_with_Parameters.png){height="250"}
+ ![](docs/images/Build_with_Parameters.png)
 
   
 
@@ -626,11 +523,11 @@ open Report File as path given in Console
     vstest.console.exe files in Manage Jenkins \> Global Tool
     Configuration
 
-![](docs/images/Step-2.jpg){height="244"}
+![](docs/images/Step-2.jpg)
 
   
 
-![](docs/images/Step-1.jpg){height="244"}  
+![](docs/images/Step-1.jpg)
 
   
 
@@ -643,7 +540,7 @@ project or solution using MSBuild
 
   
 
-**![](docs/images/Step_1.jpg){height="217"}  
+**![](docs/images/Step_1.jpg) 
 **
 
   
@@ -655,12 +552,12 @@ file
     Configuration
 -   Specify the relative path for solution file in "MSBuild Build File"
 
-![](docs/images/Step_2.jpg){height="250"}  
+![](docs/images/Step_2.jpg)  
 
 **Step 3 :** Select a build step for VSTest in Build Section -  Run unit
 tests with VSTest console
 
-![](docs/images/Step_3.jpg){height="244"}
+![](docs/images/Step_3.jpg)
 
   
 
@@ -669,7 +566,7 @@ tests with VSTest console
 -   Specify the relative path to your VSTest compiled assemblies in
     "Test Files"
 
-![](docs/images/Step_4.jpg){height="400"}  
+![](docs/images/Step_4.jpg)  
 
 **Step 4 :** In post build action setup QMetry Test Management plugin
 
@@ -684,5 +581,3 @@ tests with VSTest console
 [QMetry Privacy Policy](https://www.qmetry.com/privacy-policy/)
 
   
-
-Automation API URL

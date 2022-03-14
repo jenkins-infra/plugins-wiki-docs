@@ -157,7 +157,7 @@ what to enter in that particular field.
 
   
 
-![](docs/images/Post_Build.png)
+![](docs/images/Qmetry_configuration.png)
 
   
 
@@ -167,7 +167,7 @@ what to enter in that particular field.
 
 
 
-**Release is mandatory if Cycle is mentioned.
+*Release is mandatory if Cycle is mentioned.
 
   
 
@@ -277,7 +277,7 @@ scenario.
 3\. On successful completion of the process, you can see the console
 output. It displays success message for uploading the result file.
 
-![](docs/images/jenkins-plugin-web-console-output.png)
+![](docs/images/console_output.png)
 
 4\. Finally check test execution page in QMetry and review your test run
 results.
@@ -302,13 +302,13 @@ Let’s create a standard Pipeline job in Jenkins.
 
   
 
-![](https://wiki.jenkins.io/download/attachments/138448864/New%20item.png?version=2&modificationDate=1517909180000&api=v2)
+![](docs/images/pipeline_newItem.png)
 
   
 
 2\. Provide a name for your job.
 
-    Select **Pipeline** on the screen and then click OK.
+   Select **Pipeline** on the screen and then click OK.
 
   
 
@@ -367,10 +367,10 @@ result and upload test results into QMetry Test Management.
 
 ``` syntaxhighlighter-pre
 stage('Upload Result to QTM'){
-       step([$class: 'QTMReportPublisher', disableaction:false, qtmUrl: 'https://newuiqa.qmetry.com/', automationFramework: 'JUNIT', automationHierarchy: '2', testResultFilePath: '/cucumber', qtmAutomationApiKey: '4FR2Oo1g42vUnb5NtDgi3JIjzrFOvUUV8QJBk38D', project : '7242', release: 'Release 1', cycle: 'Cycle 1', buildName: 'testBuild1', platformName: 'Jenkins', testSName: 'junit pipeline', proxyUrl:'', testSuiteName: 'TC2-TS-116'     
+       step([$class: 'QTMReportPublisher', disableaction:false, qtmUrl: 'https://newuiqa.qmetry.com/', automationFramework: 'JUNIT', automationHierarchy: '2', testResultFilePath: '/cucumber', qtmAutomationApiKey: '4FR2Oo1g42vUnb5NtDgi3JIjzrFOvUUV8QJBk38D', project : '7242', release: 'Release 1', cycle: 'Cycle 1', buildName: 'testBuild1', platformName: 'Jenkins', testSName: 'junit pipeline', proxyUrl:'', testSuiteName: 'TC2-TS-116', tsFolderPath: 'Fitness Tracker\Track1',    
        testcaseFields: '{"description":"Automated Test case", "testCaseType":"Automated", "testCaseState":"Open", "component":["UI"], "priority":"Blocker", "testcaseOwner":"liza.mathew", "estimatedTime":"143", "userDefinedFields" : {"Integrate" : "Custom Field Testcase"}}',
-       testsuiteFields: '{"description":"Automated Test suite", "testsuiteOwner": "liza.mathew", "testSuiteState": "New", "userDefinedFields": {"Integrate" : "Custom Field Testsuite"}}'
-       ])     
+       testsuiteFields: '{"description":"Automated Test suite", "testsuiteOwner": "liza.mathew", "testSuiteState": "New", "userDefinedFields": {"Integrate" : "Custom Field Testsuite"}}', skipWarning: '0', isMatchingRequired: '1'
+       ])
     }   
 ```
 
@@ -407,7 +407,7 @@ output. It displays success message for uploading the result file.
 
   
 
-![](docs/images/Pipeline_Console.png)
+![](docs/images/pipeline_console.png)
 
   
 
@@ -442,7 +442,7 @@ parameters are added as shown below.
 
   
 
-![](docs/images/Parameters_Added.png)
+![](docs/images/add_parameters.png)
 
   
 

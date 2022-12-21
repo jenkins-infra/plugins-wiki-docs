@@ -1,6 +1,14 @@
+# Unleash plugin - **Deprecated**
+
 This is a Jenkins Build Wrapper for Maven Jobs. It enables you to
 perform Maven releases using the
 [unleash-maven-plugin](https://github.com/shillner/unleash-maven-plugin).
+
+# **DEPRECATED**
+
+**This plugin is deprecated.**
+The [Apache Maven unleash plugin](https://github.com/shillner/unleash-maven-plugin) is no longer being developed.
+Users should move to other maven release processes, like the [Apache Maven release plugin](https://maven.apache.org/guides/mini/guide-releasing.html).
 
 # How To Use The Plugin?
 

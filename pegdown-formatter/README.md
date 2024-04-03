@@ -1,12 +1,10 @@
+# Pegdown formatter plugin - Deprecated
 
-[Features](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-features)  
-[Compatibility](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-compatibility)  
-[Install](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-install)  
-[Configure](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-configuration)  
-[Change
-log](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFormatterPlugin-changelog)
+This plugin is deprecated. It has not been released in over 12 years. It has a known [security vulnerability](https://jenkins.io/security/advisory/2019-08-07/#SECURITY-142).
 
-# Features
+Instead use the [**Markdown formatter plugin**](https://plugins.jenkins.io/markdown-formatter/).
+
+## Features
 
 -   Use [PegDown](https://github.com/sirthias/pegdown) to format
     [Markdown](http://daringfireball.net/projects/markdown/basics)
@@ -15,11 +13,11 @@ log](https://wiki.jenkins.io/display/JENKINS/PegDown+Formatter+Plugin#PegDownFor
 -   Disable HTML to prevent XSS
 -   Enable/ disable all of the PegDown extensions
 
-# Compatibility
+## Compatibility
 
 This plugin is compatible with any version of **Jenkins** (1.396+)
 
-# Install
+## Install
 
 This plugin can be installed from the Plugin Manager (Manage Jenkins \>
 Manage Plugins) under "User Interface".
@@ -28,7 +26,7 @@ To install manually, download the latest plugin from
 <http://mirrors.jenkins-ci.org/plugins/pegdown-formatter/> and use the
 Upload Plugin option in the Advanced tab of the Plugin Manager.
 
-# Configure
+## Configure
 
 In Manage Jenkins -\> Configure Global Security, select "Enable
 security".  
@@ -68,7 +66,7 @@ which can be enabled/disabled individually.
 See the [PegDown GitHub page](https://github.com/sirthias/pegdown) for
 details of these extensions.
 
-# Change log
+## Change log
 
 #### 1.3 (09/04/2012)
 

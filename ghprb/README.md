@@ -1,7 +1,12 @@
-You should probably migrate to [GitHub Branch Source
-Plugin](https://wiki.jenkins.io/display/JENKINS/GitHub+Branch+Source+Plugin)
+# GitHub Pull Request Builder
 
-This plugin builds pull requests in github and report results.
+This plugin builds GitHub pull requests and reports results.
+
+## Deprecated
+
+This plugin is **deprecated**. It has been replaced by the [GitHub Branch Source Plugin](https://plugins.jenkins.io/github-branch-source/). It has known security vulnerabilities and is no longer being maintained. Users should migrate to the [GitHub Branch Source Plugin](https://plugins.jenkins.io/github-branch-source/).
+
+## Deprecated
 
 More **up to date** information is available on the:  
 [Github
